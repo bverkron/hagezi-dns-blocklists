@@ -23,7 +23,6 @@
 (\.|^)adtidy\.org$
 (\.|^)aerisapi\.com$
 (\.|^)aimon\.applicationinsights\.io$
-(\.|^)aiv\-cdn\.net$
 (\.|^)aiv\-cdn\.net\.c\.footprint\.net$
 (\.|^)akagtm\.org$
 (\.|^)akahost\.net$
@@ -194,6 +193,7 @@
 (\.|^)gateway\.icloud\.com$
 (\.|^)gc\.apple\.com$
 (\.|^)gc\.fe\.apple\-dns\.net$
+(\.|^)gem2go\.page$
 (\.|^)geocomply\.com$
 (\.|^)geo\.ngtv\.io$
 (\.|^)geotrust\.com$
@@ -442,7 +442,6 @@
 ^videoarch\-.*\.byteoversea\.net$
 (\.|^)videoland\.com$
 ^video.*\.onnetwork\.tv$
-(\.|^)videorolls\.row\.aiv\-cdn\.net$
 ^video\-.*\.tiktok.*\.com$
 (\.|^)vortex.*\.data\.microsoft\.com$
 (\.|^)vortex\.data\.trafficmanager\.net$
