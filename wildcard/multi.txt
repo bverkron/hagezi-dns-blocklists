@@ -12513,9 +12513,6 @@
 *.aitrades.com
 *.aitsatho.com
 *.ads.aitype.net
-*.api.eu-west-1.aiv-delivery.net
-*.api.us-east-1.aiv-delivery.net
-*.api.us-west-2.aiv-delivery.net
 *.aivalabs.com
 *.get.aivatar.co
 *.a8cv.online.aivil.jp

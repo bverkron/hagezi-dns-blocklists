@@ -4548,9 +4548,6 @@
 *.aiswholesale.com
 *.aitmovie.com
 *.aitsatho.com
-*.api.eu-west-1.aiv-delivery.net
-*.api.us-east-1.aiv-delivery.net
-*.api.us-west-2.aiv-delivery.net
 *.aivalabs.com
 *.aivoonsa.xyz
 *.aixcdn.com
