@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 27 Dec 2023 23:20 UTC
-# Version: 2023.1227.2320.29
+# Last modified: 28 Dec 2023 23:13 UTC
+# Version: 2023.1228.2313.18
 # Syntax: Domains (without subdomains)
-# Number of entries: 159102
+# Number of entries: 159106
 #
 0-bet.com
 000000.com
@@ -99258,6 +99258,7 @@ casino-mega.com
 casino-navigator3.online
 casino-navigator4.online
 casino-navigator6.online
+casino-on-line.com
 casino-on-net.com
 casino-online-on-line.com
 casino-pariswin.com
@@ -100984,6 +100985,7 @@ compras00.com
 comprasang.com
 compsres.com
 confirmcasino.com
+conggamehot.fun
 connectpay88.com
 cons-suph.com
 consdesk.com
@@ -103324,6 +103326,7 @@ dns9679.com
 dnsnb8.com
 dnync.com
 do1ar2d56.com
+do99.pro
 do99.site
 dobet.com
 doc-cdn.docb18a2.com
@@ -142280,6 +142283,7 @@ taibum.tv
 taibumclub.net
 taichoang.fun
 taido99.net
+taido99.online
 taido99.win
 taifunthai.com
 taigame789.club
