@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Dec 2023 23:39 UTC
-# Version: 2023.1227.2339.17
+# Last modified: 28 Dec 2023 23:32 UTC
+# Version: 2023.1228.2332.06
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 14271
+# Number of entries: 14270
 #
 *.11trikots.com
 *.12-suchen.de
@@ -5906,7 +5906,6 @@
 *.hybazzar.com
 *.hybridfahrrader.com
 *.hydrationoutdoor.com
-*.hydrip.de
 *.hydrogearworld.com
 *.hymakredit.com
 *.shop.hyper-tech.co
