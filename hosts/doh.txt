@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 27 Dec 2023 23:11 UTC
-# Version: 2023.1227.2311.26
+# Last modified: 28 Dec 2023 23:06 UTC
+# Version: 2023.1228.2306.35
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 979
+# Number of entries: 980
 #
 0.0.0.0 ns.00dani.me
 0.0.0.0 cdn.0ms.dev
@@ -234,6 +234,7 @@
 0.0.0.0 dns.spil.co.id
 0.0.0.0 jpdns.cola16.app
 0.0.0.0 dns.colorfreedom.org
+0.0.0.0 dns.7sec.com.br
 0.0.0.0 dns.ceai.com.tw
 0.0.0.0 adguard.gbrossi.com.br
 0.0.0.0 dns.joaofidelix.com.br

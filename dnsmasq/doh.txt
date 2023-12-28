@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 27 Dec 2023 23:11 UTC
-# Version: 2023.1227.2311.26
+# Last modified: 28 Dec 2023 23:06 UTC
+# Version: 2023.1228.2306.35
 # Syntax: DNSMasq
-# Number of entries: 838
+# Number of entries: 839
 #
 address=/ns.00dani.me/#
 address=/cdn.0ms.dev/#
@@ -180,6 +180,7 @@ address=/sbdns.co.in/#
 address=/dns.spil.co.id/#
 address=/jpdns.cola16.app/#
 address=/dns.colorfreedom.org/#
+address=/dns.7sec.com.br/#
 address=/dns.ceai.com.tw/#
 address=/adguard.gbrossi.com.br/#
 address=/dns.joaofidelix.com.br/#
