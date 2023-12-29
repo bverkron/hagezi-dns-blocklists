@@ -4,6 +4,7 @@
 https://abpvn.com/android/abpvn.txt
 https://adblock.ee/list.php
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+https://azorult-tracker.net/api/list/domain?format=plain
 https://cert-agid.gov.it/download/log4shell-iocs-raw-domain.txt
 https://dl.red.flag.domains/red.flag.domains.txt
 https://easylist-downloads.adblockplus.org/advblock.txt
