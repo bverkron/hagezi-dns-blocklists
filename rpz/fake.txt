@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1703806320 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1703892540 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Dec 2023 23:32 UTC
-; Version: 2023.1228.2332.06
+; Last modified: 29 Dec 2023 23:29 UTC
+; Version: 2023.1229.2329.15
 ; Syntax: RPZ
-; Number of entries: 28540
+; Number of entries: 28542
 ;
 markt.agency CNAME .
 *.markt.agency CNAME .
@@ -5630,6 +5630,8 @@ europatradecapital.com CNAME .
 *.europatradecapital.com CNAME .
 europe-electro-shop.com CNAME .
 *.europe-electro-shop.com CNAME .
+bmw.europe-moto.com CNAME .
+*.bmw.europe-moto.com CNAME .
 europe-solarstore.com CNAME .
 *.europe-solarstore.com CNAME .
 europeangeneric.com CNAME .
