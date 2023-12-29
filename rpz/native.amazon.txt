@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1703719500 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1703891700 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Amazon Tracker DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 27 Dec 2023 23:25 UTC
-; Version: 2023.1227.2325.14
+; Last modified: 29 Dec 2023 23:15 UTC
+; Version: 2023.1229.2315.17
 ; Syntax: RPZ
-; Number of entries: 366
+; Number of entries: 370
 ;
 advertising.amazon.ae CNAME .
 *.advertising.amazon.ae CNAME .
@@ -328,6 +328,10 @@ fls-na.amazon.com.mx CNAME .
 *.fls-na.amazon.com.mx CNAME .
 unagi.amazon.com.mx CNAME .
 *.unagi.amazon.com.mx CNAME .
+s3-dub-ww.cf.videorolls.row.aiv-cdn.net CNAME .
+*.s3-dub-ww.cf.videorolls.row.aiv-cdn.net CNAME .
+s3-iad-ww.cf.videorolls.row.aiv-cdn.net CNAME .
+*.s3-iad-ww.cf.videorolls.row.aiv-cdn.net CNAME .
 api.eu-west-1.aiv-delivery.net CNAME .
 *.api.eu-west-1.aiv-delivery.net CNAME .
 api.us-east-1.aiv-delivery.net CNAME .

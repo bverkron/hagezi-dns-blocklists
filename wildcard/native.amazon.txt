@@ -3,16 +3,18 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 27 Dec 2023 23:25 UTC
-# Version: 2023.1227.2325.14
+# Last modified: 29 Dec 2023 23:15 UTC
+# Version: 2023.1229.2315.17
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 183
+# Number of entries: 185
 #
 *.bugsnag.appstore.a2z.com
 *.minerva.devices.a2z.com
 *.forester.a2z.com
 *.new-telemetry.insights.video.a2z.com
 *.telemetry.insights.video.a2z.com
+*.s3-dub-ww.cf.videorolls.row.aiv-cdn.net
+*.s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 *.api.eu-west-1.aiv-delivery.net
 *.api.us-east-1.aiv-delivery.net
 *.api.us-west-2.aiv-delivery.net
