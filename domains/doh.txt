@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 28 Dec 2023 23:06 UTC
-# Version: 2023.1228.2306.35
+# Last modified: 30 Dec 2023 23:30 UTC
+# Version: 2023.1230.2330.49
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 980
+# Number of entries: 981
 #
 ns.00dani.me
 cdn.0ms.dev
@@ -216,6 +216,7 @@ dns64.cloudflare-dns.com
 family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 odoh.cloudflare-dns.com
+opera.cloudflare-dns.com
 security.cloudflare-dns.com
 tor.cloudflare-dns.com
 cloudflare-gateway.com
