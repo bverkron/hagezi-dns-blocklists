@@ -368,6 +368,7 @@
 ^sf.*\.market\.xiaomi\.com$
 (\.|^)share\.microsoft\.com$
 (\.|^)share\.yandex\.ru$
+(\.|^)shayujizhang\.com$
 (\.|^)sheerid\.com$
 (\.|^)sheerid\.net$
 (\.|^)silknet\.com$
