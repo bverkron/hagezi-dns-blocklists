@@ -7,8 +7,8 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 28 Dec 2023 22:09 UTC
-! Version: 2023.1228.2209.20
+! Last modified: 31 Dec 2023 22:08 UTC
+! Version: 2023.1231.2208.45
 ! Syntax: uBlock
 !
 ||agency^$doc,domain=~battlefield.agency|~baam.agency|~robotzebra.agency|~uphotel.agency|~ws.agency
@@ -40,7 +40,7 @@
 ||guru^$doc,domain=~crontab.guru|~jav.guru|~webcal.guru
 ||hair^$doc
 ||haus^$doc
-||life^$doc,domain=~digitalcitizen.life|~stepone.life|~circles.life|~loveinfaith.life|~akamaicdn.life
+||life^$doc,domain=~digitalcitizen.life|~stepone.life|~circles.life|~loveinfaith.life|~akamaicdn.life|~iboost.life
 ||loan^$doc
 ||loans^$doc
 ||makeup^$doc
@@ -61,7 +61,7 @@
 ||rodeo^$doc,domain=~raypeat.rodeo
 ||sbs^$doc
 ||skin^$doc
-||space^$doc,domain=~searx.space|~ippen.space|~httpjames.space|~chayns-static.space|~tsimg.space|~hullseals.space|~carstens.space
+||space^$doc,domain=~searx.space|~ippen.space|~httpjames.space|~chayns-static.space|~tsimg.space|~hullseals.space|~carstens.space|~pod.space
 ||support^$doc
 ||surf^$doc,domain=~bloom.surf|~fedi.surf|~glowing.surf|~kayaking.surf|~nic.surf|~quran.surf|~s-wings.surf|~surfstation.surf
 ||tattoo^$doc
