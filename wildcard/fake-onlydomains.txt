@@ -3,8 +3,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Dec 2023 23:29 UTC
-# Version: 2023.1229.2329.15
+# Last modified: 30 Dec 2023 23:56 UTC
+# Version: 2023.1230.2356.38
 # Syntax: Domains (without subdomains)
 # Number of entries: 14271
 #
@@ -5907,6 +5907,7 @@ hvsolpkemieste.de
 hybazzar.com
 hybridfahrrader.com
 hydrationoutdoor.com
+hydrip.de
 hydrogearworld.com
 hymakredit.com
 shop.hyper-tech.co
@@ -13453,7 +13454,6 @@ venuefashion.com
 veonaskincare.com
 vera-mode.com
 veralo.de
-veramodehaus.de
 veramundo.net
 verenabunte.com
 verios-gaming.de
