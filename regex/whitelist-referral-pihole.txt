@@ -335,6 +335,7 @@
 (\.|^)track\.smtp2go\.net$
 (\.|^)track.*\.webgains\.team$
 (\.|^)trk\.ecomm\.lenovo\.com$
+(\.|^)trk\.specialized\.com$
 (\.|^)t\.sidekickopen.*\.com$
 (\.|^)ue\.flipboard\.com$
 (\.|^)ulink\.adjust\.com$

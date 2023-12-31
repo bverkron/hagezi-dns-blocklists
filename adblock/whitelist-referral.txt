@@ -354,3 +354,4 @@
 @@||clck.yandex.ru^
 @@||redirect.appmetrica.yandex.*^
 @@||click.zoom.us^
+@@||trk.specialized.com^
