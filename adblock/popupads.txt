@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 31 Dec 2023 18:26 UTC
-! Version: 2023.1231.1826.49
+! Last modified: 31 Dec 2023 22:31 UTC
+! Version: 2023.1231.2231.39
 ! Syntax: AdBlock
-! Number of entries: 77032
+! Number of entries: 77049
 !
 ||0.beer^
 ||0.club^
@@ -11967,6 +11967,7 @@
 ||attendancereporterwren.com^
 ||attendantsammunitiondeliquencydeliquency.com^
 ||attendantsrescuediscrepancy.com^
+||attendedconnectionunique.com^
 ||attendingpets.com^
 ||attendingtarget.com^
 ||attentioniau.com^
@@ -13771,6 +13772,7 @@
 ||belousek.net^
 ||beloved-ideal.pro^
 ||belovedfrolic.com^
+||belovedly.space^
 ||belovedscalp.com^
 ||beloveupcreep.com^
 ||belprofidog.com^
@@ -21833,6 +21835,7 @@
 ||cqngirxstgeeg.com^
 ||cqrvwq.com^
 ||cqwajn.com^
+||cqwmeu.com^
 ||cqxtivmquu.com^
 ||cqyptyvh.com^
 ||cr-brands.net^
@@ -24054,6 +24057,7 @@
 ||dgmatix.com^
 ||dgmaustralia.com^
 ||dgpcdn.org^
+||dgvofecsvsu.com^
 ||dgxlbhr.com^
 ||dgxmvglp.com^
 ||dh0003.com^
@@ -32447,6 +32451,7 @@
 ||gms.gi^
 ||gms-play-casino.cfd^
 ||gmshint.com^
+||gmsigk.com^
 ||gmsolutionsec.com^
 ||gmssouth.com^
 ||gmvfggqes.com^
@@ -35766,6 +35771,7 @@
 ||housingamen.com^
 ||houstonprime-athletics.com^
 ||houstonprimeathletics.com^
+||houtouchekan.space^
 ||houwheesi.com^
 ||hoverr.co^
 ||hoverr.media^
@@ -38485,6 +38491,7 @@
 ||iwkikhtx.xyz^
 ||iwouhoft.com^
 ||iwpswvi.com^
+||iwsgoq.com^
 ||iwuh.org^
 ||iwwiv.com^
 ||iwxzizcw.com^
@@ -40162,6 +40169,7 @@
 ||kchols.com^
 ||kckbsggfs.com^
 ||kckntb.com^
+||kcmoeowy.com^
 ||kcmouxfnha.com^
 ||kcmudtothpyu.com^
 ||kconvacvaccine.online^
@@ -42617,6 +42625,7 @@
 ||lirateblister.com^
 ||lirotroodles.com^
 ||lisawilliams.life^
+||lisolkw.com^
 ||lispaircraftcraziness.com^
 ||lispnegligent.com^
 ||lispsjollies.life^
@@ -46914,6 +46923,7 @@
 ||munshiwauks.space^
 ||munsterduke.com^
 ||muntucvawmm.com^
+||muoasiqceu.com^
 ||mupwj.org^
 ||muqczobpmjyd.com^
 ||muqoxfnwyz.com^
@@ -47007,6 +47017,7 @@
 ||muwootch.com^
 ||muyoozrkkyr.com^
 ||muzarabeponym.website^
+||muzhiketta.guru^
 ||muzmino.ru^
 ||muztron.com^
 ||muzzlematrix.com^
@@ -48687,6 +48698,7 @@
 ||nkredir.com^
 ||nkroeqnmekfj04gfe.com^
 ||nkubg.yt^
+||nkuvukn.com^
 ||nkwintenc.biz^
 ||nl-at778.pro^
 ||nl-de998.pro^
@@ -48948,6 +48960,7 @@
 ||nossairt.net^
 ||nosselaune.space^
 ||nostalgiafest25.com^
+||nostfazpsqh.com^
 ||nostocsfermery.life^
 ||nostormidentification.com^
 ||nostrgo.com^
@@ -66303,6 +66316,7 @@
 ||dc.teazledbyes.com^
 ||teazlestddmp.store^
 ||tebadu.com^
+||tebeveck.xyz^
 ||tecacivie.uno^
 ||tecaxe.com^
 ||tech-hunt.org^
@@ -68110,6 +68124,7 @@
 ||tmxhub.com^
 ||tmxwebstoretest.com^
 ||tmyzer.com^
+||tn69abi.com^
 ||tnbuildersalliance.com^
 ||tncred.com^
 ||tnctrx.com^
@@ -73422,6 +73437,7 @@
 ||websiteyh45.com^
 ||webslot.xyz^
 ||webstatisticspro.net^
+||websteroidsapp.com^
 ||webstore.promo^
 ||websunny.tech^
 ||webswpos.com^
@@ -75849,6 +75865,7 @@
 ||yiport.com^
 ||yishou.pro^
 ||yitaitqwrcky.com^
+||yiueemei.com^
 ||yivcgddmoevv.com^
 ||yiwangyijiang.com^
 ||yixingjiabbs.com^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1704047160 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1704061860 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 31 Dec 2023 18:26 UTC
-; Version: 2023.1231.1826.49
+; Last modified: 31 Dec 2023 22:31 UTC
+; Version: 2023.1231.2231.39
 ; Syntax: RPZ
-; Number of entries: 154064
+; Number of entries: 154098
 ;
 delhiboard.ac CNAME .
 *.delhiboard.ac CNAME .
@@ -21402,6 +21402,8 @@ attendantsammunitiondeliquencydeliquency.com CNAME .
 *.attendantsammunitiondeliquencydeliquency.com CNAME .
 attendantsrescuediscrepancy.com CNAME .
 *.attendantsrescuediscrepancy.com CNAME .
+attendedconnectionunique.com CNAME .
+*.attendedconnectionunique.com CNAME .
 attendingpets.com CNAME .
 *.attendingpets.com CNAME .
 attendingtarget.com CNAME .
@@ -32954,6 +32956,8 @@ cqrvwq.com CNAME .
 *.cqrvwq.com CNAME .
 cqwajn.com CNAME .
 *.cqwajn.com CNAME .
+cqwmeu.com CNAME .
+*.cqwmeu.com CNAME .
 cqxtivmquu.com CNAME .
 *.cqxtivmquu.com CNAME .
 cqyptyvh.com CNAME .
@@ -35834,6 +35838,8 @@ dgmatix.com CNAME .
 *.dgmatix.com CNAME .
 dgmaustralia.com CNAME .
 *.dgmaustralia.com CNAME .
+dgvofecsvsu.com CNAME .
+*.dgvofecsvsu.com CNAME .
 dgxlbhr.com CNAME .
 *.dgxlbhr.com CNAME .
 dgxmvglp.com CNAME .
@@ -46790,6 +46796,8 @@ gmlebdifvxzzl.com CNAME .
 *.gmlebdifvxzzl.com CNAME .
 gmshint.com CNAME .
 *.gmshint.com CNAME .
+gmsigk.com CNAME .
+*.gmsigk.com CNAME .
 gmsolutionsec.com CNAME .
 *.gmsolutionsec.com CNAME .
 gmssouth.com CNAME .
@@ -54378,6 +54386,8 @@ iwouhoft.com CNAME .
 *.iwouhoft.com CNAME .
 iwpswvi.com CNAME .
 *.iwpswvi.com CNAME .
+iwsgoq.com CNAME .
+*.iwsgoq.com CNAME .
 iwwiv.com CNAME .
 *.iwwiv.com CNAME .
 iwxzizcw.com CNAME .
@@ -56460,6 +56470,8 @@ kckbsggfs.com CNAME .
 *.kckbsggfs.com CNAME .
 kckntb.com CNAME .
 *.kckntb.com CNAME .
+kcmoeowy.com CNAME .
+*.kcmoeowy.com CNAME .
 kcmouxfnha.com CNAME .
 *.kcmouxfnha.com CNAME .
 kcmudtothpyu.com CNAME .
@@ -59478,6 +59490,8 @@ lirateblister.com CNAME .
 *.lirateblister.com CNAME .
 lirotroodles.com CNAME .
 *.lirotroodles.com CNAME .
+lisolkw.com CNAME .
+*.lisolkw.com CNAME .
 lispaircraftcraziness.com CNAME .
 *.lispaircraftcraziness.com CNAME .
 lispnegligent.com CNAME .
@@ -64864,6 +64878,8 @@ munsterduke.com CNAME .
 *.munsterduke.com CNAME .
 muntucvawmm.com CNAME .
 *.muntucvawmm.com CNAME .
+muoasiqceu.com CNAME .
+*.muoasiqceu.com CNAME .
 muqczobpmjyd.com CNAME .
 *.muqczobpmjyd.com CNAME .
 muqoxfnwyz.com CNAME .
@@ -66962,6 +66978,8 @@ nkredir.com CNAME .
 *.nkredir.com CNAME .
 nkroeqnmekfj04gfe.com CNAME .
 *.nkroeqnmekfj04gfe.com CNAME .
+nkuvukn.com CNAME .
+*.nkuvukn.com CNAME .
 nld0jsg9s9p8.com CNAME .
 *.nld0jsg9s9p8.com CNAME .
 nljminvestments.com CNAME .
@@ -67290,6 +67308,8 @@ nosmasitc.com CNAME .
 *.nosmasitc.com CNAME .
 nostalgiafest25.com CNAME .
 *.nostalgiafest25.com CNAME .
+nostfazpsqh.com CNAME .
+*.nostfazpsqh.com CNAME .
 nostormidentification.com CNAME .
 *.nostormidentification.com CNAME .
 nostrgo.com CNAME .
@@ -91728,6 +91748,8 @@ tmxwebstoretest.com CNAME .
 *.tmxwebstoretest.com CNAME .
 tmyzer.com CNAME .
 *.tmyzer.com CNAME .
+tn69abi.com CNAME .
+*.tn69abi.com CNAME .
 tnbuildersalliance.com CNAME .
 *.tnbuildersalliance.com CNAME .
 tncred.com CNAME .
@@ -98624,6 +98646,8 @@ websitespare.com CNAME .
 *.websitespare.com CNAME .
 websiteyh45.com CNAME .
 *.websiteyh45.com CNAME .
+websteroidsapp.com CNAME .
+*.websteroidsapp.com CNAME .
 webswpos.com CNAME .
 *.webswpos.com CNAME .
 webteensyusa.com CNAME .
@@ -101938,6 +101962,8 @@ yiport.com CNAME .
 *.yiport.com CNAME .
 yitaitqwrcky.com CNAME .
 *.yitaitqwrcky.com CNAME .
+yiueemei.com CNAME .
+*.yiueemei.com CNAME .
 yivcgddmoevv.com CNAME .
 *.yivcgddmoevv.com CNAME .
 yiwangyijiang.com CNAME .
@@ -107514,6 +107540,8 @@ mummersiguanid.guru CNAME .
 *.mummersiguanid.guru CNAME .
 muslinsgomart.guru CNAME .
 *.muslinsgomart.guru CNAME .
+muzhiketta.guru CNAME .
+*.muzhiketta.guru CNAME .
 myrtcensors.guru CNAME .
 *.myrtcensors.guru CNAME .
 nappietuckner.guru CNAME .
@@ -136642,6 +136670,8 @@ beggingoppida.space CNAME .
 *.beggingoppida.space CNAME .
 begoneapeak.space CNAME .
 *.begoneapeak.space CNAME .
+belovedly.space CNAME .
+*.belovedly.space CNAME .
 bemouthhomer.space CNAME .
 *.bemouthhomer.space CNAME .
 bepapersurmise.space CNAME .
@@ -137150,6 +137180,8 @@ horraybyline.space CNAME .
 *.horraybyline.space CNAME .
 hostlywryly.space CNAME .
 *.hostlywryly.space CNAME .
+houtouchekan.space CNAME .
+*.houtouchekan.space CNAME .
 hoversruffer.space CNAME .
 *.hoversruffer.space CNAME .
 hrwingate.space CNAME .
@@ -152768,6 +152800,8 @@ teambd.xyz CNAME .
 *.teambd.xyz CNAME .
 teasacomsys.xyz CNAME .
 *.teasacomsys.xyz CNAME .
+tebeveck.xyz CNAME .
+*.tebeveck.xyz CNAME .
 techedelica.xyz CNAME .
 *.techedelica.xyz CNAME .
 technologyio.xyz CNAME .
