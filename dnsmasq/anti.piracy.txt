@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 27 Dec 2023 23:17 UTC
-# Version: 2023.1227.2317.59
+# Last modified: 31 Dec 2023 10:16 UTC
+# Version: 2023.1231.1016.04
 # Syntax: DNSMasq
-# Number of entries: 10694
+# Number of entries: 10695
 #
 address=/blink-stresser.000webhostapp.com/#
 address=/ddos-ovh-v6.000webhostapp.com/#
@@ -466,6 +466,7 @@ address=/alabout.com/#
 address=/tracker.aladar.com/#
 address=/alamy.com/#
 address=/alamyimages.fr/#
+address=/00.alarmasqueretaro.com/#
 address=/api.alarmasqueretaro.com/#
 address=/aletorrenty.pl/#
 address=/alfafile.net/#

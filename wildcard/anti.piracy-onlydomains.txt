@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 27 Dec 2023 23:17 UTC
-# Version: 2023.1227.2317.59
+# Last modified: 31 Dec 2023 10:16 UTC
+# Version: 2023.1231.1016.04
 # Syntax: Domains (without subdomains)
-# Number of entries: 10694
+# Number of entries: 10695
 #
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
@@ -466,6 +466,7 @@ alabout.com
 tracker.aladar.com
 alamy.com
 alamyimages.fr
+00.alarmasqueretaro.com
 api.alarmasqueretaro.com
 aletorrenty.pl
 alfafile.net
