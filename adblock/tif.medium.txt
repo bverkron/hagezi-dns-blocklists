@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 31 Dec 2023 00:12 UTC
-! Version: 2023.1231.0012.05
+! Last modified: 31 Dec 2023 10:50 UTC
+! Version: 2023.1231.1050.22
 ! Syntax: AdBlock
-! Number of entries: 8786
+! Number of entries: 8762
 !
 ||000.pe^
 ||000nethost.com^
@@ -44,7 +44,6 @@
 ||33rdderryscouts.com^
 ||360clients.in^
 ||360coffeemaker.com^
-||softdl.360tpcdn.com^
 ||360vr-amyade.com^
 ||389603.xyz^
 ||3dapexdesign.com^
@@ -69,7 +68,6 @@
 ||50227.top^
 ||513586.top^
 ||api.52kkg.com^
-||542199235l.com^
 ||hacker.548848.xyz^
 ||dl.1003b.56a.com^
 ||58dukkan.com^
@@ -253,7 +251,6 @@
 ||aipccoaching.com^
 ||aiqonsb.com^
 ||airesdemoscatel.com^
-||airhobi.com^
 ||airmoney9ja.com^
 ||airoutlaw.com^
 ||airtaceuropa.com^
@@ -489,7 +486,6 @@
 ||archivovivopaulofreire.org^
 ||ardesia.ph^
 ||arge.pt^
-||argenferia.com^
 ||ariamedical.ir^
 ||arigopay.com^
 ||arigotechnologies.com^
@@ -839,6 +835,7 @@
 ||bowenpress.org^
 ||bowwe-site.com^
 ||bplp-aintemouchent.dz^
+||br-360.com^
 ||braceletcuivre.com^
 ||bracessorios-auto.pt^
 ||bragastore.com^
@@ -1061,7 +1058,6 @@
 ||chem-solutions.pe^
 ||chemsky.tn^
 ||chetanaenterprises-nx.com^
-||marketdriven.chevronmarcom.com^
 ||chezetu.com^
 ||chfee.org^
 ||chidoqr.site^
@@ -1734,6 +1730,7 @@
 ||desirelandscapes.com.au^
 ||devpassion.com.mx^
 ||dgcomputer.com.br^
+||dhnconstrucciones.com.ar^
 ||digitalconsultants.com.pk^
 ||digitalsafecertificadora.com.br^
 ||dinamicus.com.br^
@@ -1898,7 +1895,6 @@
 ||jolantabartnik.com.pl^
 ||jomsapotlokal.com.my^
 ||jornalnovaepoca.com.br^
-||josymixmyhome.com.br^
 ||jroconstrucciones.com.mx^
 ||jsp.com.np^
 ||juanalbertoyaria.com.ar^
@@ -2128,6 +2124,7 @@
 ||siscofashion.com.ng^
 ||sisic.com.co^
 ||sisisarazcollection.com.ng^
+||situeme.com.br^
 ||sivasotoklimaelektrik.com.tr^
 ||sivassoft.com.tr^
 ||skaphe.com.co^
@@ -2269,7 +2266,6 @@
 ||concreteprinciplesdesign.com^
 ||conecthosting.top^
 ||conf1g.com^
-||congareeegroupsc.com^
 ||conglyan.com^
 ||conjureup.ca^
 ||conn.ph^
@@ -2351,6 +2347,7 @@
 ||cuemedia.in^
 ||cuneiformtest.com^
 ||currylounge.ca^
+||cursodeparapsicologia.org^
 ||custominteriorscanada.com^
 ||nebraskamoharrisburg.customizemyname.com^
 ||cvgm.ar^
@@ -2463,7 +2460,6 @@
 ||dessur.mx^
 ||destinyrestorationassociation.org^
 ||detoyprojects.net^
-||deutschebank-service.de^
 ||dev-demo.info^
 ||devbitssolutions.com^
 ||deverfan.xyz^
@@ -2596,7 +2592,6 @@
 ||download.doumaibiji.cn^
 ||doumvn.com^
 ||dousen.co^
-||downloayxkemam.sbs^
 ||files2.dp.ua^
 ||dpecalgerie.com^
 ||dphcp.org^
@@ -3026,8 +3021,6 @@
 ||adl-gsq.faqserv.com^
 ||adl-hg.faqserv.com^
 ||adl-hjh.faqserv.com^
-||adl-ib.faqserv.com^
-||adl-ir.faqserv.com^
 ||adl-j.faqserv.com^
 ||adl-ljh.faqserv.com^
 ||adl-q.faqserv.com^
@@ -3206,10 +3199,8 @@
 ||sahamlj.fartit.com^
 ||sahamr.fartit.com^
 ||sahdm.fartit.com^
-||sahm-mo.fartit.com^
 ||sahmbe.fartit.com^
 ||sahmn.fartit.com^
-||sahmnq.fartit.com^
 ||sahmnu.fartit.com^
 ||sahmnwq.fartit.com^
 ||scv.fartit.com^
@@ -3233,7 +3224,6 @@
 ||fastandeasypilotcarinsurance.com^
 ||fastdam-statisticalsolutions.org^
 ||fastdubairepair.com^
-||fastgo.life^
 ||faststroygo.com^
 ||fastwings.sa^
 ||fatihpres.com^
@@ -3282,7 +3272,6 @@
 ||2023.filemail.com^
 ||3011.filemail.com^
 ||filmkaku.com^
-||filwelreg.pw^
 ||financetoro.com^
 ||financier.com^
 ||finaxio.co^
@@ -3473,7 +3462,6 @@
 ||getmega.net^
 ||getplayshow.com^
 ||getsviip7.com^
-||jsb8dmc5z4.gettingurl.com^
 ||gfnpssijmr.com^
 ||gfresh-hub.in^
 ||gfs-ae.com^
@@ -3525,7 +3513,6 @@
 ||glycpolsbeel.cf^
 ||gnncoautoparts.com^
 ||pa-sampit.go.id^
-||pn-raha.go.id^
 ||pt-bali.go.id^
 ||smpn41.semarangkota.go.id^
 ||goastudios.com^
@@ -3878,7 +3865,6 @@
 ||igp-educa.es^
 ||igpastpapers.com^
 ||igpmanzanillaygordaldesevilla.org^
-||ihrkontosichern.eu^
 ||ijcsmohali.in^
 ||ijeuwa.com^
 ||ikapcrberbagi.id^
@@ -3909,7 +3895,6 @@
 ||indohcf.com^
 ||indokopp.com^
 ||indomarineshipchandler.com^
-||indonesias.me^
 ||inducleandecolombia.com^
 ||industrialoutlook.in^
 ||industriastornometaljr.com^
@@ -3968,7 +3953,6 @@
 ||interal-bo.com^
 ||interblockchainlab.com^
 ||intercambiocristiano.com^
-||internal-net.net^
 ||interpol.ws^
 ||interstatetrans.com^
 ||intertradez.com^
@@ -4001,7 +3985,6 @@
 ||ironreward.com^
 ||arenterprese2023.is-a-caterer.com^
 ||isasecret.com^
-||ishahcouture.com^
 ||iskillsjr.com^
 ||islammagdy.com^
 ||islandbagelbar.com^
@@ -4285,6 +4268,7 @@
 ||ko2labs.com^
 ||koguri.org^
 ||kojekkoja.com^
+||ns1.koleso.tc^
 ||kolibrinijare.com^
 ||komarna.biz^
 ||kombi.pk^
@@ -4604,6 +4588,7 @@
 ||marketstrategiesmgmt.com^
 ||markgov.id^
 ||markokarolahair.com^
+||marksidfgs.ug^
 ||marnite.co^
 ||marquesvogt.com^
 ||marrakechchoralmeeting.ma^
@@ -4637,10 +4622,8 @@
 ||mauriciosuarezfotografia.com^
 ||mavrosdrive.gr^
 ||maxcounsellingservices.com^
-||maxguenter.de^
 ||maxiimus.top^
 ||maxixeatelier.com^
-||maxmoney.com^
 ||maxsolution.in^
 ||maxuikl.top^
 ||maxximbrasil.com^
@@ -4999,7 +4982,6 @@
 ||mymusclemagic.com^
 ||mynashvillestudio.com^
 ||mynetav.com^
-||adl-gq.mynetav.org^
 ||adl-sah.mynetav.org^
 ||adlsfa.mynetav.org^
 ||adlshq.mynetav.org^
@@ -5238,7 +5220,6 @@
 ||oferta.us^
 ||google.off.ai^
 ||offerselecter.com^
-||officeloftu.com^
 ||ofiprintsas.com^
 ||oftalmologia2020.com^
 ||ogaki-asobanight.com^
@@ -5281,7 +5262,6 @@
 ||onlineearnway.com^
 ||onlinejournalism.pk^
 ||onlinepaysafeollx.shop^
-||onlineprog.top^
 ||onlinequranforkids.com^
 ||onlinequranlearningzone.com^
 ||onnorup.com^
@@ -5292,7 +5272,6 @@
 ||ooolowokureandco.org^
 ||oops.best^
 ||opal.rw^
-||opesjk.ug^
 ||opolis.io^
 ||opsol.com^
 ||opticienregard.com^
@@ -5795,6 +5774,7 @@
 ||gsewvbgz.page.link^
 ||gsmcwuyr.page.link^
 ||gsrwhyus.page.link^
+||gsslofxh.page.link^
 ||guldtmzc.page.link^
 ||guonagln.page.link^
 ||gurskbhu.page.link^
@@ -6976,7 +6956,6 @@
 ||perfectspaceinteriors.com^
 ||perfilestival.pt^
 ||perichile.cl^
-||imgdsg4f35.permalinking.com^
 ||perniktermo.com^
 ||perroandante.cl^
 ||legendhero.persiangig.com^
@@ -7010,6 +6989,7 @@
 ||pimpom.in^
 ||pinakjewels.com^
 ||pindjagatpur.com^
+||pink99.com^
 ||pinklittlenotebook.com^
 ||pintureriastokyo.com^
 ||piodeachiniot.com^
@@ -7018,7 +6998,6 @@
 ||pittsburghbizpage.com^
 ||piyasanalizim.com^
 ||pizzajagvar.ir^
-||pizzeriaolo.com^
 ||pktrakia.com^
 ||oag.pl.so^
 ||pl-9a8.pl^
@@ -7061,7 +7040,6 @@
 ||podiummarketresearch.com^
 ||pogosearch.com^
 ||pokojechancza.pl^
-||pol.beauty^
 ||polarbearden.ca^
 ||policytv.tv^
 ||polinya-parc-agrari.com^
@@ -7231,6 +7209,7 @@
 ||quikstationsa.com^
 ||quind.de^
 ||quintadospinheirais.pt^
+||quizbn.com^
 ||quolocations.com^
 ||quraninsoul.com^
 ||qusbec.com^
@@ -7328,7 +7307,6 @@
 ||repostedjohn.com^
 ||rereal.pk^
 ||reservation80712.cloud^
-||reservation87839.cloud^
 ||resetqi.com^
 ||resmi-id.art^
 ||resourceedge.org^
@@ -7546,7 +7524,6 @@
 ||scheiff.eu^
 ||schematize.pw^
 ||scholarshiplug.com^
-||scientific.pk^
 ||scientificatiles.com^
 ||scincormatize.com^
 ||scoutsjalisco.org^
@@ -7589,6 +7566,7 @@
 ||modulo.servegame.com^
 ||supercraft123.serveminecraft.net^
 ||serveuser.com^
+||serviaseo.com^
 ||servicecustomercare.com^
 ||servicepostbelgium.com^
 ||serviciosintegralesdelcaribe.com^
@@ -8037,7 +8015,6 @@
 ||techcusp.com^
 ||techeverywhere.space^
 ||techfrisky.com^
-||techgeetam.com^
 ||techgreeds.com^
 ||techniguitare.com^
 ||technologiczni24.pl^
@@ -8115,7 +8092,6 @@
 ||thechip.shop^
 ||theconniewong.com^
 ||theconsulting.io^
-||thecoopmodel.com^
 ||thecrossingway.com^
 ||thedailyreel.com^
 ||thedentalbridge.org^
@@ -8134,6 +8110,7 @@
 ||thejojostores.com^
 ||thekandnsway.pk^
 ||thelaundryday.com^
+||thelocationgold.com^
 ||themarijuanashow.com^
 ||themars.pk^
 ||themecloud.dev^
@@ -8359,6 +8336,7 @@
 ||test.uniformmarkets.com^
 ||unikrobot.com^
 ||unimerfertilizzanti.it^
+||unioneterna.com^
 ||uniquecolleges.com^
 ||uniquepainters.in^
 ||uniqueschoolbetul.com^
@@ -8378,7 +8356,6 @@
 ||unsaidwish.com^
 ||nerve.untergrund.net^
 ||uohhunkmnfhbimtagizqgwpmv.to^
-||up-nowservice.com^
 ||up-official.site^
 ||upanfile.com^
 ||upcyclestitches.com^
@@ -8439,7 +8416,6 @@
 ||veominfotech.com^
 ||vepworld.com^
 ||vera.by^
-||verefication-bookings.com^
 ||verotools.com^
 ||vertical-gardener.com^
 ||twio0t.vertucelullares.pro^
@@ -8549,6 +8525,7 @@
 ||wahahsolutions.net^
 ||wajihaattique.com^
 ||waldorfenergy.com^
+||walkindrivetoday.com^
 ||walletdappfixed.net^
 ||wallysgarageandtowing.com^
 ||want2beme.com^
@@ -8751,7 +8728,6 @@
 ||zamzamhotelbatu.com^
 ||zaofisa.net^
 ||zap-webspace.com^
-||botnet.zapto.org^
 ||zarbafeh.shop^
 ||zateghar.com^
 ||zbigniewkaluga.pl^
