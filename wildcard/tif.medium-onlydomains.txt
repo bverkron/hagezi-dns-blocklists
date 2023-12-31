@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Dec 2023 23:43 UTC
-# Version: 2023.1229.2343.12
+# Last modified: 31 Dec 2023 00:12 UTC
+# Version: 2023.1231.0012.05
 # Syntax: Domains (without subdomains)
-# Number of entries: 8793
+# Number of entries: 8786
 #
 000.pe
 000nethost.com
@@ -19,6 +19,7 @@ pepelu-staging.01staging.site
 1717.1000uc.com
 soft.110route.com
 1395867912.pw
+17110.com
 179527.com
 dl.198424.com
 19dm82.info
@@ -43,6 +44,7 @@ wzswbw.dm.files.1drv.com
 33rdderryscouts.com
 360clients.in
 360coffeemaker.com
+softdl.360tpcdn.com
 360vr-amyade.com
 389603.xyz
 3dapexdesign.com
@@ -78,6 +80,7 @@ probono.6600dev.com
 671354.xyz
 6qo.at
 6shoequarterhorses.com
+6t5n9h77m8.com
 6vu6766zq.cn
 6w.re
 77271.top
@@ -215,6 +218,7 @@ agenciasim.mx
 agencymediasosial.com
 obrecht.agentenpreview.com
 agentleadgenesis.com
+agies.org
 agisakis.gr
 agitel-formation.net
 agnieszkaklaudia.pl
@@ -384,6 +388,7 @@ amejan.in
 amenfamilia.com
 americansweepstakes.net
 amittour.com
+amotel.xyz
 amsangroup.com
 amshesp.com
 amtc-dz.com
@@ -391,6 +396,7 @@ amtrakdeals.com
 amtri.ma
 amzfix.com
 anando.xyz
+anapa-zarya.ru
 anargya.id
 anatex.md
 andal-pinal.org
@@ -642,6 +648,7 @@ bakewell-eg.com
 bakhshjobs.com
 baklava.az
 balajifrightspackers.com
+balancedia.com
 baldiesbbq.shop
 balena-etcher.com
 baliinside.id
@@ -886,6 +893,7 @@ buyproductnow.online
 buyshyhub.com
 buyukustalar.org
 buzzbt.io
+bvbypswhds.com
 brianetaveras.byethost13.com
 byinter.net
 c-csigns.com
@@ -934,6 +942,7 @@ careerkillers.me
 careermoguls.com
 careersreach.com
 careprofit.xyz
+cargoconnect.online
 carlgibslegal.com
 carnegieinsider.com
 carolinafm.pe
@@ -1060,6 +1069,7 @@ childrenshealthintl.org
 chinarhospitalanddailysiscenter.com
 chingman.net
 chiphiduhoc.com
+chipnweb.com
 chiptune.com
 chiroqueabogados.pe
 chiroterapi.com
@@ -1081,6 +1091,7 @@ cimagtel.cl
 cimlglobal.us
 cinecreativofilmschool.com
 cinperu.org
+cipro.mx
 ciptransfer.com
 circuitech.ae
 citvcharacato.com
@@ -1148,7 +1159,6 @@ aryaninterior.co.in
 ascsolutions.co.za
 associatedwindowcleaners.co.uk
 assuredservice.co.in
-atiasado.co.il
 aviangas.co.ke
 awana.co.zw
 azurasuperheroes.co.id
@@ -1724,7 +1734,6 @@ desentupidoradepalmas.com.br
 desirelandscapes.com.au
 devpassion.com.mx
 dgcomputer.com.br
-dhnconstrucciones.com.ar
 digitalconsultants.com.pk
 digitalsafecertificadora.com.br
 dinamicus.com.br
@@ -1889,6 +1898,7 @@ joinvilleseguranca.com.br
 jolantabartnik.com.pl
 jomsapotlokal.com.my
 jornalnovaepoca.com.br
+josymixmyhome.com.br
 jroconstrucciones.com.mx
 jsp.com.np
 juanalbertoyaria.com.ar
@@ -1934,7 +1944,6 @@ lindenconsultoria.com.br
 linkingroup.com.bd
 live.com.gt
 livetectelecom.com.br
-emailmarketing.locaweb.com.br
 loganwritersfestival.com.au
 lomefashion.com.ng
 losabuelos.com.mx
@@ -2240,6 +2249,7 @@ comediantes.org
 comercialwindsor.cl
 comesltaly.com
 comfort.mk
+comfschool.com
 comfybeautysecret.com
 usps.comhelptw.com
 communekram.tn
@@ -2341,7 +2351,6 @@ balkarsoftware.cubistech.com
 cuemedia.in
 cuneiformtest.com
 currylounge.ca
-cursodeparapsicologia.org
 custominteriorscanada.com
 nebraskamoharrisburg.customizemyname.com
 cvgm.ar
@@ -2525,6 +2534,7 @@ dj-david.ro
 djgdistribuciones.com
 dkmtechsolution.com
 dleggere.com
+dlevo.com
 dma24.com
 dnatango.com
 ad-ir.dns05.com
@@ -3024,10 +3034,8 @@ adl-q.faqserv.com
 adl-sahm.faqserv.com
 adl-shm.faqserv.com
 adl-ue.faqserv.com
-adl-v.faqserv.com
 adl-w.faqserv.com
 adla.faqserv.com
-adlio.faqserv.com
 adliq.faqserv.com
 adliris.faqserv.com
 adlsjd.faqserv.com
@@ -3085,11 +3093,9 @@ fda.faqserv.com
 fem.faqserv.com
 fsa.faqserv.com
 ir-an.faqserv.com
-ir-ir.faqserv.com
 iran-qa.faqserv.com
 irhsh.faqserv.com
 l-adl.faqserv.com
-l-ir.faqserv.com
 lliean.faqserv.com
 qdl-inm.faqserv.com
 rbm.faqserv.com
@@ -3142,7 +3148,6 @@ tsm.faqserv.com
 ves.faqserv.com
 zds.faqserv.com
 faregadget.com
-a-ir.fartit.com
 a-iran.fartit.com
 adf-za.fartit.com
 adl-am.fartit.com
@@ -3156,7 +3161,6 @@ adl-hv.fartit.com
 adl-irn.fartit.com
 adl-irna.fartit.com
 adl-irnh.fartit.com
-adl-lo.fartit.com
 adl-mm.fartit.com
 adl-oi.fartit.com
 adl-qda.fartit.com
@@ -3166,10 +3170,8 @@ adl-qps.fartit.com
 adl-qqu.fartit.com
 adl-sa.fartit.com
 adl-sahml.fartit.com
-adl-sd.fartit.com
 adl-zq.fartit.com
 adle.fartit.com
-adlg-aa.fartit.com
 adlggs.fartit.com
 adlh-sn.fartit.com
 adli-q.fartit.com
@@ -3198,7 +3200,6 @@ iran-sh.fartit.com
 iran-vb.fartit.com
 irb-ed.fartit.com
 irhg.fartit.com
-irr.fartit.com
 sahadl.fartit.com
 saham.fartit.com
 sahame.fartit.com
@@ -3226,7 +3227,6 @@ ssv.fartit.com
 uran.fartit.com
 uran-adl.fartit.com
 variz.fartit.com
-z-ir.fartit.com
 fasahatechdutse.com
 fashionmanya.com
 fastactionmedicalbilling.com
@@ -3357,7 +3357,6 @@ fouredgefm.com
 fourfuture.agency
 foxfilehost.fun
 fr.gd
-nz.fr-address.com
 fraa-raff.org
 francais-english-arabic.com
 freay.tech
@@ -3382,7 +3381,6 @@ friendstivity.id
 frtitfaiye.com
 fruitsexport.co
 ftp1.biz
-ftpvoyager.cc
 fuchsia-sa.com
 fucsiaboutique.com
 fuelrescue.ie
@@ -3557,6 +3555,7 @@ goldenyieldfarms.com
 goldleaf-revenup.com
 goldorart.com
 golianbooks.com
+gomlgaming.dev
 gonow.cl
 d8hxy.app.goo.gl
 goodfurnitureworks.com
@@ -3565,7 +3564,6 @@ goodpltrmm.click
 googie.ph
 google-document.org
 19.56.42.34.bc.googleusercontent.com
-6.109.192.35.bc.googleusercontent.com
 files-opensocial.googleusercontent.com
 gordaleteymanzanilla.es
 gorgorcity.com
@@ -3801,6 +3799,7 @@ hotelsunplaza.in
 hotshortlet.com
 hotweazel.com
 housingphotography.com
+houssagynecologue.com
 houssemeddine.com
 howtomake.live
 hpiflogistics.com
@@ -3847,6 +3846,7 @@ icloudappe.com
 icmcargo.com
 iconaatamaker.in
 icuc-international.org
+fvia.id.vn
 id-3842.me
 id-43895.me
 id-43980.me
@@ -3872,6 +3872,7 @@ ifantasynamegenerator.com
 ifcconstructions.com
 ifgbiobio.cl
 ifiveapps.com
+trademark.iglesiaelarca.com
 igmvs.com
 ignaciob.com
 igp-educa.es
@@ -3908,6 +3909,7 @@ indmed.in
 indohcf.com
 indokopp.com
 indomarineshipchandler.com
+indonesias.me
 inducleandecolombia.com
 industrialoutlook.in
 industriastornometaljr.com
@@ -4283,7 +4285,6 @@ knoxwestern.com
 ko2labs.com
 koguri.org
 kojekkoja.com
-ns1.koleso.tc
 kolibrinijare.com
 komarna.biz
 kombi.pk
@@ -4376,7 +4377,6 @@ lawguie.com
 lawtosuccess.com
 lazzaro.rs
 ldon.org
-lead42.info
 leaderfortrans.com
 leaderinevents.com
 leaderinu.in
@@ -4604,7 +4604,6 @@ marketingguruzz.com
 marketstrategiesmgmt.com
 markgov.id
 markokarolahair.com
-marksidfgs.ug
 marnite.co
 marquesvogt.com
 marrakechchoralmeeting.ma
@@ -4809,6 +4808,7 @@ mitostour.com
 mittaa.com
 mittmexico.com
 mittnyahem.com
+mixer-novostei.ru
 mixit-sound.com
 mkrissd.pl
 mksad917.xyz
@@ -4860,7 +4860,6 @@ morioxforextrade.com
 mortgage-application-form.com
 mortgage-tech.ca
 mosamamashhad.com
-moshito-marketing.com
 mosthiborafgafu.tk
 mostlynonsensical.com
 motherteresacharitablesociety.com
@@ -4880,9 +4879,7 @@ mpeumo.cl
 mphasistech.com
 mpnfts.com
 mq-lounge.com
-adl-c.mrbasic.com
 adl-sam.mrbasic.com
-adl-v.mrbasic.com
 adl-vb.mrbasic.com
 adl-vvs.mrbasic.com
 adloi.mrbasic.com
@@ -4900,8 +4897,6 @@ eda.mrbasic.com
 edm.mrbasic.com
 iranda.mrbasic.com
 tes.mrbasic.com
-adl-c.mrbonus.com
-adl-v.mrbonus.com
 adlsgh.mrbonus.com
 sahmns.mrbonus.com
 sdc.mrbonus.com
@@ -4968,7 +4963,6 @@ my-lynk.com
 my-xppen.com
 my0115.ru
 adl-bn.my03.com
-adl-c.my03.com
 adl-jv.my03.com
 adlv.my03.com
 eblagh.my03.com
@@ -5005,7 +4999,6 @@ mymobiletoolsandtrades.com
 mymusclemagic.com
 mynashvillestudio.com
 mynetav.com
-adl-a.mynetav.org
 adl-gq.mynetav.org
 adl-sah.mynetav.org
 adlsfa.mynetav.org
@@ -5077,6 +5070,7 @@ ncbcn.org
 nclifesupport.com
 qa.ncompassmkt.com
 ndccny.com
+ndegj3peoh.com
 ndonoenergy.com
 ndskm.com
 nebo-trk.com
@@ -5231,6 +5225,7 @@ obokay.com
 obrobkacieplna.com
 obsessive.business
 obstetric-ultrasound.com
+oceancityrentalbyowner.com
 oceanicservices.in
 oceanite.in
 oceaniteservices.in
@@ -5800,7 +5795,6 @@ gsetikie.page.link
 gsewvbgz.page.link
 gsmcwuyr.page.link
 gsrwhyus.page.link
-gsslofxh.page.link
 guldtmzc.page.link
 guonagln.page.link
 gurskbhu.page.link
@@ -7016,7 +7010,6 @@ pimpmypooch.ie
 pimpom.in
 pinakjewels.com
 pindjagatpur.com
-pink99.com
 pinklittlenotebook.com
 pintureriastokyo.com
 piodeachiniot.com
@@ -7204,6 +7197,7 @@ putrarhodas.com
 pv-ic.com
 pvp-rivals.com
 pwkabko.com
+pwrlkyotm.com
 pykisku.com
 pythoncodesnippets.com
 kansasvajackson.pytonik.com
@@ -7237,7 +7231,6 @@ quiikly.com
 quikstationsa.com
 quind.de
 quintadospinheirais.pt
-quizbn.com
 quolocations.com
 quraninsoul.com
 qusbec.com
@@ -7445,8 +7438,6 @@ rydlandtransport.no
 ryzen-master.com
 rz-menden.de
 alotropia.sa.com
-6eoee3.daewootelevisao.sa.com
-e9uevr.daewootelevisao.sa.com
 empercudiera.sa.com
 ytgz5.sa.com
 saadrizwan.com
@@ -7873,6 +7864,7 @@ startup-guyane.tech
 startupaccelerator.asia
 stavangeradvokaten.no
 stay2book.com
+stayinoceancitymd.com
 steadyrun.com
 steamauthenticator.net
 steamdesktopauthenticator.net
@@ -8231,6 +8223,9 @@ topclassenglish.com
 topfreelancingbd.com
 topitltd.com
 topone.al
+lang.topteamlife.com
+loop.topteamlife.com
+still.topteamlife.com
 zen.topteamlife.com
 torkleader.com
 toshiaki1.com
@@ -8409,7 +8404,6 @@ uslawyersdb.com
 usmanahmad.com
 usmaniawari.com
 4c1c6c2c-3624-42cb-a147-0b3263050851.usrfiles.com
-73cceb63-7ecd-45e2-9eab-f8d98aab177f.usrfiles.com
 abb8c91b-cfd2-4ae6-ba53-16579fe1acb1.usrfiles.com
 d9e1c3dd-1fee-48c1-9089-09a70580408e.usrfiles.com
 uumu.fi
@@ -8555,7 +8549,6 @@ wagonsskillfoundation.com
 wahahsolutions.net
 wajihaattique.com
 waldorfenergy.com
-walkindrivetoday.com
 walletdappfixed.net
 wallysgarageandtowing.com
 want2beme.com
