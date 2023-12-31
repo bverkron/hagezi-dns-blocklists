@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 31 Dec 2023 09:38 UTC
-! Version: 2023.1231.0938.01
+! Last modified: 31 Dec 2023 18:26 UTC
+! Version: 2023.1231.1826.49
 ! Syntax: AdBlock
-! Number of entries: 76998
+! Number of entries: 77032
 !
 ||0.beer^
 ||0.club^
@@ -9988,6 +9988,7 @@
 ||nz.amazulutrishna.com^
 ||amazyno.online^
 ||ambaab.com^
+||ambaraulder.digital^
 ||ambassadorvaultvisited.com^
 ||ambeeapp.com^
 ||amberdub.com^
@@ -14822,6 +14823,7 @@
 ||blatephytoid.life^
 ||blattidmagged.space^
 ||blatwalm.com^
+||blaugasemoting.com^
 ||blaze-media.com^
 ||blazeservers.in^
 ||blazetech.tech^
@@ -15065,6 +15067,7 @@
 ||bmf-abwicklung-online.site^
 ||bmgipyr.com^
 ||bmgsindia.org^
+||bmidykgiwgfjjd.com^
 ||bmkwd.com^
 ||bmkz57b79pxk.com^
 ||bmlcuby.com^
@@ -15552,6 +15555,7 @@
 ||bowgevyingly.com^
 ||bowhishapsee.com^
 ||bowhow.com^
+||bowieodyssey.com^
 ||bowldescended.com^
 ||bowleghulks.digital^
 ||bowlingconcise.com^
@@ -16147,6 +16151,7 @@
 ||buckwheatinsolenttactics.com^
 ||bucuc.tech^
 ||budapebluest.com^
+||budapestbankhitelkartya.sbs^
 ||buddahpygopus.live^
 ||buddedpetrie.space^
 ||buddhabhumi.org^
@@ -16313,6 +16318,7 @@
 ||burdenverge.com^
 ||burdiesbbq.com^
 ||bureaucorrelation.com^
+||bureausdenning.com^
 ||bureauxcope.casa^
 ||burezbiffed.space^
 ||burgalljobarbe.space^
@@ -18863,6 +18869,7 @@
 ||clcknipop.com^
 ||clcktrkr.com^
 ||clckysudks.com^
+||clclgpwxieni.com^
 ||cld5r.com^
 ||cldlr.com^
 ||cldlyuc.com^
@@ -22457,6 +22464,7 @@
 ||curryoxygencheaper.com^
 ||curseaprilsnow.com^
 ||curseintegralproduced.com^
+||cursofane.com^
 ||cursordownstairs.com^
 ||cursormedicabnormal.com^
 ||cursorscozier.life^
@@ -23921,6 +23929,7 @@
 ||deterrentviewsmedal.com^
 ||deticsanatteway.com^
 ||detinetcallant.com^
+||detinrubbing.com^
 ||detour.click^
 ||detrimentaljigsaw.com^
 ||detskemotokary.com^
@@ -34217,6 +34226,7 @@
 ||hassium.org^
 ||hasslesneatly.com^
 ||hastateleones.life^
+||hastawny.com^
 ||hastenspur.com^
 ||hasteshearses.com^
 ||hasthyogi.com^
@@ -34762,6 +34772,7 @@
 ||heritagevalley.in^
 ||heritancelaw.com^
 ||hermaewindup.space^
+||hermaturse.com^
 ||hermesbirkin.top^
 ||hermichermicbroadcastinglifting.com^
 ||hermitmeaninglessconsequences.com^
@@ -35080,6 +35091,7 @@
 ||hip-97166b.com^
 ||hipaintranet.com^
 ||hipals.com^
+||hipbonelotuses.website^
 ||hiperea.app^
 ||hiperea.com^
 ||hiperea.net^
@@ -36555,6 +36567,7 @@
 ||igijsyqli.com^
 ||igilitygpo.com^
 ||igilityservices.ca^
+||igjptqlywyvfveq.com^
 ||iglesiacristoelrey.com^
 ||iglooprin.com^
 ||ignateignatetame.com^
@@ -41013,6 +41026,7 @@
 ||kraversrilievo.guru^
 ||krazil.com^
 ||krazykenz.com^
+||krazykenzgardening.com^
 ||krcal.info^
 ||kreativeconnections.co^
 ||kreativeflora.com^
@@ -44362,6 +44376,7 @@
 ||marmine.net^
 ||marmosegess.uno^
 ||marmotic.pro^
+||marokboys.nl^
 ||maroni-family.xyz^
 ||marormesole.com^
 ||marownie.shop^
@@ -45080,6 +45095,7 @@
 ||melbun.net^
 ||melche.com^
 ||melderspyurias.website^
+||meldrophockers.com^
 ||melectors.store^
 ||meleguetre.com^
 ||meleranhe.com^
@@ -46322,6 +46338,7 @@
 ||monthlyplanner.info^
 ||montjoybeclown.tech^
 ||montleymontleycovered.com^
+||montovane.online^
 ||monumentsdismantle.com^
 ||monumentsmaterialeasel.com^
 ||monuniverscreche.com^
@@ -46628,6 +46645,7 @@
 ||mpls.buzz^
 ||mpmant.com^
 ||mpnrs.com^
+||mpqiwgoegfueopb.com^
 ||mpression.net^
 ||mprhrvnxppdxci.com^
 ||mpsmpahang.net^
@@ -46650,6 +46668,7 @@
 ||mr2uxresources.com^
 ||mraiforweb.com^
 ||mrandmrsstrange.com^
+||mraozo.xyz^
 ||mraza2dosa.com^
 ||mrbadminton.ca^
 ||mrbunny2020.com^
@@ -46976,6 +46995,7 @@
 ||mutinousconductdisk.com^
 ||mutomb.com^
 ||mutsjeamenism.com^
+||mutteredadis.org^
 ||mutteredadisa.com^
 ||muttergrew.com^
 ||muttersedatetransmitted.com^
@@ -48372,6 +48392,7 @@
 ||nfuwpyx.com^
 ||nfwivxk.com^
 ||nfwvip.com^
+||nfxlrsxwvofi.com^
 ||nfyccudafvi.com^
 ||nfysrerisguq.com^
 ||nfytzitusxr.com^
@@ -50186,6 +50207,7 @@
 ||omkodwcmaofr.com^
 ||omkxadadsh.com^
 ||omkzwysusorg.com^
+||omlahpewing.com^
 ||ommaqnopxh.com^
 ||ommatearittock.digital^
 ||ommidan.com^
@@ -52118,6 +52140,7 @@
 ||patriotclaim.com^
 ||patriotgunsmith.com^
 ||patriotpay.store^
+||patriottypeout.space^
 ||patrolcontinually.com^
 ||patrolduke.com^
 ||patronageausterity.com^
@@ -52500,6 +52523,7 @@
 ||pensionerdidheavy.com^
 ||pensionpeeve.top^
 ||pensiveblindlytwin.com^
+||pentacemizzy.com^
 ||pentacomp.tech^
 ||pentalime.com^
 ||pentasniaga.com^
@@ -56390,6 +56414,7 @@
 ||qydemo.com^
 ||qyhugamu.xyz^
 ||qymdcuco.com^
+||qymmngpugyrd.com^
 ||qz496amxfh87mst.com^
 ||qzdmvwewzxzzze.com^
 ||qzeotkttawf.com^
@@ -58720,6 +58745,7 @@
 ||root4you.world^
 ||rooterderma.guru^
 ||rootgrowmarketing.com^
+||rootleoutplot.com^
 ||rootpillarconsented.com^
 ||rootzaffiliates.com^
 ||rootzone.in^
@@ -58779,6 +58805,7 @@
 ||rotifertassets.website^
 ||rotkeepwallet.com^
 ||rotker.net^
+||rotlfriskle.uno^
 ||rotondaforgers.live^
 ||rotondelibya.com^
 ||rotuloverde.com^
@@ -59085,6 +59112,7 @@
 ||ruinedpenal.com^
 ||ruinedwhy.com^
 ||rearms.ruinroture.com^
+||ruixwwcf.xyz^
 ||rukoval.com^
 ||rulablewarsled.store^
 ||ruldraakvmro.com^
@@ -61748,6 +61776,7 @@
 ||sidepgouv.fr^
 ||siderhoul.com^
 ||sidestgrouts.uno^
+||sidesukbeing.org^
 ||sidewalkcrazinesscleaning.com^
 ||sidewaysschoolbus.com^
 ||sidewaysuccession.com^
@@ -68045,6 +68074,7 @@
 ||tkidcigitrte.com^
 ||tkifahjutoj.com^
 ||tkn-portrait.net^
+||tko.bb^
 ||tksfmzj.com^
 ||tkurl.com^
 ||tl2go.com^
@@ -72995,6 +73025,7 @@
 ||wardrobecontingent.com^
 ||wardrobedesire.com^
 ||wardrobemeddleorganism.com^
+||wareggawaifs.digital^
 ||warehousecanneddental.com^
 ||warfaafin.com^
 ||warfairy.net^
@@ -73086,6 +73117,7 @@
 ||watchedthorter.guru^
 ||watchercupboard.com^
 ||watchesprim.com^
+||watchesthereupon.com^
 ||watchestwenties.com^
 ||watchfreeofads.com^
 ||watchgelads.com^
@@ -73819,6 +73851,7 @@
 ||whisperofisaak.com^
 ||whisperpostage.com^
 ||whisperton.com^
+||whistdarking.com^
 ||whisteeb.xyz^
 ||whistle.tel^
 ||whistledalibis.com^
@@ -76405,6 +76438,7 @@
 ||zcode12.me^
 ||zcode7.me^
 ||zcoptry.com^
+||zcsbgzasy.com^
 ||zcstech.com^
 ||zctabwwgxmib.com^
 ||zcwanugsfe.com^
