@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1703719380 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1704018000 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Apple Tracker DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 27 Dec 2023 23:23 UTC
-; Version: 2023.1227.2323.30
+; Last modified: 31 Dec 2023 10:20 UTC
+; Version: 2023.1231.1020.34
 ; Syntax: RPZ
-; Number of entries: 46
+; Number of entries: 44
 ;
 feedbackws.fe.apple-dns.cn CNAME .
 *.feedbackws.fe.apple-dns.cn CNAME .
@@ -54,7 +54,5 @@ books-analytics-events.news.apple-dns.net CNAME .
 *.books-analytics-events.news.apple-dns.net CNAME .
 notes-analytics-events.news.apple-dns.net CNAME .
 *.notes-analytics-events.news.apple-dns.net CNAME .
-stocks-analytics-events.news.apple-dns.net CNAME .
-*.stocks-analytics-events.news.apple-dns.net CNAME .
 weather-analytics-events.news.apple-dns.net CNAME .
 *.weather-analytics-events.news.apple-dns.net CNAME .

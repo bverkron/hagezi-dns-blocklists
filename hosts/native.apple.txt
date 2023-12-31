@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 27 Dec 2023 23:23 UTC
-# Version: 2023.1227.2323.30
+# Last modified: 31 Dec 2023 10:20 UTC
+# Version: 2023.1231.1020.34
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 26
+# Number of entries: 25
 #
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 books-analytics-events.apple.com
@@ -27,7 +27,6 @@
 0.0.0.0 feedbackws.fe.apple-dns.net
 0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 notes-analytics-events.news.apple-dns.net
-0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 weather-analytics-events.news.apple-dns.net
 0.0.0.0 feedbackws.icloud.com.cn
 0.0.0.0 acfeedbackws.icloud.com

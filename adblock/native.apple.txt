@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 27 Dec 2023 23:23 UTC
-! Version: 2023.1227.2323.30
+! Last modified: 31 Dec 2023 10:20 UTC
+! Version: 2023.1231.1020.34
 ! Syntax: AdBlock
-! Number of entries: 23
+! Number of entries: 22
 !
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
@@ -24,7 +24,6 @@
 ||feedbackws.fe.apple-dns.net^
 ||books-analytics-events.news.apple-dns.net^
 ||notes-analytics-events.news.apple-dns.net^
-||stocks-analytics-events.news.apple-dns.net^
 ||weather-analytics-events.news.apple-dns.net^
 ||feedbackws.icloud.com.cn^
 ||acfeedbackws.icloud.com^
