@@ -67028,8 +67028,6 @@ analytics.shawcontract.com CNAME .
 *.analytics.shawcontract.com CNAME .
 analytics.shawfloors.com CNAME .
 *.analytics.shawfloors.com CNAME .
-shayujizhang.com CNAME .
-*.shayujizhang.com CNAME .
 beacon.shazam.com CNAME .
 *.beacon.shazam.com CNAME .
 shble.com CNAME .
