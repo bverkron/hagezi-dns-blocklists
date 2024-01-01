@@ -53729,7 +53729,6 @@ address=/ads.superawesome.tv/#
 address=/superbbuy.shop/#
 address=/superbcallempty.com/#
 address=/superbwigs.com/#
-address=/supercell.net/#
 address=/collector.snowplow.supercell.com/#
 address=/analytics.support.supercell.com/#
 address=/superchat.live/#

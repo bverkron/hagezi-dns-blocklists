@@ -109686,8 +109686,6 @@ sultodre.net CNAME .
 *.sultodre.net CNAME .
 supapush.net CNAME .
 *.supapush.net CNAME .
-supercell.net CNAME .
-*.supercell.net CNAME .
 superfolder.net CNAME .
 *.superfolder.net CNAME .
 supreme-adblocker.net CNAME .

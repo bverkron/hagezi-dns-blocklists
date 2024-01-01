@@ -56524,7 +56524,6 @@
 ||superbbuy.shop^
 ||superbcallempty.com^
 ||superbwigs.com^
-||supercell.net^
 ||collector.snowplow.supercell.com^
 ||analytics.support.supercell.com^
 ||superchat.live^
