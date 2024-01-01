@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Dec 2023 12:04 UTC
-# Version: 2023.1231.1204.22
+# Last modified: 01 Jan 2024 00:51 UTC
+# Version: 2024.0101.0051.10
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 63734
+# Number of entries: 63750
 #
 *.0008d6ba2e.com
 *.000space.com
@@ -656,6 +656,7 @@
 *.2c2a1b058e.com
 *.2c4p24o6zp0y.top
 *.2c4rrl8pe.de
+*.2cent.net
 *.2cjlj3c15.de
 *.2cnjuh34jbman.com
 *.2cnjuh34jbpoint.com
@@ -8047,6 +8048,7 @@
 *.adblockers.b-cdn.net
 *.adsninja.b-cdn.net
 *.bbangads.b-cdn.net
+*.beamanalytics.b-cdn.net
 *.bs-adserver.b-cdn.net
 *.creatopy-adtag-production.b-cdn.net
 *.deprecated-custom-domains.b-cdn.net
@@ -11347,6 +11349,7 @@
 *.callrail.com
 *.callreports.com
 *.calltouch.ru
+*.calltrack.co
 *.cc.calltracking.ru
 *.calltrackingmetrics.com
 *.calltracks.com
@@ -29472,7 +29475,18 @@
 *.hottercensorbeaker.com
 *.sanalytics.hottopic.com
 *.vdkjfd.hottopic.com
-*.hottracker.biz
+*.fr34.hottracker.biz
+*.fr35.hottracker.biz
+*.fr36.hottracker.biz
+*.fr37.hottracker.biz
+*.fr42.hottracker.biz
+*.fr43.hottracker.biz
+*.usa11-2.hottracker.biz
+*.usa12.hottracker.biz
+*.usa13.hottracker.biz
+*.usa17.hottracker.biz
+*.usa18.hottracker.biz
+*.usa19.hottracker.biz
 *.hotwildadult.com
 *.om.hotwire.com
 *.som.hotwire.com
@@ -31994,7 +32008,6 @@
 *.isvnwxpoqgsgyy.com
 *.iswhatappyouneed.net
 *.iswhelectual.cc
-*.isxfrhhtcsagr.com
 *.isywjrtn.com
 *.matomo.it-connect.fr
 *.168.it168.com
@@ -32060,6 +32073,7 @@
 *.ittogepiom.com
 *.ads.itv.com
 *.cpt.itv.com
+*.recommendations.prd.user.itv.com
 *.itvalleynews.com
 *.itvertical.com
 *.b.itvnet.lv
@@ -37383,6 +37397,7 @@
 *.mews2ruck.com
 *.mexstat128.com
 *.info.meyerandassoc.com
+*.logs.mezmo.com
 *.mfabxfb.com
 *.mfadsrvr.com
 *.mfcewkrob.com
@@ -46591,6 +46606,7 @@
 *.pxxnejx.xyz
 *.pxzkqq.com
 *.pycvlnu.com
+*.pyhdvvimr.com
 *.pyme124.pymedns.net
 *.pymx5.com
 *.pyoungstersofto.xyz
@@ -49056,6 +49072,7 @@
 *.analytics.rpxapps.com
 *.rpyor0k.xyz
 *.rpzbfftekjdz.com
+*.rqctubqtcbgeug.com
 *.rqgjvcea.com
 *.rqmetrixa.info
 *.rqmetrixb.info

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1704024240 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1704070260 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 31 Dec 2023 12:04 UTC
-; Version: 2023.1231.1204.22
+; Last modified: 01 Jan 2024 00:51 UTC
+; Version: 2024.0101.0051.10
 ; Syntax: RPZ
-; Number of entries: 127468
+; Number of entries: 127500
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -1792,8 +1792,30 @@ hipnoticrec.biz CNAME .
 *.hipnoticrec.biz CNAME .
 honeiwillre.biz CNAME .
 *.honeiwillre.biz CNAME .
-hottracker.biz CNAME .
-*.hottracker.biz CNAME .
+fr34.hottracker.biz CNAME .
+*.fr34.hottracker.biz CNAME .
+fr35.hottracker.biz CNAME .
+*.fr35.hottracker.biz CNAME .
+fr36.hottracker.biz CNAME .
+*.fr36.hottracker.biz CNAME .
+fr37.hottracker.biz CNAME .
+*.fr37.hottracker.biz CNAME .
+fr42.hottracker.biz CNAME .
+*.fr42.hottracker.biz CNAME .
+fr43.hottracker.biz CNAME .
+*.fr43.hottracker.biz CNAME .
+usa11-2.hottracker.biz CNAME .
+*.usa11-2.hottracker.biz CNAME .
+usa12.hottracker.biz CNAME .
+*.usa12.hottracker.biz CNAME .
+usa13.hottracker.biz CNAME .
+*.usa13.hottracker.biz CNAME .
+usa17.hottracker.biz CNAME .
+*.usa17.hottracker.biz CNAME .
+usa18.hottracker.biz CNAME .
+*.usa18.hottracker.biz CNAME .
+usa19.hottracker.biz CNAME .
+*.usa19.hottracker.biz CNAME .
 igg.biz CNAME .
 *.igg.biz CNAME .
 rtb-useast.imprexis.biz CNAME .
@@ -5584,6 +5606,8 @@ bunchbox.co CNAME .
 *.bunchbox.co CNAME .
 cadcom.co CNAME .
 *.cadcom.co CNAME .
+calltrack.co CNAME .
+*.calltrack.co CNAME .
 carlosvinosbaettig.co CNAME .
 *.carlosvinosbaettig.co CNAME .
 adcenter-api.cashwalk.co CNAME .
@@ -42410,8 +42434,6 @@ istsldaheh.com CNAME .
 *.istsldaheh.com CNAME .
 isvnwxpoqgsgyy.com CNAME .
 *.isvnwxpoqgsgyy.com CNAME .
-isxfrhhtcsagr.com CNAME .
-*.isxfrhhtcsagr.com CNAME .
 isywjrtn.com CNAME .
 *.isywjrtn.com CNAME .
 168.it168.com CNAME .
@@ -42498,6 +42520,8 @@ ads.itv.com CNAME .
 *.ads.itv.com CNAME .
 cpt.itv.com CNAME .
 *.cpt.itv.com CNAME .
+recommendations.prd.user.itv.com CNAME .
+*.recommendations.prd.user.itv.com CNAME .
 itvalleynews.com CNAME .
 *.itvalleynews.com CNAME .
 itvertical.com CNAME .
@@ -49106,6 +49130,8 @@ mexstat128.com CNAME .
 *.mexstat128.com CNAME .
 info.meyerandassoc.com CNAME .
 *.info.meyerandassoc.com CNAME .
+logs.mezmo.com CNAME .
+*.logs.mezmo.com CNAME .
 mfabxfb.com CNAME .
 *.mfabxfb.com CNAME .
 mfadsrvr.com CNAME .
@@ -61356,6 +61382,8 @@ pxzkqq.com CNAME .
 *.pxzkqq.com CNAME .
 pycvlnu.com CNAME .
 *.pycvlnu.com CNAME .
+pyhdvvimr.com CNAME .
+*.pyhdvvimr.com CNAME .
 pymx5.com CNAME .
 *.pymx5.com CNAME .
 telemetry.pyramidanalytics.com CNAME .
@@ -64670,6 +64698,8 @@ analytics.rpxapps.com CNAME .
 *.analytics.rpxapps.com CNAME .
 rpzbfftekjdz.com CNAME .
 *.rpzbfftekjdz.com CNAME .
+rqctubqtcbgeug.com CNAME .
+*.rqctubqtcbgeug.com CNAME .
 rqgjvcea.com CNAME .
 *.rqgjvcea.com CNAME .
 rqmob.com CNAME .
@@ -98306,6 +98336,8 @@ wanproxy.127.net CNAME .
 *.24hoursuptodatecdn.net CNAME .
 24smi.net CNAME .
 *.24smi.net CNAME .
+2cent.net CNAME .
+*.2cent.net CNAME .
 2cnt.net CNAME .
 *.2cnt.net CNAME .
 c.2mdn.net CNAME .
@@ -99714,6 +99746,8 @@ adsninja.b-cdn.net CNAME .
 *.adsninja.b-cdn.net CNAME .
 bbangads.b-cdn.net CNAME .
 *.bbangads.b-cdn.net CNAME .
+beamanalytics.b-cdn.net CNAME .
+*.beamanalytics.b-cdn.net CNAME .
 bs-adserver.b-cdn.net CNAME .
 *.bs-adserver.b-cdn.net CNAME .
 creatopy-adtag-production.b-cdn.net CNAME .

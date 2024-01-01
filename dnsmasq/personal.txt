@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Dec 2023 12:04 UTC
-# Version: 2023.1231.1204.22
+# Last modified: 01 Jan 2024 00:51 UTC
+# Version: 2024.0101.0051.10
 # Syntax: DNSMasq
-# Number of entries: 63734
+# Number of entries: 63750
 #
 address=/0008d6ba2e.com/#
 address=/000space.com/#
@@ -656,6 +656,7 @@ address=/2c0a5.xyz/#
 address=/2c2a1b058e.com/#
 address=/2c4p24o6zp0y.top/#
 address=/2c4rrl8pe.de/#
+address=/2cent.net/#
 address=/2cjlj3c15.de/#
 address=/2cnjuh34jbman.com/#
 address=/2cnjuh34jbpoint.com/#
@@ -8047,6 +8048,7 @@ address=/absolutely-novel.b-cdn.net/#
 address=/adblockers.b-cdn.net/#
 address=/adsninja.b-cdn.net/#
 address=/bbangads.b-cdn.net/#
+address=/beamanalytics.b-cdn.net/#
 address=/bs-adserver.b-cdn.net/#
 address=/creatopy-adtag-production.b-cdn.net/#
 address=/deprecated-custom-domains.b-cdn.net/#
@@ -11347,6 +11349,7 @@ address=/callousbrake.com/#
 address=/callrail.com/#
 address=/callreports.com/#
 address=/calltouch.ru/#
+address=/calltrack.co/#
 address=/cc.calltracking.ru/#
 address=/calltrackingmetrics.com/#
 address=/calltracks.com/#
@@ -29472,7 +29475,18 @@ address=/hotstretchdove.com/#
 address=/hottercensorbeaker.com/#
 address=/sanalytics.hottopic.com/#
 address=/vdkjfd.hottopic.com/#
-address=/hottracker.biz/#
+address=/fr34.hottracker.biz/#
+address=/fr35.hottracker.biz/#
+address=/fr36.hottracker.biz/#
+address=/fr37.hottracker.biz/#
+address=/fr42.hottracker.biz/#
+address=/fr43.hottracker.biz/#
+address=/usa11-2.hottracker.biz/#
+address=/usa12.hottracker.biz/#
+address=/usa13.hottracker.biz/#
+address=/usa17.hottracker.biz/#
+address=/usa18.hottracker.biz/#
+address=/usa19.hottracker.biz/#
 address=/hotwildadult.com/#
 address=/om.hotwire.com/#
 address=/som.hotwire.com/#
@@ -31994,7 +32008,6 @@ address=/istsldaheh.com/#
 address=/isvnwxpoqgsgyy.com/#
 address=/iswhatappyouneed.net/#
 address=/iswhelectual.cc/#
-address=/isxfrhhtcsagr.com/#
 address=/isywjrtn.com/#
 address=/matomo.it-connect.fr/#
 address=/168.it168.com/#
@@ -32060,6 +32073,7 @@ address=/itstuffnews.com/#
 address=/ittogepiom.com/#
 address=/ads.itv.com/#
 address=/cpt.itv.com/#
+address=/recommendations.prd.user.itv.com/#
 address=/itvalleynews.com/#
 address=/itvertical.com/#
 address=/b.itvnet.lv/#
@@ -37383,6 +37397,7 @@ address=/mewigurom.com/#
 address=/mews2ruck.com/#
 address=/mexstat128.com/#
 address=/info.meyerandassoc.com/#
+address=/logs.mezmo.com/#
 address=/mfabxfb.com/#
 address=/mfadsrvr.com/#
 address=/mfcewkrob.com/#
@@ -46591,6 +46606,7 @@ address=/analytics.pxsweb.com/#
 address=/pxxnejx.xyz/#
 address=/pxzkqq.com/#
 address=/pycvlnu.com/#
+address=/pyhdvvimr.com/#
 address=/pyme124.pymedns.net/#
 address=/pymx5.com/#
 address=/pyoungstersofto.xyz/#
@@ -49056,6 +49072,7 @@ address=/rptbaa.shop/#
 address=/analytics.rpxapps.com/#
 address=/rpyor0k.xyz/#
 address=/rpzbfftekjdz.com/#
+address=/rqctubqtcbgeug.com/#
 address=/rqgjvcea.com/#
 address=/rqmetrixa.info/#
 address=/rqmetrixb.info/#
