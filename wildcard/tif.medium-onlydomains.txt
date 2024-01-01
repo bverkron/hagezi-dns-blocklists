@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Dec 2023 10:50 UTC
-# Version: 2023.1231.1050.22
+# Last modified: 31 Dec 2023 23:41 UTC
+# Version: 2023.1231.2341.52
 # Syntax: Domains (without subdomains)
-# Number of entries: 8762
+# Number of entries: 8758
 #
 000.pe
 000nethost.com
@@ -21,7 +21,6 @@ soft.110route.com
 1395867912.pw
 17110.com
 179527.com
-dl.198424.com
 19dm82.info
 i9t5qw.db.files.1drv.com
 jklkcg.db.files.1drv.com
@@ -68,6 +67,7 @@ onlines.3utilities.com
 50227.top
 513586.top
 api.52kkg.com
+542199235l.com
 hacker.548848.xyz
 dl.1003b.56a.com
 58dukkan.com
@@ -132,7 +132,6 @@ imit.ac.in
 kaliro.ac.ug
 admissionletters.khu.ac.ke
 lodwartvc.ac.ke
-partadino.ac.ug
 sndcoe.ac.in
 ziwatti.ac.ke
 academiadepsihosomatica.md
@@ -251,6 +250,7 @@ aioecoin.org
 aipccoaching.com
 aiqonsb.com
 airesdemoscatel.com
+airhobi.com
 airmoney9ja.com
 airoutlaw.com
 airtaceuropa.com
@@ -320,7 +320,6 @@ ma36twegt.oss-accelerate.aliyuncs.com
 wb25f.oss-accelerate.aliyuncs.com
 fdasfewmm26dsafdas.oss-ap-southeast-1.aliyuncs.com
 bw5file1.oss-cn-hangzhou.aliyuncs.com
-xz888.oss-cn-hangzhou.aliyuncs.com
 compan.oss-cn-hongkong.aliyuncs.com
 tght1.oss-cn-hongkong.aliyuncs.com
 windowswps.oss-cn-hongkong.aliyuncs.com
@@ -456,7 +455,6 @@ appointcenter.com
 wingcomm-dot-yamm-track.appspot.com
 appstopic.com
 aprfc.rw
-aproductions360.com
 apstaffing.us
 aptinverex.net
 apuntotelecom.com
@@ -1492,7 +1490,6 @@ zantripstours.co.tz
 dj.zn.co.nz
 co-create2071.org
 coachingfinancieroconfidencial.com
-coadymarine.com
 coagula.online
 api-ms.cobainaja.id
 cocoplaynut.com
@@ -1613,7 +1610,6 @@ balens.com.tw
 balzac.com.mx
 bamboom.com.co
 bathroomcrew.com.au
-bearcatpumps.com.cn
 becomeaprovider.com.au
 belafans.com.br
 belkblast.com.au
@@ -1652,6 +1648,7 @@ capacitecbi.com.mx
 capsfactory.com.mx
 carads.com.bd
 cargodominant.com.ph
+carinhosomotel.com.br
 carlaperez.com.br
 carlsjunior.com.pa
 cdaonline.com.ar
@@ -2330,7 +2327,6 @@ creditcaretech.com
 creditepentrutoti.ro
 cretabee.gr
 crevinut.com
-critlcalriver.com
 crmdev.org
 crosspointeada.com
 crucialpsicologia.cl
@@ -2592,6 +2588,7 @@ dotcombroadband.net
 download.doumaibiji.cn
 doumvn.com
 dousen.co
+downloayxkemam.sbs
 files2.dp.ua
 dpecalgerie.com
 dphcp.org
@@ -2964,7 +2961,6 @@ exco.fit
 execs.com
 exetercathay.com
 exilien.my
-exilum.com
 eximiamedical.ro
 existay.com
 expaceos.com
@@ -3023,11 +3019,9 @@ adl-hg.faqserv.com
 adl-hjh.faqserv.com
 adl-j.faqserv.com
 adl-ljh.faqserv.com
-adl-q.faqserv.com
 adl-sahm.faqserv.com
 adl-shm.faqserv.com
 adl-ue.faqserv.com
-adl-w.faqserv.com
 adla.faqserv.com
 adliq.faqserv.com
 adliris.faqserv.com
@@ -3099,7 +3093,6 @@ s-ir.faqserv.com
 saf.faqserv.com
 sah.faqserv.com
 sahaam.faqserv.com
-saham-gh.faqserv.com
 sahama.faqserv.com
 sahgs.faqserv.com
 sahmn.faqserv.com
@@ -3513,6 +3506,7 @@ glumotrustfinance.io
 glycpolsbeel.cf
 gnncoautoparts.com
 pa-sampit.go.id
+pn-raha.go.id
 pt-bali.go.id
 smpn41.semarangkota.go.id
 goastudios.com
@@ -3739,7 +3733,6 @@ hiro-af.org
 naniwa-ginzaaward.hisaki-design.com
 historiasdelescarabajo.com
 hitechhomes.ca
-hitstation.nl
 hitsturbo.com
 running.hkcosmo.com
 hklae.pl
@@ -3747,7 +3740,6 @@ hlcombustibles.com
 hmhconnect.ng
 hmyjc.cn
 hnalkhedmad.com
-yp.hnggzyjy.cn
 hoanggiadoor.com
 hobitronik.com
 hogarentainversiones.com
@@ -3985,6 +3977,7 @@ fresh1.ironoreprod.top
 ironreward.com
 arenterprese2023.is-a-caterer.com
 isasecret.com
+ishahcouture.com
 iskillsjr.com
 islammagdy.com
 islandbagelbar.com
@@ -3999,7 +3992,6 @@ israrliaqat.com
 istaffrecruits.com
 istanasemer.com
 isteonline.org
-drive.google.com.it-barcelona.com
 italianpipemakers.com
 italianplanters.com
 itea-rwanda.com
@@ -4624,6 +4616,7 @@ mavrosdrive.gr
 maxcounsellingservices.com
 maxiimus.top
 maxixeatelier.com
+maxmoney.com
 maxsolution.in
 maxuikl.top
 maxximbrasil.com
@@ -4825,6 +4818,7 @@ molinoloizzoaltamura.it
 moltaqa.net
 momolive.work
 monikajoanna.pl
+moninediy.com
 monitorperkaraktp.id
 monoblocked.com
 monsteriptv.se
@@ -5272,6 +5266,7 @@ oo000oo.club
 ooolowokureandco.org
 oops.best
 opal.rw
+opesjk.ug
 opolis.io
 opsol.com
 opticienregard.com
@@ -7524,6 +7519,7 @@ smpn3petarukan.sch.id
 scheiff.eu
 schematize.pw
 scholarshiplug.com
+scientific.pk
 scientificatiles.com
 scincormatize.com
 scoutsjalisco.org
@@ -8037,6 +8033,7 @@ tedlogisticinc.com
 tedsbrain.com
 tejaratbd.com
 teknokarsogutma.com
+telagrmac.com
 telcoqatar.com
 tele-latino.com
 telefonteknik.se
@@ -8181,6 +8178,7 @@ tlmnepal.org
 tlsallpl.pl
 tlssupplies.com
 tmalltbw.com
+tmglawpalawan.com
 tng24.com
 tnkdeals.com
 tntevent.vn
@@ -8678,7 +8676,6 @@ ycxrl.com
 ycybdp.com
 eu.ydns.eu
 torna.ydns.eu
-troubletorn.ydns.eu
 ye156ey.xyz
 yedyed.tn
 yelove.xyz
@@ -8726,7 +8723,6 @@ zameenistan.com
 zamilcp.com
 zamned17.xyz
 zamzamhotelbatu.com
-zaofisa.net
 zap-webspace.com
 zarbafeh.shop
 zateghar.com
