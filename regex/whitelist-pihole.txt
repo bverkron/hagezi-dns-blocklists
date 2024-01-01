@@ -234,6 +234,7 @@
 (\.|^)itunes\.apple\.com$
 (\.|^)itunes\.apple\.com\.edgekey\.net$
 (\.|^)itunes\-cdn\.itunes\-apple\.com\.akadns\.net$
+^itv\-tier.*\..*\.delivery\.aimatch\.net$
 (\.|^)kajabi\-cdn\.com$
 (\.|^)kiwibrowser\.com$
 (\.|^)kwrn\.eu$
