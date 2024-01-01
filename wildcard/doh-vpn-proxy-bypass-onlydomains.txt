@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 01 Jan 2024 23:25 UTC
-# Version: 2024.0101.2325.39
+# Last modified: 01 Jan 2024 23:45 UTC
+# Version: 2024.0101.2345.07
 # Syntax: Domains (without subdomains)
-# Number of entries: 2660
+# Number of entries: 2662
 #
 0000a-fast-proxy.de
 ns.00dani.me
@@ -1054,6 +1054,7 @@ hideme101.info
 hidemebro.com
 hidemefast.net
 hidemenow.net
+hidemy.io
 hidemy.name
 hidemyass.com
 hidemycomp.com
@@ -2044,6 +2045,7 @@ sitescrack.host
 sitesunblocked.com
 siteunblock.org
 sitework.info
+iproyal.sjv.io
 dns.skrep.eu
 skynetwork.info
 skyssh.co
