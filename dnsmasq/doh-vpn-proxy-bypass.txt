@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 30 Dec 2023 23:28 UTC
-# Version: 2023.1230.2328.25
+# Last modified: 01 Jan 2024 23:25 UTC
+# Version: 2024.0101.2325.39
 # Syntax: DNSMasq
-# Number of entries: 2662
+# Number of entries: 2660
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -45,7 +45,6 @@ address=/42kjb11.net/#
 address=/doh.42l.fr/#
 address=/46sdzf3zdg1dxg2.us/#
 address=/4everproxy.com/#
-address=/4proxy.de/#
 address=/dns.52306.org/#
 address=/57824.com/#
 address=/dns.5ososea.com/#
@@ -347,7 +346,6 @@ address=/dns.carson-family.com/#
 address=/dns2.cbio.top/#
 address=/doh.ccb-net.it/#
 address=/vpn.ccnt.fr/#
-address=/1437165997.rsc.cdn77.org/#
 address=/cedarbranches.com/#
 address=/celo.net/#
 address=/anycast.censurfridns.dk/#
