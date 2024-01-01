@@ -5,9 +5,13 @@
 (\.|^)7eer\.net$
 (\.|^)a1\.adform\.net$
 (\.|^)a1\.adformnet\.akadns\.net$
-(\.|^)aax\-.*\.amazon\..*$
+(\.|^)aax\-eu\.amazon\..*$
+(\.|^)aax\-fe\.amazon\..*$
+(\.|^)aax\-fe\.amazon\-adsystem\.com$
 (\.|^)aax\-.*\-retail\-direct\.amazon\-adsystem\.com$
 (\.|^)aax\-.*\-retail\-direct\.amazon\.com$
+(\.|^)aax\-us\-iad\.amazon\.com$
+(\.|^)ab1n\.net$
 (\.|^)ablink\.email\.etsy\.com$
 (\.|^)ablink\.mail\.parkmobile\.io$
 (\.|^)acemlnb\.com$
@@ -25,7 +29,6 @@
 (\.|^)ad7\.adfarm1\.adition\.com$
 (\.|^)ad8\.adfarm1\.adition\.com$
 (\.|^)ad9\.adfarm1\.adition\.com$
-(\.|^)ad.*\.adfarm1\.adition\.com$
 (\.|^)ad\.admitad\.com$
 (\.|^)ad\.atdmt\.com$
 (\.|^)ad\.doubleclick\.net$
@@ -81,6 +84,7 @@
 (\.|^)clck\.ru$
 (\.|^)clck\.yandex\.ru$
 (\.|^)cl\.exct\.net$
+(\.|^)click\.aliexpress\.com$
 (\.|^)click\.allkeyshop\.com$
 (\.|^)click\.alternate\.de$
 (\.|^)click\.appcast\.io$
@@ -246,7 +250,7 @@
 (\.|^)pdt\.tradedoubler\.com$
 (\.|^)pepperjamnetwork\.com$
 (\.|^)pi\.pardot\.com$
-(\.|^)pixel\.everesttech\.net$
+(\.|^)pixel.*\.everesttech\.net$
 (\.|^)pjatr\.com$
 (\.|^)pjtra\.com$
 (\.|^)pntrac\.com$
@@ -274,7 +278,6 @@
 (\.|^)referrer\.disqus\.com$
 (\.|^)r\.srvtrck\.com$
 (\.|^)sailthru\.com$
-(\.|^)s\.click\.aliexpress\.com$
 (\.|^)sendgrid\-secure\.bluecore\.com$
 (\.|^)seu.*\.cleverreach\.com$
 (\.|^)s.*\.exacttarget\.com$
