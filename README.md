@@ -1,8 +1,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hagezi/dns-blocklists)![GitHub issues](https://img.shields.io/github/issues/hagezi/dns-blocklists)![GitHub closed issues](https://img.shields.io/github/issues-closed/hagezi/dns-blocklists)![GitHub repo size](https://img.shields.io/github/repo-size/hagezi/dns-blocklists)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhagezi%2Fdns-blocklists&count_bg=%23754400&title_bg=%235F5F5F&icon=awesomelists.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/hagezi/dns-blocklists)[![shields.io Stars](https://img.shields.io/github/stars/hagezi/dns-blocklists)](https://github.com/hagezi/dns-blocklists/stargazers)
 ## :zap: DNS Blocklists - *For a better internet!*
 
-### :christmas_tree: *Wishing you a Happy Holiday and a joyful New Year.* :fireworks:
-
 ---
 
 ### *Made with :heartbeat: for a safer and cleaner internet! It always seems impossible until it’s done.*
@@ -44,8 +42,8 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Entries | Pro++ | Pro | Nor<br>mal | Light | [Fake](#fake) | [TIF](#tif) | [Pers<br>onal](#personal) | [Nat<br>ive](#native) | [PopUp<br>Ads](#popupads) | Bug<br>Tracker |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----------:|:----:|:----:|
-| :green_book:[Light](#light)             | 219247<br>66991     |  |   |   |  |  | :yellow_square: | :green_circle: | :yellow_square: | | |
-| :blue_book:[Normal](#normal)       | 757325<br>173923     |  |   |  | :green_circle: | :yellow_square: | :yellow_square: | :green_circle: | :yellow_square: | :yellow_square: | |
+| :green_book:[Light](#light)             | 216545<br>66295     |  |   |   |  |  | :yellow_square: | :green_circle: | :yellow_square: | | |
+| :blue_book:[Normal](#normal)       | 749791<br>172687     |  |   |  | :green_circle: | :yellow_square: | :yellow_square: | :green_circle: | :yellow_square: | :yellow_square: | |
 | :ledger:[Pro](#pro)              | 997012<br>261644         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
 | :orange_book:[Pro++](#proplus)    | 1226049<br>326333 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
 | :closed_book:[Ultimate](#ultimate)    | 1486232<br>422871 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |
@@ -63,7 +61,7 @@
           
 ***NOTE:*** *Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.*
 		  
-**Entries:** *219247 domains/hosts - 66991 compressed domains*                    
+**Entries:** *216545 domains/hosts - 66295 compressed domains*                    
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -83,7 +81,7 @@
          
 ***NOTE:*** *Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.*
 		  
-**Entries:** *757325 domains/hosts - 173923 compressed domains*                   
+**Entries:** *749791 domains/hosts - 172687 compressed domains*                   
           
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -166,7 +164,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *13797 compressed domains*           
+**Entries:** *14404 compressed domains*           
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -432,7 +430,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *63749 compressed domains*                    
+**Entries:** *63126 compressed domains*                    
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
