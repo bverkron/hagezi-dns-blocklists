@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 31 Dec 2023 10:16 UTC
-# Version: 2023.1231.1016.04
+# Last modified: 01 Jan 2024 23:32 UTC
+# Version: 2024.0101.2332.58
 # Syntax: DNSMasq
-# Number of entries: 10695
+# Number of entries: 10688
 #
 address=/blink-stresser.000webhostapp.com/#
 address=/ddos-ovh-v6.000webhostapp.com/#
@@ -65,13 +65,11 @@ address=/123moviehub.co/#
 address=/123movieonline.xyz/#
 address=/123movies.ag/#
 address=/123movies.archi/#
-address=/123movies.army/#
 address=/123movies.bio/#
 address=/123movies.church/#
 address=/123movies.coach/#
 address=/123movies.com/#
 address=/123movies.domains/#
-address=/123movies.exposed/#
 address=/123movies.fan/#
 address=/123movies.fun/#
 address=/123movies.gallery/#
@@ -139,7 +137,6 @@ address=/123unblock.art/#
 address=/123unblock.fun/#
 address=/123unblock.monster/#
 address=/ettv.123unblock.world/#
-address=/ipv6.1337.cx/#
 address=/13377x.tw/#
 address=/1337x.am/#
 address=/1337x.app/#
@@ -192,8 +189,6 @@ address=/23movies.xyz/#
 address=/24-download.com/#
 address=/24-downloads.com/#
 address=/240x320.ru/#
-address=/247pirate.org/#
-address=/247prox.link/#
 address=/247proxydl.org/#
 address=/24urban.com/#
 address=/24warez.ru/#
@@ -324,7 +319,6 @@ address=/tracker3.520.jp/#
 address=/tracker.52pt.site/#
 address=/admin.52ywp.com/#
 address=/54new.com/#
-address=/5mins.shop/#
 address=/5movierulz.vc/#
 address=/5movies.buzz/#
 address=/5movies.cloud/#
@@ -337,7 +331,6 @@ address=/5tigorsk.ru/#
 address=/60-fps.org/#
 address=/61626c.net/#
 address=/64k.it/#
-address=/ipv6.69.mu/#
 address=/6ahddutb1ucc3cp.ru/#
 address=/6box.me/#
 address=/6movies.net/#
@@ -466,7 +459,6 @@ address=/alabout.com/#
 address=/tracker.aladar.com/#
 address=/alamy.com/#
 address=/alamyimages.fr/#
-address=/00.alarmasqueretaro.com/#
 address=/api.alarmasqueretaro.com/#
 address=/aletorrenty.pl/#
 address=/alfafile.net/#
@@ -4793,6 +4785,7 @@ address=/helloitbd.com/#
 address=/helltorrents.com/#
 address=/hemenpaylas.com/#
 address=/henbt.com/#
+address=/tracker.hentai.gg/#
 address=/hentaisun.com/#
 address=/herobit.org/#
 address=/evening-badlands-6215.herokuapp.com/#

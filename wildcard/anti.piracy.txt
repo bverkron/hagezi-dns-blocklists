@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 31 Dec 2023 10:16 UTC
-# Version: 2023.1231.1016.04
+# Last modified: 01 Jan 2024 23:32 UTC
+# Version: 2024.0101.2332.58
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 10695
+# Number of entries: 10688
 #
 *.blink-stresser.000webhostapp.com
 *.ddos-ovh-v6.000webhostapp.com
@@ -65,13 +65,11 @@
 *.123movieonline.xyz
 *.123movies.ag
 *.123movies.archi
-*.123movies.army
 *.123movies.bio
 *.123movies.church
 *.123movies.coach
 *.123movies.com
 *.123movies.domains
-*.123movies.exposed
 *.123movies.fan
 *.123movies.fun
 *.123movies.gallery
@@ -139,7 +137,6 @@
 *.123unblock.fun
 *.123unblock.monster
 *.ettv.123unblock.world
-*.ipv6.1337.cx
 *.13377x.tw
 *.1337x.am
 *.1337x.app
@@ -192,8 +189,6 @@
 *.24-download.com
 *.24-downloads.com
 *.240x320.ru
-*.247pirate.org
-*.247prox.link
 *.247proxydl.org
 *.24urban.com
 *.24warez.ru
@@ -324,7 +319,6 @@
 *.tracker.52pt.site
 *.admin.52ywp.com
 *.54new.com
-*.5mins.shop
 *.5movierulz.vc
 *.5movies.buzz
 *.5movies.cloud
@@ -337,7 +331,6 @@
 *.60-fps.org
 *.61626c.net
 *.64k.it
-*.ipv6.69.mu
 *.6ahddutb1ucc3cp.ru
 *.6box.me
 *.6movies.net
@@ -466,7 +459,6 @@
 *.tracker.aladar.com
 *.alamy.com
 *.alamyimages.fr
-*.00.alarmasqueretaro.com
 *.api.alarmasqueretaro.com
 *.aletorrenty.pl
 *.alfafile.net
@@ -4793,6 +4785,7 @@
 *.helltorrents.com
 *.hemenpaylas.com
 *.henbt.com
+*.tracker.hentai.gg
 *.hentaisun.com
 *.herobit.org
 *.evening-badlands-6215.herokuapp.com

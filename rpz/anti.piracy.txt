@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1704017760 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1704151920 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 31 Dec 2023 10:16 UTC
-; Version: 2023.1231.1016.04
+; Last modified: 01 Jan 2024 23:32 UTC
+; Version: 2024.0101.2332.58
 ; Syntax: RPZ
-; Number of entries: 21390
+; Number of entries: 21376
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -260,8 +260,6 @@ cineblog01.archi CNAME .
 *.cineblog01.archi CNAME .
 eurostreaming.archi CNAME .
 *.eurostreaming.archi CNAME .
-123movies.army CNAME .
-*.123movies.army CNAME .
 aaa.army CNAME .
 *.aaa.army CNAME .
 altadefinizione.army CNAME .
@@ -2660,8 +2658,6 @@ tracker.aladar.com CNAME .
 *.tracker.aladar.com CNAME .
 alamy.com CNAME .
 *.alamy.com CNAME .
-00.alarmasqueretaro.com CNAME .
-*.00.alarmasqueretaro.com CNAME .
 api.alarmasqueretaro.com CNAME .
 *.api.alarmasqueretaro.com CNAME .
 alfanotv.com CNAME .
@@ -8618,8 +8614,6 @@ p2p.0g.cx CNAME .
 *.p2p.0g.cx CNAME .
 v6-tracker.0g.cx CNAME .
 *.v6-tracker.0g.cx CNAME .
-ipv6.1337.cx CNAME .
-*.ipv6.1337.cx CNAME .
 creative.7o7.cx CNAME .
 *.creative.7o7.cx CNAME .
 allin1.cx CNAME .
@@ -9330,8 +9324,6 @@ guardaserie.expert CNAME .
 *.guardaserie.expert CNAME .
 streamingcommunity.expert CNAME .
 *.streamingcommunity.expert CNAME .
-123movies.exposed CNAME .
-*.123movies.exposed CNAME .
 cb01.express CNAME .
 *.cb01.express CNAME .
 kinox.express CNAME .
@@ -9818,6 +9810,8 @@ filmstreaming.gg CNAME .
 *.filmstreaming.gg CNAME .
 french-stream.gg CNAME .
 *.french-stream.gg CNAME .
+tracker.hentai.gg CNAME .
+*.tracker.hentai.gg CNAME .
 rarbg.gg CNAME .
 *.rarbg.gg CNAME .
 sendit.gg CNAME .
@@ -11362,8 +11356,6 @@ ilgeniodellostreaming.limo CNAME .
 *.123movies.link CNAME .
 1337x.link CNAME .
 *.1337x.link CNAME .
-247prox.link CNAME .
-*.247prox.link CNAME .
 cb01.link CNAME .
 *.cb01.link CNAME .
 cinemagratis.link CNAME .
@@ -12352,8 +12344,6 @@ thepiratebay.ms CNAME .
 *.thepiratebay.ms CNAME .
 yts.ms CNAME .
 *.yts.ms CNAME .
-ipv6.69.mu CNAME .
-*.ipv6.69.mu CNAME .
 altadefinizione.music CNAME .
 *.altadefinizione.music CNAME .
 altadefinizione01.music CNAME .
@@ -15042,8 +15032,6 @@ filmsenzalimiti.ooo CNAME .
 *.1techno.org CNAME .
 1trance.org CNAME .
 *.1trance.org CNAME .
-247pirate.org CNAME .
-*.247pirate.org CNAME .
 247proxydl.org CNAME .
 *.247proxydl.org CNAME .
 2piratebay.org CNAME .
@@ -18334,8 +18322,6 @@ tracker.vulnix.sh CNAME .
 *.tracker.vulnix.sh CNAME .
 yesmovies.sh CNAME .
 *.yesmovies.sh CNAME .
-5mins.shop CNAME .
-*.5mins.shop CNAME .
 cb01.shop CNAME .
 *.cb01.shop CNAME .
 cineblog01.shop CNAME .
