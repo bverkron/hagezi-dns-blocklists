@@ -127,13 +127,9 @@
 @@||click.aliexpress.com^
 @@||click.allkeyshop.com^
 @@||click.alternate.de^
-@@||aax-*-retail-direct.amazon.com^
-@@||aax-eu.amazon.*^
-@@||aax-fe.amazon.*^
-@@||aax-us-iad.amazon.com^
+@@||aax*.amazon-adsystem.com^
+@@||aax*.amazon.*^
 @@||assoc-redirect.amazon.*^
-@@||aax-*-retail-direct.amazon-adsystem.com^
-@@||aax-fe.amazon-adsystem.com^
 @@||click.member.americanexpress.com^
 @@||prism.app-us1.com^
 @@||click.appcast.io^

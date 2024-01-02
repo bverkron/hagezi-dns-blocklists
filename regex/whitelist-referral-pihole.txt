@@ -5,12 +5,8 @@
 (\.|^)7eer\.net$
 (\.|^)a1\.adform\.net$
 (\.|^)a1\.adformnet\.akadns\.net$
-(\.|^)aax\-eu\.amazon\..*$
-(\.|^)aax\-fe\.amazon\..*$
-(\.|^)aax\-fe\.amazon\-adsystem\.com$
-(\.|^)aax\-.*\-retail\-direct\.amazon\-adsystem\.com$
-(\.|^)aax\-.*\-retail\-direct\.amazon\.com$
-(\.|^)aax\-us\-iad\.amazon\.com$
+(\.|^)aax.*\.amazon\..*$
+(\.|^)aax.*\.amazon\-adsystem\.com$
 (\.|^)ab1n\.net$
 (\.|^)ablink\.email\.etsy\.com$
 (\.|^)ablink\.mail\.parkmobile\.io$

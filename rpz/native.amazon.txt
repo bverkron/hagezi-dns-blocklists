@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1703891700 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1704182880 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Amazon Tracker DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 29 Dec 2023 23:15 UTC
-; Version: 2023.1229.2315.17
+; Last modified: 02 Jan 2024 08:08 UTC
+; Version: 2024.0102.0808.44
 ; Syntax: RPZ
-; Number of entries: 370
+; Number of entries: 334
 ;
 advertising.amazon.ae CNAME .
 *.advertising.amazon.ae CNAME .
@@ -92,42 +92,6 @@ unagi-fe.amazon.com CNAME .
 *.unagi-fe.amazon.com CNAME .
 unagi-na.amazon.com CNAME .
 *.unagi-na.amazon.com CNAME .
-2632ce734-frontier.amazon-adsystem.com CNAME .
-*.2632ce734-frontier.amazon-adsystem.com CNAME .
-aax.amazon-adsystem.com CNAME .
-*.aax.amazon-adsystem.com CNAME .
-aax-apse-dtb-web.amazon-adsystem.com CNAME .
-*.aax-apse-dtb-web.amazon-adsystem.com CNAME .
-aax-cpm.amazon-adsystem.com CNAME .
-*.aax-cpm.amazon-adsystem.com CNAME .
-aax-dtb-cf.amazon-adsystem.com CNAME .
-*.aax-dtb-cf.amazon-adsystem.com CNAME .
-aax-dtb-mobile-geo.amazon-adsystem.com CNAME .
-*.aax-dtb-mobile-geo.amazon-adsystem.com CNAME .
-aax-eu.amazon-adsystem.com CNAME .
-*.aax-eu.amazon-adsystem.com CNAME .
-aax-fe.amazon-adsystem.com CNAME .
-*.aax-fe.amazon-adsystem.com CNAME .
-aax-fe-sin.amazon-adsystem.com CNAME .
-*.aax-fe-sin.amazon-adsystem.com CNAME .
-aax-ott.amazon-adsystem.com CNAME .
-*.aax-ott.amazon-adsystem.com CNAME .
-aax-ott-c2s.amazon-adsystem.com CNAME .
-*.aax-ott-c2s.amazon-adsystem.com CNAME .
-aax-ott-sdk.amazon-adsystem.com CNAME .
-*.aax-ott-sdk.amazon-adsystem.com CNAME .
-aax-us.amazon-adsystem.com CNAME .
-*.aax-us.amazon-adsystem.com CNAME .
-aax-us-east.amazon-adsystem.com CNAME .
-*.aax-us-east.amazon-adsystem.com CNAME .
-aax-us-east-ott.amazon-adsystem.com CNAME .
-*.aax-us-east-ott.amazon-adsystem.com CNAME .
-aax-us-east-test.amazon-adsystem.com CNAME .
-*.aax-us-east-test.amazon-adsystem.com CNAME .
-aax-us-pdx.amazon-adsystem.com CNAME .
-*.aax-us-pdx.amazon-adsystem.com CNAME .
-aax-us-west-ott.amazon-adsystem.com CNAME .
-*.aax-us-west-ott.amazon-adsystem.com CNAME .
 aps.amazon-adsystem.com CNAME .
 *.aps.amazon-adsystem.com CNAME .
 at-us-east.amazon-adsystem.com CNAME .
