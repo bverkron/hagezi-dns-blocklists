@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 02 Jan 2024 09:48 UTC
-# Version: 2024.0102.0948.02
+# Last modified: 02 Jan 2024 22:59 UTC
+# Version: 2024.0102.2259.32
 # Syntax: Domains (without subdomains)
-# Number of entries: 10667
+# Number of entries: 10642
 #
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
@@ -187,7 +187,6 @@ ettv.123unblock.world
 retracker.211.ru
 23movies.xyz
 24-download.com
-24-downloads.com
 240x320.ru
 247proxydl.org
 24urban.com
@@ -1672,7 +1671,6 @@ casacinema.arab
 casacinema.beauty
 casacinema.bid
 casacinema.biz
-casacinema.cc
 casacinema.com
 casacinema.de
 casacinema.eu
@@ -1820,7 +1818,6 @@ cb01.love
 cb01.marketing
 cb01.me
 cb01.media
-cb01.men
 cb01.miami
 cb01.mobi
 cb01.money
@@ -1833,7 +1830,6 @@ cb01.network
 cb01.news
 cb01.nl
 cb01.observer
-cb01.one
 cb01.online
 cb01.org
 cb01.page
@@ -1867,7 +1863,6 @@ cb01.social
 cb01.solar
 cb01.solutions
 cb01.space
-cb01.store
 cb01.studio
 cb01.study
 cb01.su
@@ -1881,7 +1876,6 @@ cb01.today
 cb01.tools
 cb01.top
 cb01.tours
-cb01.town
 cb01.toys
 cb01.training
 cb01.tv
@@ -1916,9 +1910,7 @@ tracker.ccp.ovh
 ccracks.com
 cda-hd.cc
 cdcovers.cc
-cddownloadeasy.org
 cddownloadfree.org
-cddownloadfull.org
 cdromance.com
 ceasers-palace.info
 celerystresser.com
@@ -1986,7 +1978,6 @@ cineblog01.cards
 cineblog01.care
 cineblog01.casa
 cineblog01.cc
-cineblog01.ch
 cineblog01.city
 cineblog01.click
 cineblog01.cloud
@@ -2019,7 +2010,6 @@ cineblog01.gold
 cineblog01.golf
 cineblog01.gratis
 cineblog01.green
-cineblog01.hair
 cineblog01.haus
 cineblog01.help
 cineblog01.homes
@@ -2038,7 +2028,6 @@ cineblog01.love
 cineblog01.lt
 cineblog01.makeup
 cineblog01.me
-cineblog01.moe
 cineblog01.mom
 cineblog01.music
 cineblog01.name
@@ -2073,16 +2062,13 @@ cineblog01.today
 cineblog01.top
 cineblog01.town
 cineblog01.toys
-cineblog01.trade
 cineblog01.tv
 cineblog01.uno
 cineblog01.vet
 cineblog01.vg
-cineblog01.video
 cineblog01.vin
 cineblog01.watch
 cineblog01.win
-cineblog01.world
 cineblog01.ws
 cineblog01.xyz
 cineblog01.zone
@@ -2115,7 +2101,6 @@ cinemagratis.online
 cinemagratis.org
 cinemagratis.site
 cinemagratis.vg
-cinemagratis.world
 cinemagratis.ws
 cinemagratis.xyz
 cinemahd.work
@@ -2273,7 +2258,6 @@ tracker.exorditech.com.tr
 filmesgratiscinefilmeshd.com.br
 fnet.com.bd
 tracker.frontalweb.com.ar
-fti.com.bd
 ftp.com.bd
 fullfotos.com.ar
 futebolaovivogratis.com.br
@@ -2298,7 +2282,6 @@ www.opnsports.com.pk
 salamonline.com.bd
 skynet.com.bd
 slnisp.com.bd
-smartflixhd.com.br
 soap2day.com.co
 terabox.telefonica.com.ar
 thepiratebays.com.se
@@ -2369,7 +2352,6 @@ cpasbien.com
 cpasbien.io
 cpasbien.me
 cpasbien.pe
-cpasbien.plus
 cpasbien.rip
 cpasbien.sh
 cpasbien.site
@@ -2386,7 +2368,6 @@ cpasmal.biz
 cpasmieux.lol
 cpbild.co
 cpleft.com
-cpturbo.org
 crack.ms
 crack.nu
 crack.ru
@@ -2641,7 +2622,6 @@ ddownload.com
 tracker.ddunlimited.net
 ddwarez.com
 deaddrops.com
-deadfrog.us
 fe.dealclub.de
 deamonbytes.net
 bttracker.debian.org
@@ -3632,7 +3612,6 @@ filmpertutti.bar
 filmpertutti.be
 filmpertutti.best
 filmpertutti.bet
-filmpertutti.bid
 filmpertutti.bio
 filmpertutti.black
 filmpertutti.blog
@@ -4362,7 +4341,6 @@ goloady.com
 gomoviefree.sc
 gomovies.click
 gomovies.film
-gomovies.guru
 gomovies.kim
 gomovies.ltd
 gomovies.men
@@ -5784,7 +5762,6 @@ backupz.lunaticsworld.com
 lunchboards.com
 lunchflix.com
 lunchflix.org
-tracker.lyretain.site
 lztr.us
 tracker.lztr.me
 tp.m-team.cc
@@ -6679,7 +6656,6 @@ nulledwarez.org
 nulljungle.com
 nullphp.net
 nullphpscript.com
-tracker.nullrouted.me
 nullscriptfullz.com
 nullzone.fr
 nunuyy.cc
@@ -8801,7 +8777,6 @@ tracker.tbkresources.org
 tc-boxing.com
 tracker.tcp.exchange
 teach12.com
-tracker.teambelgium.net
 teamfx.org
 teamos-hkrg.com
 teatv.xyz
