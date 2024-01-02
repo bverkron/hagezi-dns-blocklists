@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 02 Jan 2024 01:32 UTC
-! Version: 2024.0102.0132.49
+! Last modified: 02 Jan 2024 09:48 UTC
+! Version: 2024.0102.0948.08
 ! Syntax: AdBlock
-! Number of entries: 63205
+! Number of entries: 63124
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -4934,7 +4934,6 @@
 ||albanianewss.info^
 ||albrechto.co^
 ||albsgdq.cn^
-||teijs.alcampo.es^
 ||alcatza.com^
 ||alceaso.ru^
 ||alchemeeten.com^
@@ -4975,7 +4974,6 @@
 ||alexisceilingrelease.com^
 ||metrics.alfabank.ru^
 ||alfasense.com^
-||alfkiel.com^
 ||alfonsino.top^
 ||alfredpoleshipwreck.com^
 ||alfredvariablecavalry.com^
@@ -5140,8 +5138,6 @@
 ||allaboutjob.online^
 ||alladvantage.com^
 ||analytics.allagentreports.com^
-||conn-service-eu-01.allawnos.com^
-||conn-service-eu-02.allawnos.com^
 ||conn-service-eu-03.allawnos.com^
 ||conn-service-eu-04.allawnos.com^
 ||conn-service-eu-05.allawnos.com^
@@ -5192,7 +5188,6 @@
 ||allhypefeed.com^
 ||alli-ti-hunter.com^
 ||agcs-knowledge.allianz.com^
-||piwik.pflege.allianz.de^
 ||piwik.reisekranken.allianz.de^
 ||sdc.allianz.de^
 ||strack.allianz.at^
@@ -5260,7 +5255,6 @@
 ||allways-always.us^
 ||allworldcars.com^
 ||metrics.ally.com^
-||metric.mftm.ally.com^
 ||smetrics.ally.com^
 ||allyenitwasbr.com^
 ||allyes.com^
@@ -5437,7 +5431,6 @@
 ||geoip.amazing.media^
 ||amazingcounters.com^
 ||amazingdonutco.com^
-||aax-eu-dub.amazon.com^
 ||advertising.amazon.ae^
 ||advertising.amazon.ca^
 ||advertising.amazon.cn^
@@ -5453,7 +5446,6 @@
 ||advertising.amazon.sa^
 ||advertising.amazon.se^
 ||advertising-api-eu.amazon.com^
-||amazon-adsystem.amazon.com^
 ||applab-sdk.amazon.com^
 ||metrics.artists.amazon.com^
 ||aviary.amazon.com^
@@ -5468,24 +5460,9 @@
 ||mads-eu.amazon.com^
 ||mads-fe.amazon.com^
 ||events.app-performance.music.amazon.dev^
-||fls.dub.proxy.amazon.com^
 ||telemetry.pxt.amazon.dev^
 ||rcm.amazon.com^
 ||uedata.amazon.com^
-||aax.amazon-adsystem.com^
-||aax-cpm.amazon-adsystem.com^
-||aax-dtb-cf.amazon-adsystem.com^
-||aax-dtb-mobile-geo.amazon-adsystem.com^
-||aax-eu.amazon-adsystem.com^
-||aax-fe-sin.amazon-adsystem.com^
-||aax-ott.amazon-adsystem.com^
-||aax-ott-c2s.amazon-adsystem.com^
-||aax-ott-sdk.amazon-adsystem.com^
-||aax-us.amazon-adsystem.com^
-||aax-us-east.amazon-adsystem.com^
-||aax-us-east-ott.amazon-adsystem.com^
-||aax-us-pdx.amazon-adsystem.com^
-||aax-us-west-ott.amazon-adsystem.com^
 ||aps.amazon-adsystem.com^
 ||assoc-msdk-eu.amazon-adsystem.com^
 ||at-us-east.amazon-adsystem.com^
@@ -5595,9 +5572,7 @@
 ||ad-interactions-prod-lb-1426714899.eu-west-2.elb.amazonaws.com^
 ||fluidads-adserver-prod-364563465.eu-west-2.elb.amazonaws.com^
 ||adktracking-1671721947.eu-west-3.elb.amazonaws.com^
-||br-ad-adserver-418405035.sa-east-1.elb.amazonaws.com^
 ||a47b-collector-alb-630215029.us-east-1.elb.amazonaws.com^
-||a9e07f83-analytics-prodshr-378a-1458426690.us-east-1.elb.amazonaws.com^
 ||ad-632665049.us-east-1.elb.amazonaws.com^
 ||ad-amgdgt-com-opt-out-servers-927272742.us-east-1.elb.amazonaws.com^
 ||ad-interactions-prod-lb-1606894468.us-east-1.elb.amazonaws.com^
@@ -5735,7 +5710,6 @@
 ||tracking-lr-2-1774193383.us-west-2.elb.amazonaws.com^
 ||vzw-analytics-elb-640016604.us-west-2.elb.amazonaws.com^
 ||wildcard-ads-448740142.us-west-2.elb.amazonaws.com^
-||adserver-logmodule-prod-nlb-v15-203df6894ef2bf39.elb.eu-central-1.amazonaws.com^
 ||adserver-logmodule-prod-nlb-v16-877ea2b26076512e.elb.eu-central-1.amazonaws.com^
 ||iotanalytics.eu-central-1.amazonaws.com^
 ||ad-crew.s3.eu-central-1.amazonaws.com^
@@ -5814,7 +5788,6 @@
 ||mobileanalytics.us-east-1.amazonaws.com^
 ||ads-production-public.s3.us-east-1.amazonaws.com^
 ||alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com^
-||adserver-logmodule-prod-nlb-v15-8111d6a9662ecfd1.elb.us-east-2.amazonaws.com^
 ||adserver-logmodule-prod-nlb-v16-3d9a2756a5ca13a0.elb.us-east-2.amazonaws.com^
 ||huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com^
 ||ad-host-backup-america.s3.us-west-1.amazonaws.com^
@@ -5842,7 +5815,6 @@
 ||ambiliarcarwin.com^
 ||ambitiousagreement.com^
 ||amblerodd.com^
-||metric.ambnet.at^
 ||ambuizeler.com^
 ||amcclothes.com^
 ||amcdn.vn^
@@ -5925,7 +5897,6 @@
 ||amorphouspain.com^
 ||amos-malware.ru^
 ||deai.amour-site.com^
-||amourmelilot.com^
 ||amourplace.jp^
 ||amoviemedia.com^
 ||amoyanjumpy.space^
@@ -6138,7 +6109,6 @@
 ||amywhereby.com^
 ||amyzjjzbyrzjw.top^
 ||amzargfaht.com^
-||amzbtuolwp.com^
 ||an-crimea.ru^
 ||anaemiaalmostforests.com^
 ||anahitagirted.uno^
@@ -6210,7 +6180,6 @@
 ||analytics.andisearch.com^
 ||geoip.andisearch.com^
 ||andlache.com^
-||metric.andmore.com^
 ||andoldifiscqak.xyz^
 ||andomedia.com^
 ||andr.net^
@@ -6539,7 +6508,6 @@
 ||apk-tools.info^
 ||apk-update.info^
 ||apkbit.info^
-||apkcar.com^
 ||apkeseay.info^
 ||apkfinder.info^
 ||apkhila.info^
@@ -6654,12 +6622,10 @@
 ||stocks-analytics-events.apple.com^
 ||supportmetrics.apple.com^
 ||weather-analytics-events.apple.com^
-||books-analytics-events.news.apple-dns.net^
 ||apple012.com^
 ||applecareonline.com^
 ||applefarm.it^
 ||applelounge.com^
-||metric.applemusic.com^
 ||yvdxij.applevacations.com^
 ||applianceplatforms.com^
 ||track.applicaster.com^
@@ -6751,7 +6717,6 @@
 ||appsflyersdk.com^
 ||appsgeyser.com^
 ||appsharj.com^
-||metric.appshop.com^
 ||innovads-server.poster.appsinnova.com^
 ||appslinker.net^
 ||cdn.appsmav.com^
@@ -6892,7 +6857,6 @@
 ||t.arcade.show^
 ||arcade-groupe.com^
 ||arcadiavehemently.com^
-||metric.arcane.com^
 ||arcapps.org^
 ||telemetry.centralus.arcdataservices.com^
 ||telemetry.eastus.arcdataservices.com^
@@ -6929,7 +6893,6 @@
 ||ardentlyexposureflushed.com^
 ||tracking.ardoer.eu^
 ||ardoppoprus.biz^
-||metric.ardoq.dev^
 ||ardslediana.com^
 ||ardunorwest.life^
 ||plausible.ardupilot.org^
@@ -7061,9 +7024,7 @@
 ||artoukfarepu.org^
 ||artsai.com^
 ||analytics.artspace.com^
-||metric.artstation.rocks^
 ||metric.artstation.store^
-||metric.artstation-net.com^
 ||analytics.artstorm.com^
 ||analytics.arturito.cloud^
 ||metrics.artwhere.co^
@@ -7132,7 +7093,6 @@
 ||omniture-ssl.groceries.asda.com^
 ||omniture.groceries-qa.asda.com^
 ||omniture-ssl.groceries-qa.asda.com^
-||metric.asda.com^
 ||omniture.money.asda.com^
 ||asdasd08.com^
 ||asdasdad.net^
@@ -7369,7 +7329,6 @@
 ||atfwuia.com^
 ||smetric.atg.se^
 ||atgsvcs.com^
-||athbzeobts.com^
 ||athecsz.cn^
 ||som.athenahealth.com^
 ||atherthishinhe.com^
@@ -7410,7 +7369,6 @@
 ||bid.atmtd.com^
 ||edge.atmtd.com^
 ||atnimanvilla.com^
-||atnnf.xyz^
 ||ato.mx^
 ||atoifmo.com^
 ||track.atom-ds.com^
@@ -7444,8 +7402,6 @@
 ||atservineor.com^
 ||atsg.me^
 ||atshroomisha.com^
-||analytics.atsint.net^
-||analytics.main.atsint.net^
 ||atspace.tv^
 ||atsptp.com^
 ||analytics.att.com^
@@ -7468,16 +7424,12 @@
 ||tracking.att.com^
 ||webinars.att.com^
 ||securefamilylink.wireless.att.com^
-||metric.att-bundles.com^
 ||app.response.att-mail.com^
 ||attachedkneel.com^
 ||attaindisableneedlework.com^
-||metric.attalaska.com^
 ||attempttipsrye.com^
 ||attendanceceasless.com^
 ||attendingtarget.com^
-||metric.gcsc.attens.com^
-||metric.gcsc.attens.net^
 ||analytics.attensi.com^
 ||attenstyle.com^
 ||attentioniau.com^
@@ -7491,7 +7443,6 @@
 ||atticdek.com^
 ||atticereqd.com^
 ||attirra.com^
-||metric.attnai.com^
 ||attr-2p.com^
 ||attracta.com^
 ||attractionbanana.com^
@@ -7509,7 +7460,6 @@
 ||attribution.report^
 ||attributionapp.com^
 ||tracking.attributy.com^
-||metric.attroad.net^
 ||tracking.attsavings.com^
 ||matomo.attshop.ro^
 ||attunebarberreality.com^
@@ -7679,7 +7629,6 @@
 ||piwik.automobile-catalog.com^
 ||b2b.automotive-mediaventions.nl^
 ||tracking.automotivemastermind.com^
-||metrics.autoneum.com^
 ||smetrics.autonews.com^
 ||s.autopilotapp.com^
 ||api.autopilothq.com^
@@ -7832,7 +7781,6 @@
 ||avidtrak.com^
 ||avilagtitkai.com^
 ||avinekernish.digital^
-||metric.gms.avira.com^
 ||avirus.hu^
 ||secureanalytics.avis.lu^
 ||avismarketing.gr^
@@ -7912,7 +7860,6 @@
 ||awmbed.com^
 ||awmbriegurries.com^
 ||awmdelivery.com^
-||awmocpqihh.com^
 ||awmonitor.com^
 ||awmplus.com^
 ||awnexus.com^
@@ -7989,7 +7936,6 @@
 ||ayorks.com^
 ||aypahalndxrxon.com^
 ||aytxmbg.com^
-||ayynsdp.xyz^
 ||data-f1e447fbcf.az-online.de^
 ||sos.azadicdn.com^
 ||azaobrm.com^
@@ -8571,7 +8517,6 @@
 ||secure.bass2poll.com^
 ||bassdyemanipulate.com^
 ||analytics.bassettfurniture.com^
-||bassoczardas.com^
 ||bassoonavatara.com^
 ||omnis.basspro.com^
 ||bastardminims.com^
@@ -8602,7 +8547,6 @@
 ||battiesnarras.com^
 ||telemetry.battle.net^
 ||telemetry-in.battle.net^
-||baucdngb.xyz^
 ||analytics.bauermedia.sk^
 ||abt.bauhaus.info^
 ||asd.bauhaus.at^
@@ -8644,7 +8588,6 @@
 ||baymack.com^
 ||baynote.net^
 ||baypops.com^
-||baytfede.xyz^
 ||analytics.bayut.com^
 ||baywoodkbps.space^
 ||analytics-static.ugc.bazaarvoice.com^
@@ -8710,7 +8653,6 @@
 ||bccda4ab57.com^
 ||bcceb2c771.com^
 ||bcczmm.com^
-||metric.bcdevs.com^
 ||bcea24c9be.com^
 ||t.bceagles.com^
 ||tupian888.bj.bcebos.com^
@@ -8857,7 +8799,6 @@
 ||bedodrioon.com^
 ||bedrapiona.com^
 ||bedsberry.com^
-||bedsideseller.com^
 ||bedspictures.com^
 ||bee6ef6c32228ebf3be3b3dfbbe01853c3f675fa036e1595a0ab64c4.com^
 ||bee7.com^
@@ -8950,8 +8891,6 @@
 ||bellmandrawbar.com^
 ||bellmetric.net^
 ||snowy.bellroy.com^
-||metric.fll.bellsouth.net^
-||metric.tys.bellsouth.net^
 ||message.bellyplant.com^
 ||belombrea.com^
 ||beloved-ideal.pro^
@@ -9165,7 +9104,6 @@
 ||betgorebysson.club^
 ||bethelskneeler.website^
 ||bethinkparah.com^
-||metric.nj.betmgm.com^
 ||betnidorinoan.net^
 ||betosslingala.com^
 ||betotodilea.com^
@@ -9205,7 +9143,6 @@
 ||bewailblockade.com^
 ||bewailindigestionunhappy.com^
 ||analytics.bewakoof.com^
-||bewallreflair.com^
 ||bewarecontroversy.com^
 ||bewareisopointless.com^
 ||bewathis.com^
@@ -9275,7 +9212,6 @@
 ||bhcnmrn.icu^
 ||bhcont.com^
 ||bhcumsc.com^
-||bhfdgdounv.xyz^
 ||bhiagi.xyz^
 ||bhjuy10.com^
 ||bhlntz.xyz^
@@ -9289,7 +9225,6 @@
 ||bhsfsui.com^
 ||bhtcjurm.com^
 ||bhubaneswarambulance.com^
-||metric.bhvraccount.com^
 ||mit.bhw.de^
 ||analytics.bi-popken.de^
 ||bi2price.com^
@@ -9450,15 +9385,11 @@
 ||bikewaft.com^
 ||bikrurda.net^
 ||amptrack.bild.de^
-||analytics.bild.de^
 ||as.bild.de^
 ||data-861bbf2127.bild.de^
 ||data-bb21a2f11b.bild.de^
-||metrics.bild.de^
-||www.mtrack.bild.de^
 ||rem-track.bild.de^
 ||spr.bild.de^
-||track.bild.de^
 ||data-a59ff4db12.bildderfrau.de^
 ||data-ebb08b8040.bildderfrau.de^
 ||bildirimci.net^
@@ -9746,7 +9677,6 @@
 ||blackmailingpanic.com^
 ||blackmailshoot.com^
 ||blackmarketblock.com^
-||blackname.biz^
 ||blacknesskeepplan.com^
 ||aladdinupdate.blackrock.com^
 ||elq.blackrock.com^
@@ -9812,7 +9742,6 @@
 ||bliner-key.com^
 ||blingbucks.com^
 ||somnit.blinkfitness.com^
-||metric.blinkit.com^
 ||blinkjork.com^
 ||blinkpainmanly.com^
 ||analytics.blippar.com^
@@ -9936,7 +9865,6 @@
 ||marketing.bluemarblepayroll.com^
 ||smetrics.bluemercury.com^
 ||so.bluenews.ch^
-||metrics.blueowl.xyz^
 ||blueparrot.media^
 ||ad.bluepartner.eu^
 ||so.blueplus.ch^
@@ -10004,7 +9932,6 @@
 ||hbbtv-tracking.bmt-technik.de^
 ||matomo.bmt-tierschutz.de^
 ||bmtfka93.xyz^
-||metric.bmw-motorrad.de^
 ||bmwebm.org^
 ||countly.bmwgroup.com^
 ||countly-preprod.bmwgroup.com^
@@ -10236,7 +10163,6 @@
 ||boomwalkertraveller.com^
 ||boongsmokeho.com^
 ||boorantech.com^
-||boosetrocha.com^
 ||boost6182ll.com^
 ||boostcdn.net^
 ||boostcpm.su^
@@ -10723,7 +10649,6 @@
 ||c0012.brsimg.com^
 ||brsrvr.com^
 ||brtsumthree.com^
-||metric.bru-system.be^
 ||bruark.com^
 ||bruciainbowed.com^
 ||brudnyromans.com^
@@ -10733,9 +10658,7 @@
 ||brujagunnar.com^
 ||mc.bruker.com^
 ||my.bruker.com^
-||analytics.dashboard.bruleemedia.com^
 ||brumarmsful.com^
-||brumbiedecagon.com^
 ||brunchcreatesenses.com^
 ||brunettemattersrefused.com^
 ||brupu.com^
@@ -10914,7 +10837,6 @@
 ||analytics.bungie.net^
 ||rum-metrics.bunny.net^
 ||bunny-net.com^
-||metric.bunq.com^
 ||data-574debde52.bunte.de^
 ||data-9b3233a086.bunte.de^
 ||dcclaa.bunte.de^
@@ -11079,7 +11001,6 @@
 ||byaiufr.com^
 ||byambipoman.com^
 ||byantonellascake.com^
-||piwik.productive.aesthetics-spring.ws2-testnet-proxy.bybit.com^
 ||monitor-frontend-collector.a.bybit-aws.com^
 ||byboma.live^
 ||bybygnom.com^
@@ -11101,7 +11022,6 @@
 ||byildmkzjyjx.com^
 ||byinter.net^
 ||byjykj.xyz^
-||metric.bykea.com^
 ||bymnyzbkylaaw.top^
 ||bymnyzbkylvkv.top^
 ||bymyth.com^
@@ -11168,7 +11088,6 @@
 ||as.bz-berlin.de^
 ||data-3d61e29638.bz-berlin.de^
 ||data-f943e74ec9.bz-berlin.de^
-||bzamusfalofn.com^
 ||bzbopfh.cn^
 ||bzbrwsq.cc^
 ||bzdntl.xyz^
@@ -11351,7 +11270,6 @@
 ||calculatorcamera.com^
 ||calculatorstatement.com^
 ||fancyrat.calebporzio.com^
-||metric.calendarserver.org^
 ||calexits.uno^
 ||metrics.calgary.ca^
 ||analytics.cali.org^
@@ -11362,7 +11280,6 @@
 ||call-tracking.by^
 ||analytics.callbell.eu^
 ||calldorado.com^
-||callerdumka.com^
 ||callfire.com^
 ||analytics.callkeeper.ru^
 ||callloop.com^
@@ -15990,6 +15907,7 @@
 ||msdk.shopee.com.co^
 ||msdk.shopee.com.mx^
 ||msdk.shopee.com.my^
+||seller-log-collector.shopee.com.br^
 ||livetech.test.shopee.com.my^
 ||livetech.uat.shopee.com.my^
 ||shoptarget.com.br^
@@ -50390,6 +50308,7 @@
 ||msdk.shopee.tw^
 ||msdk.shopee.vn^
 ||pevftg.shopee.sg^
+||seller-log-collector.shopee.sg^
 ||spigte.shopee.tw^
 ||df.infra.sz.shopee.vn^
 ||df.infra.test.shopee.sg^
