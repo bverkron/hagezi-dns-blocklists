@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jan 2024 09:48 UTC
-# Version: 2024.0102.0948.08
+# Last modified: 02 Jan 2024 15:39 UTC
+# Version: 2024.0102.1539.12
 # Syntax: Domains (without subdomains)
-# Number of entries: 63124
+# Number of entries: 63121
 #
 0008d6ba2e.com
 000space.com
@@ -5467,9 +5467,6 @@ aps.amazon-adsystem.com
 assoc-msdk-eu.amazon-adsystem.com
 at-us-east.amazon-adsystem.com
 cdn-a.amazon-adsystem.com
-fls-eu.amazon-adsystem.com
-fls-fe.amazon-adsystem.com
-fls-na.amazon-adsystem.com
 ir-ca.amazon-adsystem.com
 ir-de.amazon-adsystem.com
 ir-fr.amazon-adsystem.com

@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jan 2024 09:48 UTC
-# Version: 2024.0102.0948.08
+# Last modified: 02 Jan 2024 15:39 UTC
+# Version: 2024.0102.1539.12
 # Syntax: DNSMasq
-# Number of entries: 63124
+# Number of entries: 63121
 #
 address=/0008d6ba2e.com/#
 address=/000space.com/#
@@ -5467,9 +5467,6 @@ address=/aps.amazon-adsystem.com/#
 address=/assoc-msdk-eu.amazon-adsystem.com/#
 address=/at-us-east.amazon-adsystem.com/#
 address=/cdn-a.amazon-adsystem.com/#
-address=/fls-eu.amazon-adsystem.com/#
-address=/fls-fe.amazon-adsystem.com/#
-address=/fls-na.amazon-adsystem.com/#
 address=/ir-ca.amazon-adsystem.com/#
 address=/ir-de.amazon-adsystem.com/#
 address=/ir-fr.amazon-adsystem.com/#
