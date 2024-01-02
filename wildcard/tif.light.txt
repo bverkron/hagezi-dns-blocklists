@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Dec 2023 23:37 UTC
-# Version: 2023.1231.2337.21
+# Last modified: 02 Jan 2024 00:08 UTC
+# Version: 2024.0102.0008.27
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 977
+# Number of entries: 992
 #
 *.000.pe
 *.000nethost.com
@@ -56,6 +56,7 @@
 *.library.arihantmbainstitute.ac.in
 *.iccscem.ac.in
 *.imit.ac.in
+*.partadino.ac.ug
 *.acc-disbsupportcenter.info
 *.ackng.com
 *.addressrevise.com
@@ -66,12 +67,12 @@
 *.agies.org
 *.agnieszkaklaudia.pl
 *.aioecoin.org
-*.airhobi.com
 *.akadns.live
 *.akadns.services
 *.register.akamaized.ca
 *.novelty.akibacreative.com
 *.alakheilizwe.org
+*.alertsecurities.in
 *.alibalticon.com
 *.alie3ksgbb.com
 *.alinac.ca
@@ -106,7 +107,6 @@
 *.avrmxinvestment.net
 *.awcna.com
 *.axelmetals.cc
-*.azmeasurement.com
 *.azurehosting.co
 *.b0tnet.com
 *.babytoy-online.com
@@ -149,6 +149,7 @@
 *.brknarikan.com
 *.bruiserbodies.com
 *.brujosdelamor2019.com
+*.brusuax.com
 *.apz.bsaldo.com
 *.btvapp.net
 *.bvbypswhds.com
@@ -156,7 +157,6 @@
 *.cacheoffer.tk
 *.download.caihong.com
 *.camminachetipassa.it
-*.canconsulting.in
 *.canmaxiprog.site
 *.cannabiscouponz.com
 *.capital-prg6.site
@@ -192,7 +192,6 @@
 *.che-web.eu
 *.checkba.top
 *.chemsky.tn
-*.chingman.net
 *.chiptune.com
 *.downloadplus.chromiums.org
 *.chuckozeas.com
@@ -206,13 +205,13 @@
 *.cloudflare-server.top
 *.cloudfronts.services
 *.cloudlets.zone
-*.support.clz.kr
 *.cms-sh.de
 *.agemn.co.za
 *.aosafrica.co.za
+*.bigmikesupplies.co.za
 *.councilrespect.co.in
 *.destinymc.co.za
-*.drhanneserasmus.co.za
+*.emaids.co.za
 *.fetchdesignprint.co.za
 *.growrock.co.za
 *.hopvibestravel.co.za
@@ -221,15 +220,21 @@
 *.dating.khokhas.co.za
 *.laforma.co.za
 *.madicon.co.za
+*.mumgee.co.za
 *.networkwheels.co.za
 *.olivehr.co.za
 *.olugun.co.za
+*.patisserie.co.ke
+*.qcollect.co.za
+*.sainzim.co.za
 *.spaceframe.mobi.space-frame.co.za
 *.spacetrack.co.tz
+*.thekassia.co.uk
 *.superstar.tibolts.co.uk
 *.travelwithmanta.co.za
 *.my-sbox.trns.co.za
 *.wmctc.co.uk
+*.coadymarine.com
 *.api-ms.cobainaja.id
 *.coddes.top
 *.codeanyapp.com
@@ -241,6 +246,7 @@
 *.asiflyerbio.com.cn
 *.asu.com.vn
 *.atomm.com.br
+*.bearcatpumps.com.cn
 *.budimal.com.pl
 *.cdaonline.com.ar
 *.dhnconstrucciones.com.ar
@@ -249,6 +255,7 @@
 *.graficaaoquadrado.com.br
 *.grzegorzkulik.com.pl
 *.hapvidacaruaru.com.br
+*.herchinfitout.com.sg
 *.www.hey-randomgirl.com.br
 *.jolantabartnik.com.pl
 *.kest.com.pe
@@ -257,9 +264,9 @@
 *.live.com.gt
 *.lostheaven.com.cn
 *.medcar.com.tn
+*.microtrimsltd.com.bd
 *.oazahotel.com.mk
 *.palharesinformatica.com.br
-*.qaafdesign.com.sa
 *.e-commerce.saleensuporte.com.br
 *.spices.com.sg
 *.tataras.com.pl
@@ -276,19 +283,16 @@
 *.consultando-web.com
 *.coopsantodomingo.com
 *.corporation-pl.com
-*.gko.scheme.corycabana.net
-*.hdiw.scheme.corycabana.net
-*.ntg.scheme.corycabana.net
-*.wxnxm.scheme.corycabana.net
+*.jsrb.scheme.corycabana.net
 *.counter-strike2-de.com
 *.crackload.net
 *.cracksarena.com
 *.craft-host.ru
 *.crapses.pl
+*.crz.de
 *.csgoxdomain.us
 *.balkarsoftware.cubistech.com
 *.cursodeparapsicologia.org
-*.cynorix.com
 *.static.cz01.cn
 *.dacsandongthapmuoi.vn
 *.darekfurtak.pl
@@ -305,6 +309,7 @@
 *.deine-bewerbung.com
 *.dengjixinxi.top
 *.records.dennisign.se
+*.derekludlow.com
 *.devises-dz.com
 *.demo.devswire.com
 *.dhi-mox-ei.top
@@ -314,6 +319,7 @@
 *.diecialanowert.cf
 *.digitalvehicleinspection.com
 *.buscascolegios.diit.cl
+*.stdown.dinju.com
 *.dinoyy.xyz
 *.disha.page
 *.divides.xyz
@@ -321,6 +327,7 @@
 *.dleggere.com
 *.dlevo.com
 *.dnsnb8.net
+*.dokumentasoluciones.com
 *.domallpl.pl
 *.donkeytourscroatia.com
 *.doorcat.quest
@@ -328,6 +335,7 @@
 *.download.doumaibiji.cn
 *.downloayxkemam.sbs
 *.driverclub.co
+*.droomsoft.com
 *.wordpress.ductai.xyz
 *.dukaree.com
 *.dummy280280.net
@@ -364,6 +372,7 @@
 *.evga-precision.com
 *.execs.com
 *.exilien.my
+*.exilum.com
 *.expeditionbuilders.com
 *.expoclknw.com
 *.expressionsofwood.ca
@@ -376,7 +385,6 @@
 *.fastactionmedicalbilling.com
 *.fdmpkg.org
 *.feedbacksea.com
-*.fastdnkaaa.ffox.site
 *.financetoro.com
 *.financier.com
 *.flauntstaluhet.website
@@ -388,6 +396,7 @@
 *.freconmieetfinances.com
 *.freetcp.com
 *.frezzyhook.com
+*.ftpvoyager.cc
 *.funletters.net
 *.www.roofing.galacticleads.com
 *.galandskiyher5.com
@@ -397,6 +406,7 @@
 *.fadfa.gdalieyw.com
 *.gdylewski.pl
 *.gedebey-tvradio.info
+*.lmc.geeksroot.net
 *.www.bakirkoynakliyat.gen.tr
 *.geosetthudofak.cf
 *.getplayshow.com
@@ -414,7 +424,6 @@
 *.granticket.com
 *.greenisco.com
 *.grupomasis.com
-*.orsan.gruporhynous.com
 *.grzegorzku.pl
 *.gthub.org
 *.gupshap.com
@@ -428,10 +437,12 @@
 *.heniekmusiol.pl
 *.hhiek.pl
 *.hicity.vn
+*.hitstation.nl
 *.hitsturbo.com
 *.hklae.pl
 *.hmyjc.cn
 *.hnalkhedmad.com
+*.yp.hnggzyjy.cn
 *.homewrt.com
 *.hoster-test.ru
 *.hostigram.xyz
@@ -477,10 +488,12 @@
 *.inwestcom.pl
 *.ircftp.net
 *.isasecret.com
-*.islammagdy.com
+*.ishahcouture.com
+*.drive.google.com.it-barcelona.com
 *.itosha.top
 *.iyclm.in
 *.jaerg.pl
+*.janisthaaivf.com
 *.januszpr.pl
 *.jhayesconsulting.com
 *.jiudianruzhu.top
@@ -571,7 +584,6 @@
 *.maxiimus.top
 *.maxmoney.com
 *.maxuikl.top
-*.maxximbrasil.com
 *.mbgrm.com
 *.mbmistaz.com
 *.meeweb.com
@@ -631,17 +643,14 @@
 *.navercloud.org
 *.ndegj3peoh.com
 *.shells.nesco-alkes.com
-*.demo.nessotechbd.com
 *.artcd.net.pl
 *.bartlomiej.net.pl
 *.elzbieta.net.pl
-*.shell.websitebuilderaustralia.net.au
 *.netplosd.de
 *.jsfk3d43.netvisualizer.com
 *.networknewsbd.com
 *.newfinancialmarketworld.com
 *.neworder44799.info
-*.nhatheptienchebinhduong.com
 *.alagen.nieruchomosci.pl
 *.jebac.nieruchomosci.pl
 *.lasecki.nieruchomosci.pl
@@ -692,7 +701,6 @@
 *.pass-login.com
 *.paste-bin.xyz
 *.pawlukojc.pl
-*.down.pcclear.com
 *.download.pdf00.cn
 *.pdns.cz
 *.perniktermo.com
@@ -766,7 +774,7 @@
 *.rozwojai.com
 *.rp-online-dating.de
 *.rs83.com
-*.rusticironstore.com
+*.v207.ru.is
 *.ryzen-master.com
 *.sadeemapk.com
 *.saf-oil.ru
@@ -775,7 +783,6 @@
 *.sapphiretrixx.com
 *.saraa.shop
 *.sbytotsmasthersborrdi.cf
-*.scientific.pk
 *.scincormatize.com
 *.scribdbook.top
 *.scuba.camera
@@ -797,9 +804,11 @@
 *.shipminttracking.net
 *.shoefire.life
 *.shopsgat.com
+*.sierrafoodcorp.com
 *.sin88.biz
 *.sinerptuasiewo.com
 *.site-manager.eu
+*.sk-service-online.de
 *.balton.sklep.pl
 *.skoa.li
 *.slepcolchagua.cl
@@ -828,6 +837,7 @@
 *.stojanu.pl
 *.suakhoaketsattphcm.com
 *.succyarthyry.com
+*.sunglassesninja.com
 *.sunnysee.cc
 *.mongo87a.sweet-water.org
 *.temp.swtest.ru
@@ -835,8 +845,8 @@
 *.sysclearprom.space
 *.tabonyventures.com
 *.taxrefund.click
+*.tceducn.com
 *.techcusp.com
-*.techniguitare.com
 *.techofi.in
 *.techpowerup-gpu-z.com
 *.techsso.com
@@ -868,6 +878,7 @@
 *.loop.topteamlife.com
 *.still.topteamlife.com
 *.zen.topteamlife.com
+*.torrentmoviess.com
 *.vsfhtrjtrejs.toshibanetcam.com
 *.weruvwer97.toshibanetcam.com
 *.toythieves.com
@@ -882,6 +893,7 @@
 *.tungphamblog.com
 *.tuquy.com
 *.tuuups.pl
+*.twizt.net
 *.test.typoten.com
 *.uclck.ru
 *.d1.udashi.com
@@ -892,6 +904,7 @@
 *.files5.uludagbilisim.com
 *.unapromo.com
 *.unhamj.com
+*.unicorpbrunei.com
 *.unioneterna.com
 *.unispace.io
 *.unkinerecle.com
@@ -938,6 +951,7 @@
 *.wewashclothes.com
 *.wgoss.pl
 *.wiljot.pl
+*.windcomtechnologies.com
 *.winkaros.ru
 *.winning-drinks.com
 *.wispafoods.com
@@ -970,6 +984,7 @@
 *.ysbaojia.com
 *.yzkzixun.com
 *.zakresnynaya.pl
+*.zaofisa.net
 *.zap-webspace.com
 *.zbigniewkaluga.pl
 *.bettermesupport.zendesk.com
