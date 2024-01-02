@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 01 Jan 2024 19:36 UTC
-! Version: 2024.0101.1936.45
+! Last modified: 01 Jan 2024 23:57 UTC
+! Version: 2024.0101.2357.36
 ! Syntax: AdBlock
-! Number of entries: 14404
+! Number of entries: 14400
 !
 ||11trikots.com^
 ||12-suchen.de^
@@ -117,7 +117,6 @@
 ||accpetad.com^
 ||acelogisticservices.com^
 ||acemoyusy.com^
-||acessquad.club^
 ||achicwomen.com^
 ||achimkelbel.de^
 ||achimreims.de^
@@ -182,7 +181,6 @@
 ||aehesis.de^
 ||aenikas.com^
 ||store.aeotec.com^
-||aeowe.com^
 ||aerialpics.de^
 ||aerobicsbrand.com^
 ||aeromed-hamburg.de^
@@ -225,7 +223,6 @@
 ||airporshop.com^
 ||airpurifieroutlet.com^
 ||airpurtech.de^
-||airsalo.com^
 ||airtechohair.de^
 ||airtoolsefficient.com^
 ||airtoolsprofessional.com^
@@ -233,7 +230,6 @@
 ||airyclub.com^
 ||aisakicks.shop^
 ||aix-bicycle.com^
-||ajar.shop^
 ||ajf-bike.de^
 ||ajservice.de^
 ||mlhihq.akademiaszefakuchni.pl^
@@ -12497,7 +12493,6 @@
 ||teslaflows.com^
 ||tesler.software^
 ||tesler-inc.trade^
-||test-iq-online.com^
 ||test4.com^
 ||test9.org^
 ||testative.com^
@@ -13576,6 +13571,7 @@
 ||veonaskincare.com^
 ||vera-mode.com^
 ||veralo.de^
+||veramodehaus.de^
 ||veramundo.net^
 ||verenabunte.com^
 ||verios-gaming.de^

@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Jan 2024 19:36 UTC
-# Version: 2024.0101.1936.45
+# Last modified: 01 Jan 2024 23:57 UTC
+# Version: 2024.0101.2357.36
 # Syntax: DNSMasq
-# Number of entries: 14404
+# Number of entries: 14400
 #
 address=/11trikots.com/#
 address=/12-suchen.de/#
@@ -117,7 +117,6 @@ address=/accessorynew.com/#
 address=/accpetad.com/#
 address=/acelogisticservices.com/#
 address=/acemoyusy.com/#
-address=/acessquad.club/#
 address=/achicwomen.com/#
 address=/achimkelbel.de/#
 address=/achimreims.de/#
@@ -182,7 +181,6 @@ address=/aegt.de/#
 address=/aehesis.de/#
 address=/aenikas.com/#
 address=/store.aeotec.com/#
-address=/aeowe.com/#
 address=/aerialpics.de/#
 address=/aerobicsbrand.com/#
 address=/aeromed-hamburg.de/#
@@ -225,7 +223,6 @@ address=/airpodsdirecter.com/#
 address=/airporshop.com/#
 address=/airpurifieroutlet.com/#
 address=/airpurtech.de/#
-address=/airsalo.com/#
 address=/airtechohair.de/#
 address=/airtoolsefficient.com/#
 address=/airtoolsprofessional.com/#
@@ -233,7 +230,6 @@ address=/airycloth.com/#
 address=/airyclub.com/#
 address=/aisakicks.shop/#
 address=/aix-bicycle.com/#
-address=/ajar.shop/#
 address=/ajf-bike.de/#
 address=/ajservice.de/#
 address=/mlhihq.akademiaszefakuchni.pl/#
@@ -12497,7 +12493,6 @@ address=/teslabounce.com/#
 address=/teslaflows.com/#
 address=/tesler.software/#
 address=/tesler-inc.trade/#
-address=/test-iq-online.com/#
 address=/test4.com/#
 address=/test9.org/#
 address=/testative.com/#
@@ -13576,6 +13571,7 @@ address=/venuefashion.com/#
 address=/veonaskincare.com/#
 address=/vera-mode.com/#
 address=/veralo.de/#
+address=/veramodehaus.de/#
 address=/veramundo.net/#
 address=/verenabunte.com/#
 address=/verios-gaming.de/#

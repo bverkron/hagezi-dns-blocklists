@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1704137760 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1704153420 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Jan 2024 19:36 UTC
-; Version: 2024.0101.1936.45
+; Last modified: 01 Jan 2024 23:57 UTC
+; Version: 2024.0101.2357.36
 ; Syntax: RPZ
-; Number of entries: 28808
+; Number of entries: 28800
 ;
 markt.agency CNAME .
 *.markt.agency CNAME .
@@ -828,8 +828,6 @@ hcm.clinic CNAME .
 *.hcm.clinic CNAME .
 orami.cloud CNAME .
 *.orami.cloud CNAME .
-acessquad.club CNAME .
-*.acessquad.club CNAME .
 anthead.club CNAME .
 *.anthead.club CNAME .
 bestrin.club CNAME .
@@ -1254,8 +1252,6 @@ aenikas.com CNAME .
 *.aenikas.com CNAME .
 store.aeotec.com CNAME .
 *.store.aeotec.com CNAME .
-aeowe.com CNAME .
-*.aeowe.com CNAME .
 aerobicsbrand.com CNAME .
 *.aerobicsbrand.com CNAME .
 af1sneakers.com CNAME .
@@ -1294,8 +1290,6 @@ airporshop.com CNAME .
 *.airporshop.com CNAME .
 airpurifieroutlet.com CNAME .
 *.airpurifieroutlet.com CNAME .
-airsalo.com CNAME .
-*.airsalo.com CNAME .
 airtoolsefficient.com CNAME .
 *.airtoolsefficient.com CNAME .
 airtoolsprofessional.com CNAME .
@@ -17036,8 +17030,6 @@ teslabounce.com CNAME .
 *.teslabounce.com CNAME .
 teslaflows.com CNAME .
 *.teslaflows.com CNAME .
-test-iq-online.com CNAME .
-*.test-iq-online.com CNAME .
 test4.com CNAME .
 *.test4.com CNAME .
 testative.com CNAME .
@@ -25056,6 +25048,8 @@ venino-handel.de CNAME .
 *.venino-handel.de CNAME .
 veralo.de CNAME .
 *.veralo.de CNAME .
+veramodehaus.de CNAME .
+*.veramodehaus.de CNAME .
 verios-gaming.de CNAME .
 *.verios-gaming.de CNAME .
 veripro.de CNAME .
@@ -27036,8 +27030,6 @@ aetios.shop CNAME .
 *.aetios.shop CNAME .
 aisakicks.shop CNAME .
 *.aisakicks.shop CNAME .
-ajar.shop CNAME .
-*.ajar.shop CNAME .
 alltogether.shop CNAME .
 *.alltogether.shop CNAME .
 aluproholz.shop CNAME .
