@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 01 Jan 2024 23:45 UTC
-! Version: 2024.0101.2345.07
+! Last modified: 02 Jan 2024 22:50 UTC
+! Version: 2024.0102.2250.34
 ! Syntax: AdBlock
-! Number of entries: 2662
+! Number of entries: 2654
 !
 ||0000a-fast-proxy.de^
 ||ns.00dani.me^
@@ -67,8 +67,6 @@
 ||dns-nyc.aaflalo.me^
 ||doh.dns.apple.com.v.aaplimg.com^
 ||abcproxy.com^
-||doh.abmb.win^
-||doh2.abmb.win^
 ||res-acst1.absolight.net^
 ||res-acst2.absolight.net^
 ||res-acst3.absolight.net^
@@ -146,7 +144,6 @@
 ||androvpn.com^
 ||aniscartujo.com^
 ||anonine.com^
-||anonproxy.eu^
 ||anonproxy.org^
 ||anonvpn.io^
 ||anonymitynetwork.com^
@@ -618,8 +615,6 @@
 ||ns1.recursive.dnsbycomodo.com^
 ||ns2.recursive.dnsbycomodo.com^
 ||2.dnscrypt-cert.shield-2.dnsbycomodo.com^
-||asia.dnscepat.id^
-||eropa.dnscepat.id^
 ||abe01.dnscry.pt^
 ||ams01.dnscry.pt^
 ||ams02.dnscry.pt^
@@ -1195,7 +1190,6 @@
 ||jailbreaked.net^
 ||tj.jamesxue.xyz^
 ||japanwebproxy.com^
-||jcdns.fun^
 ||jellyvpn.com^
 ||doh.jeroenhd.nl^
 ||jetbean.com^
@@ -2336,7 +2330,6 @@
 ||unblockbook.biz^
 ||unblocked.biz^
 ||unblocked.me^
-||unblocked.vip^
 ||unblocked2.info^
 ||unblockedbrowser.com^
 ||unblockedme.com^
@@ -2643,7 +2636,6 @@
 ||youtubeunblocked.live^
 ||yovbak.com^
 ||yxorproxy.com^
-||adg.yybyy.wiki^
 ||zacebookpk.com^
 ||adguard.zachitect.com^
 ||zagbit.com^

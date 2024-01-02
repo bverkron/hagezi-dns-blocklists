@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 01 Jan 2024 23:45 UTC
-# Version: 2024.0101.2345.07
+# Last modified: 02 Jan 2024 22:50 UTC
+# Version: 2024.0102.2250.34
 # Syntax: DNSMasq
-# Number of entries: 2662
+# Number of entries: 2654
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -67,8 +67,6 @@ address=/dns-gcp.aaflalo.me/#
 address=/dns-nyc.aaflalo.me/#
 address=/doh.dns.apple.com.v.aaplimg.com/#
 address=/abcproxy.com/#
-address=/doh.abmb.win/#
-address=/doh2.abmb.win/#
 address=/res-acst1.absolight.net/#
 address=/res-acst2.absolight.net/#
 address=/res-acst3.absolight.net/#
@@ -146,7 +144,6 @@ address=/dns.andrewnw.xyz/#
 address=/androvpn.com/#
 address=/aniscartujo.com/#
 address=/anonine.com/#
-address=/anonproxy.eu/#
 address=/anonproxy.org/#
 address=/anonvpn.io/#
 address=/anonymitynetwork.com/#
@@ -618,8 +615,6 @@ address=/dns8.org/#
 address=/ns1.recursive.dnsbycomodo.com/#
 address=/ns2.recursive.dnsbycomodo.com/#
 address=/2.dnscrypt-cert.shield-2.dnsbycomodo.com/#
-address=/asia.dnscepat.id/#
-address=/eropa.dnscepat.id/#
 address=/abe01.dnscry.pt/#
 address=/ams01.dnscry.pt/#
 address=/ams02.dnscry.pt/#
@@ -1195,7 +1190,6 @@ address=/jagoanssh.com/#
 address=/jailbreaked.net/#
 address=/tj.jamesxue.xyz/#
 address=/japanwebproxy.com/#
-address=/jcdns.fun/#
 address=/jellyvpn.com/#
 address=/doh.jeroenhd.nl/#
 address=/jetbean.com/#
@@ -2336,7 +2330,6 @@ address=/unblockblocked.net/#
 address=/unblockbook.biz/#
 address=/unblocked.biz/#
 address=/unblocked.me/#
-address=/unblocked.vip/#
 address=/unblocked2.info/#
 address=/unblockedbrowser.com/#
 address=/unblockedme.com/#
@@ -2643,7 +2636,6 @@ address=/youtubebyclick.com/#
 address=/youtubeunblocked.live/#
 address=/yovbak.com/#
 address=/yxorproxy.com/#
-address=/adg.yybyy.wiki/#
 address=/zacebookpk.com/#
 address=/adguard.zachitect.com/#
 address=/zagbit.com/#
