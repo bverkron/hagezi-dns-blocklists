@@ -317,6 +317,7 @@
 (\.|^)t.*\.intelliad\.de$
 (\.|^)t\.ionos\.de$
 (\.|^)tkqlhce\.com$
+(\.|^)t\.lever\-analytics\.com$
 (\.|^)t\.lt02\.net$
 (\.|^)t\.myvisualiq\.net$
 (\.|^)tp\-emea\.exactag\.com$

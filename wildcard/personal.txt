@@ -16748,8 +16748,6 @@
 *.fistsurprising.com
 *.collector.fitanalytics.com
 *.collector-de.fitanalytics.com
-*.integrations.fitanalytics.com
-*.integrations-staging1.fitanalytics.com
 *.metrics.fitanalytics.com
 *.metrics-nl.fitanalytics.com
 *.iedc.fitbit.com
@@ -24015,7 +24013,6 @@
 *.apple.www.letv.com
 *.leucan3thegm6um.com
 *.levelbraid.com
-*.lever-analytics.com
 *.leveragebestow.com
 *.levexis.com
 *.levitratrig.com

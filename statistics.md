@@ -1,7 +1,7 @@
 ### Statistics
 #### LIGHT
 ```
-218133 (89%) included | 5218 (2%) removed | 20750 (9%) dead
+217350 (89%) included | 5327 (2%) removed | 20803 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
   1 |      91% |   5% |      4% |  130898 | Personal
@@ -12,29 +12,29 @@
   6 |     100% |   0% |      0% |      58 | Native Tracker Huawei (Devices)
   7 |      93% |   0% |      7% |      59 | Native Tracker LG webOS
   8 |      62% |   0% |     38% |     239 | Native Tracker TikTok (Fingerprinting)
-  9 |      16% |   0% |     84% |     191 | Native Tracker Microsoft (Windows, Office, MSN)
+  9 |      13% |   0% |     87% |     191 | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      90% |   5% |      5% |    8598 | Denylist Base
  11 |      97% |   0% |      3% |    3645 | Basic Extension
 ```
 #### MULTI
 ```
-738076 (89%) included | 21547 (3%) removed | 73218 (9%) dead
+734224 (88%) included | 23101 (3%) removed | 73491 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  218133 | Predecessor: Multi Light
-  2 |      92% |   5% |      3% |  130898 | Personal
+  1 |     100% |   0% |      0% |  217350 | Predecessor: Multi Light
+  2 |      91% |   5% |      4% |  130898 | Personal
   3 |      48% |   6% |     46% |     154 | Personal Wildcard Rules
   4 |      95% |   0% |      5% |      22 | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      65% |   0% |     35% |     345 | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% |      58 | Native Tracker Huawei (Devices)
   7 |      93% |   0% |      7% |      59 | Native Tracker LG webOS
   8 |      62% |   0% |     38% |     239 | Native Tracker TikTok (Fingerprinting)
-  9 |      16% |   0% |     84% |     191 | Native Tracker Microsoft (Windows, Office, MSN)
+  9 |      13% |   0% |     87% |     191 | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      90% |   5% |      5% |    8598 | Denylist Base
  11 |      97% |   0% |      3% |    3645 | Basic Extension
  12 |     100% |   0% |      0% |    5032 | Fake Light
  13 |      80% |  10% |     10% |  126215 | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
- 14 |      76% |  13% |     11% |  172920 | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 14 |      75% |  13% |     12% |  172920 | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  15 |      88% |  12% |      0% |    5347 | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |     100% |   0% |      0% |    8807 | Threat Intelligence Feeds Medium
  17 |      80% |  15% |      5% |   29538 | Analytics/Metrics Extension
@@ -42,14 +42,14 @@
 ```
 #### PRO
 ```
-993870 (92%) included | 10329 (1%) removed | 81887 (8%) dead
+992030 (91%) included | 10330 (1%) removed | 82577 (8%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  738076 | Predecessor: Multi Normal
+  1 |     100% |   0% |      0% |  734224 | Predecessor: Multi Normal
   2 |      93% |   5% |      2% |  130898 | Personal
   3 |      60% |   6% |     34% |     154 | Personal Wildcard Rules
   4 |      95% |   0% |      5% |      22 | Native Tracker Apple (iOS, macOS, tvOS)
-  5 |      97% |   0% |      3% |     345 | Native Tracker Amazon (Devices, Shopping, Video)
+  5 |      99% |   0% |      1% |     345 | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% |      58 | Native Tracker Huawei (Devices)
   7 |      93% |   0% |      7% |      59 | Native Tracker LG webOS
   8 |     100% |   0% |      0% |     239 | Native Tracker TikTok (Fingerprinting)
@@ -68,10 +68,10 @@
 ```
 #### PRO.PLUS
 ```
-1225651 (87%) included | 60605 (4%) removed | 115535 (8%) dead
+1223895 (87%) included | 60624 (4%) removed | 116312 (8%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  993870 | Predecessor: Multi Pro
+  1 |     100% |   0% |      0% |  992030 | Predecessor: Multi Pro
   2 |      93% |   5% |      2% |  130898 | Personal
   3 |      71% |   6% |     23% |     154 | Personal Wildcard Rules
   4 |      95% |   0% |      5% |      22 | Native Tracker Apple (iOS, macOS, tvOS)
@@ -98,10 +98,10 @@
 ```
 #### ULTIMATE
 ```
-1483679 (89%) included | 54649 (3%) removed | 135982 (8%) dead
+1482215 (89%) included | 54659 (3%) removed | 137281 (8%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% | 1225651 | Predecessor: Multi Pro++
+  1 |     100% |   0% |      0% | 1223895 | Predecessor: Multi Pro++
   2 |      94% |   5% |      1% |  130898 | Personal
   3 |      80% |   6% |     14% |     154 | Personal Wildcard Rules
   4 |     100% |   0% |      0% |      22 | Native Tracker Apple (iOS, macOS, tvOS)
@@ -129,5 +129,5 @@
  26 |      88% |  10% |      2% |  106320 | Ads/Tracking Extension
  27 |     100% |   0% |      0% |   38743 | Malicious Extension
  28 |     100% |   0% |      0% |  404335 | Ultimate Extension
- 29 |      90% |   0% |     10% |    4191 | Denylist Compression Optimisation
+ 29 |      89% |   0% |     11% |    4191 | Denylist Compression Optimisation
 ```

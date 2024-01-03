@@ -25758,8 +25758,6 @@
 *.fistsurprising.com
 *.collector.fitanalytics.com
 *.collector-de.fitanalytics.com
-*.integrations.fitanalytics.com
-*.integrations-staging1.fitanalytics.com
 *.metrics.fitanalytics.com
 *.metrics-nl.fitanalytics.com
 *.metrics-sandbox-orig.fitanalytics.com
@@ -36461,7 +36459,6 @@
 *.levelbash.com
 *.levelbraid.com
 *.levellinkedgrant.com
-*.lever-analytics.com
 *.leverage-btc.com
 *.leveragebestow.com
 *.leveragetypicalreflections.com

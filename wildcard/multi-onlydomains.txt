@@ -65206,8 +65206,6 @@ affil.fit-pro.cz
 a8.fit-theme.com
 collector.fitanalytics.com
 collector-de.fitanalytics.com
-integrations.fitanalytics.com
-integrations-staging1.fitanalytics.com
 metrics.fitanalytics.com
 metrics-nl.fitanalytics.com
 metrics-sandbox-orig.fitanalytics.com
@@ -91085,7 +91083,6 @@ zrxdzq.levelshoes.com
 track.levelsleadgen.xyz
 mailer.levelupfunding.com
 analytics.levelupmedia.de
-lever-analytics.com
 metric.lever2000.com
 leverage-btc.com
 leveragebestow.com

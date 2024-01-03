@@ -23432,10 +23432,6 @@ collector.fitanalytics.com CNAME .
 *.collector.fitanalytics.com CNAME .
 collector-de.fitanalytics.com CNAME .
 *.collector-de.fitanalytics.com CNAME .
-integrations.fitanalytics.com CNAME .
-*.integrations.fitanalytics.com CNAME .
-integrations-staging1.fitanalytics.com CNAME .
-*.integrations-staging1.fitanalytics.com CNAME .
 metrics.fitanalytics.com CNAME .
 *.metrics.fitanalytics.com CNAME .
 metrics-nl.fitanalytics.com CNAME .
@@ -32952,8 +32948,6 @@ leucan3thegm6um.com CNAME .
 *.leucan3thegm6um.com CNAME .
 levelbraid.com CNAME .
 *.levelbraid.com CNAME .
-lever-analytics.com CNAME .
-*.lever-analytics.com CNAME .
 leveragebestow.com CNAME .
 *.leveragebestow.com CNAME .
 levexis.com CNAME .

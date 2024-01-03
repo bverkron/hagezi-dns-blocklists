@@ -362,3 +362,4 @@
 @@||clck.yandex.ru^
 @@||redirect.appmetrica.yandex.*^
 @@||click.zoom.us^
+@@||t.lever-analytics.com^
