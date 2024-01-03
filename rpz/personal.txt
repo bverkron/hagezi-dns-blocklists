@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1704273360 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1704291360 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -7,8 +7,8 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jan 2024 09:16 UTC
-; Version: 2024.0103.0916.09
+; Last modified: 03 Jan 2024 14:16 UTC
+; Version: 2024.0103.1416.24
 ; Syntax: RPZ
 ; Number of entries: 88840
 ;
@@ -94,6 +94,8 @@ onsite-api.datarize.ai CNAME .
 *.onsite-api.datarize.ai CNAME .
 core.dimatter.ai CNAME .
 *.core.dimatter.ai CNAME .
+metrics-api.dimensions.ai CNAME .
+*.metrics-api.dimensions.ai CNAME .
 e-volution.ai CNAME .
 *.e-volution.ai CNAME .
 media.evolv.ai CNAME .
@@ -22152,8 +22154,6 @@ etcodes.com CNAME .
 *.etcodes.com CNAME .
 analytics.etexgroup.com CNAME .
 *.analytics.etexgroup.com CNAME .
-metric.mta.etframework.com CNAME .
-*.metric.mta.etframework.com CNAME .
 kta.etherscan.com CNAME .
 *.kta.etherscan.com CNAME .
 qtfnvf.ethika.com CNAME .
@@ -22202,8 +22202,6 @@ eulal-cnr.com CNAME .
 *.eulal-cnr.com CNAME .
 av.eulerupslant.com CNAME .
 *.av.eulerupslant.com CNAME .
-col.eum-appdynamics.com CNAME .
-*.col.eum-appdynamics.com CNAME .
 eumenesgigsman.com CNAME .
 *.eumenesgigsman.com CNAME .
 eunzkvf.com CNAME .
@@ -22342,8 +22340,6 @@ analytics.ewie.com CNAME .
 *.analytics.ewie.com CNAME .
 ewikajs.com CNAME .
 *.ewikajs.com CNAME .
-ewioud.com CNAME .
-*.ewioud.com CNAME .
 analytics.ewizsaas.com CNAME .
 *.analytics.ewizsaas.com CNAME .
 ewqkrfjkqz.com CNAME .
@@ -22362,8 +22358,6 @@ examinerplodbuild.com CNAME .
 *.examinerplodbuild.com CNAME .
 exampleshake.com CNAME .
 *.exampleshake.com CNAME .
-analytics.exaricontracts.com CNAME .
-*.analytics.exaricontracts.com CNAME .
 exasked.com CNAME .
 *.exasked.com CNAME .
 excellentafternoon.com CNAME .
@@ -22468,8 +22462,6 @@ collector.prod.expedia.com CNAME .
 *.collector.prod.expedia.com CNAME .
 analytics.expediagroup.com CNAME .
 *.analytics.expediagroup.com CNAME .
-metric.com.expediagroup.com CNAME .
-*.metric.com.expediagroup.com CNAME .
 analytics.expediapartnersolutions.com CNAME .
 *.analytics.expediapartnersolutions.com CNAME .
 expendhattwo.com CNAME .
@@ -22846,8 +22838,6 @@ fancyapi.com CNAME .
 *.fancyapi.com CNAME .
 os.fandango.com CNAME .
 *.os.fandango.com CNAME .
-metric.fanduel.com CNAME .
-*.metric.fanduel.com CNAME .
 partners.fanduel.com CNAME .
 *.partners.fanduel.com CNAME .
 fanfanhuiben.com CNAME .
@@ -22860,8 +22850,6 @@ fanplayr.com CNAME .
 *.fanplayr.com CNAME .
 fantasticaubergine.com CNAME .
 *.fantasticaubergine.com CNAME .
-metric.fantime.com CNAME .
-*.metric.fantime.com CNAME .
 fanydourer.com CNAME .
 *.fanydourer.com CNAME .
 a.fapcat.com CNAME .
@@ -23354,8 +23342,6 @@ fiocchidiriso.com CNAME .
 *.fiocchidiriso.com CNAME .
 fipkcakk.com CNAME .
 *.fipkcakk.com CNAME .
-metric.email-out.fireeyecloud.com CNAME .
-*.metric.email-out.fireeyecloud.com CNAME .
 fireflyengagement.com CNAME .
 *.fireflyengagement.com CNAME .
 analytics.firespring.com CNAME .
@@ -23394,8 +23380,6 @@ firstpromoter.com CNAME .
 *.firstpromoter.com CNAME .
 firsttexture.com CNAME .
 *.firsttexture.com CNAME .
-metric.fiscardproconnect.com CNAME .
-*.metric.fiscardproconnect.com CNAME .
 metrics.fischelenlinea.com CNAME .
 *.metrics.fischelenlinea.com CNAME .
 fishedtopple.com CNAME .
@@ -23410,18 +23394,10 @@ info.fishersci.com CNAME .
 *.info.fishersci.com CNAME .
 sstats.fishersci.com CNAME .
 *.sstats.fishersci.com CNAME .
-metric.fishosted.com CNAME .
-*.metric.fishosted.com CNAME .
 fishyoverallsupplement.com CNAME .
 *.fishyoverallsupplement.com CNAME .
-metric.fisinc.com CNAME .
-*.metric.fisinc.com CNAME .
-metric.fisinfomanager.com CNAME .
-*.metric.fisinfomanager.com CNAME .
 analytics.fiskars.com CNAME .
 *.analytics.fiskars.com CNAME .
-metric.fisprepaid.com CNAME .
-*.metric.fisprepaid.com CNAME .
 fistdoggie.com CNAME .
 *.fistdoggie.com CNAME .
 fistofzeus.com CNAME .
@@ -23536,8 +23512,6 @@ fleddatabaseclothing.com CNAME .
 *.fleddatabaseclothing.com CNAME .
 fleddaughter.com CNAME .
 *.fleddaughter.com CNAME .
-metric.fleetsmith.com CNAME .
-*.metric.fleetsmith.com CNAME .
 fleeunleashangel.com CNAME .
 *.fleeunleashangel.com CNAME .
 flerap.com CNAME .
@@ -23552,6 +23526,8 @@ flexbanner.com CNAME .
 *.flexbanner.com CNAME .
 elqtracking.flexera.com CNAME .
 *.elqtracking.flexera.com CNAME .
+track.flexispot.com CNAME .
+*.track.flexispot.com CNAME .
 flexlinks.com CNAME .
 *.flexlinks.com CNAME .
 analytics.flexport.com CNAME .
@@ -23740,8 +23716,6 @@ fncash.com CNAME .
 *.fncash.com CNAME .
 countly.fnf.com CNAME .
 *.countly.fnf.com CNAME .
-metric.fnis.com CNAME .
-*.metric.fnis.com CNAME .
 fnrrm2fn1njl1.com CNAME .
 *.fnrrm2fn1njl1.com CNAME .
 foakiwhazoja.com CNAME .
@@ -24026,8 +24000,6 @@ forbidcrenels.com CNAME .
 *.forbidcrenels.com CNAME .
 forcealetell.com CNAME .
 *.forcealetell.com CNAME .
-metric.forceusercontent.com CNAME .
-*.metric.forceusercontent.com CNAME .
 analytics.geoanalytics.ford.com CNAME .
 *.analytics.geoanalytics.ford.com CNAME .
 smetrics.ford.com CNAME .
@@ -24634,10 +24606,6 @@ fuse-cloud.com CNAME .
 *.fuse-cloud.com CNAME .
 fuseamazementavow.com CNAME .
 *.fuseamazementavow.com CNAME .
-metric.fuser.com CNAME .
-*.metric.fuser.com CNAME .
-metric.fuserwebservices.com CNAME .
-*.metric.fuserwebservices.com CNAME .
 fusilpiglike.com CNAME .
 *.fusilpiglike.com CNAME .
 fusionquest.com CNAME .
@@ -42936,6 +42904,8 @@ pushjunky.com CNAME .
 *.pushjunky.com CNAME .
 pushly.com CNAME .
 *.pushly.com CNAME .
+tracker.pushmeback.com CNAME .
+*.tracker.pushmeback.com CNAME .
 pushnami.com CNAME .
 *.pushnami.com CNAME .
 pushnative.com CNAME .
@@ -64518,8 +64488,6 @@ funtoday.info CNAME .
 *.funtoday.info CNAME .
 fwukoulnhdlukik.info CNAME .
 *.fwukoulnhdlukik.info CNAME .
-metric.gamefuel.info CNAME .
-*.metric.gamefuel.info CNAME .
 ganizationsuc.info CNAME .
 *.ganizationsuc.info CNAME .
 garotas.info CNAME .
@@ -66558,6 +66526,12 @@ stats.uscreen.io CNAME .
 *.stats.uscreen.io CNAME .
 userhabit.io CNAME .
 *.userhabit.io CNAME .
+analytex.userpilot.io CNAME .
+*.analytex.userpilot.io CNAME .
+analytex-eu.userpilot.io CNAME .
+*.analytex-eu.userpilot.io CNAME .
+analytex-us.userpilot.io CNAME .
+*.analytex-us.userpilot.io CNAME .
 vbt.io CNAME .
 *.vbt.io CNAME .
 vectaury.io CNAME .
@@ -74912,6 +74886,8 @@ analytics.marera.net CNAME .
 *.analytics.marera.net CNAME .
 marketo.net CNAME .
 *.marketo.net CNAME .
+marvellousmachine.net CNAME .
+*.marvellousmachine.net CNAME .
 analytics.maskyoo.net CNAME .
 *.analytics.maskyoo.net CNAME .
 static.masoffer.net CNAME .
@@ -78336,8 +78312,6 @@ farasiverived.org CNAME .
 *.farasiverived.org CNAME .
 fastjs.org CNAME .
 *.fastjs.org CNAME .
-metric.fcinet.org CNAME .
-*.metric.fcinet.org CNAME .
 fcone.fidelitycharitable.org CNAME .
 *.fcone.fidelitycharitable.org CNAME .
 fctms.fidelitycharitable.org CNAME .
@@ -78348,8 +78322,6 @@ findhere.org CNAME .
 *.findhere.org CNAME .
 fireads.org CNAME .
 *.fireads.org CNAME .
-metric.fisglobal.org CNAME .
-*.metric.fisglobal.org CNAME .
 analytics.foliocollaborative.org CNAME .
 *.analytics.foliocollaborative.org CNAME .
 stats.framasoft.org CNAME .
@@ -82286,8 +82258,6 @@ caffeines.store CNAME .
 *.caffeines.store CNAME .
 pixel.bridge.dooca.store CNAME .
 *.pixel.bridge.dooca.store CNAME .
-frocogue.store CNAME .
-*.frocogue.store CNAME .
 jamstech.store CNAME .
 *.jamstech.store CNAME .
 widget-social-proof-api.one.store CNAME .
@@ -82464,8 +82434,6 @@ matomo.prod.erli.tech CNAME .
 *.matomo.prod.erli.tech CNAME .
 eshedofiga.tech CNAME .
 *.eshedofiga.tech CNAME .
-findjanupcreep.tech CNAME .
-*.findjanupcreep.tech CNAME .
 futurehybrid.tech CNAME .
 *.futurehybrid.tech CNAME .
 htagpa.tech CNAME .
@@ -85908,6 +85876,44 @@ mda.zadn.vn CNAME .
 *.mda.zadn.vn CNAME .
 sdk.zadn.vn CNAME .
 *.sdk.zadn.vn CNAME .
+zpsocial-f35-org.zadn.vn CNAME .
+*.zpsocial-f35-org.zadn.vn CNAME .
+zpsocial-f40-org.zadn.vn CNAME .
+*.zpsocial-f40-org.zadn.vn CNAME .
+zpsocial-f41-org.zadn.vn CNAME .
+*.zpsocial-f41-org.zadn.vn CNAME .
+zpsocial-f42-org.zadn.vn CNAME .
+*.zpsocial-f42-org.zadn.vn CNAME .
+zpsocial-f43-org.zadn.vn CNAME .
+*.zpsocial-f43-org.zadn.vn CNAME .
+zpsocial-f44-org.zadn.vn CNAME .
+*.zpsocial-f44-org.zadn.vn CNAME .
+zpsocial-f45-org.zadn.vn CNAME .
+*.zpsocial-f45-org.zadn.vn CNAME .
+zpsocial-f46-org.zadn.vn CNAME .
+*.zpsocial-f46-org.zadn.vn CNAME .
+zpsocial-f47-org.zadn.vn CNAME .
+*.zpsocial-f47-org.zadn.vn CNAME .
+zpsocial-f48-org.zadn.vn CNAME .
+*.zpsocial-f48-org.zadn.vn CNAME .
+zpsocial-f49-org.zadn.vn CNAME .
+*.zpsocial-f49-org.zadn.vn CNAME .
+zpsocial-f50-org.zadn.vn CNAME .
+*.zpsocial-f50-org.zadn.vn CNAME .
+zpsocial-f51-org.zadn.vn CNAME .
+*.zpsocial-f51-org.zadn.vn CNAME .
+zpsocial-f52-org.zadn.vn CNAME .
+*.zpsocial-f52-org.zadn.vn CNAME .
+zpsocial-f53-org.zadn.vn CNAME .
+*.zpsocial-f53-org.zadn.vn CNAME .
+zpsocial-f54-org.zadn.vn CNAME .
+*.zpsocial-f54-org.zadn.vn CNAME .
+zpsocial-f55-org.zadn.vn CNAME .
+*.zpsocial-f55-org.zadn.vn CNAME .
+zpsocial-f56-org.zadn.vn CNAME .
+*.zpsocial-f56-org.zadn.vn CNAME .
+zpsocial-f57-org.zadn.vn CNAME .
+*.zpsocial-f57-org.zadn.vn CNAME .
 zaloweb.vn CNAME .
 *.zaloweb.vn CNAME .
 analytics.zapps.vn CNAME .

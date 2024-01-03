@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2024 09:24 UTC
-# Version: 2024.0103.0924.33
+# Last modified: 03 Jan 2024 14:25 UTC
+# Version: 2024.0103.1425.05
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 66310
+# Number of entries: 66294
 #
 *.000.pe
 *.0008d6ba2e.com
@@ -21266,6 +21266,7 @@
 *.dimcarnie.com
 *.dimedoncywydd.com
 *.dimeftluck.live
+*.metrics-api.dimensions.ai
 *.dimessing-parker.com
 *.dimlyconfidential.com
 *.dimlyelusive.com
@@ -24173,7 +24174,6 @@
 *.etcodes.com
 *.etereyouma.info
 *.analytics.etexgroup.com
-*.metric.mta.etframework.com
 *.etheappyrince.com
 *.etheappyrincea.info
 *.etheappyrincerta.info
@@ -24259,18 +24259,9 @@
 *.sfr.eulerian.net
 *.euleriancdn.net
 *.av.eulerupslant.com
-*.bom-col.eum-appdynamics.com
-*.col.eum-appdynamics.com
-*.fra-col.eum-appdynamics.com
-*.gru-col.eum-appdynamics.com
-*.lon-col.eum-appdynamics.com
-*.pdx-col.eum-appdynamics.com
-*.sin-col.eum-appdynamics.com
-*.syd-col.eum-appdynamics.com
 *.eumenesgigsman.com
 *.eunzkvf.com
 *.euosicjxjv.com
-*.euouaeslurped.com
 *.euphe-gun.com
 *.eurekabike.com
 *.smetrics.eurekalert.org
@@ -24456,7 +24447,6 @@
 *.marketing.ewi.org
 *.analytics.ewie.com
 *.ewikajs.com
-*.ewioud.com
 *.analytics.ewizsaas.com
 *.ewoodandwaveo.com
 *.ewoverth.buzz
@@ -24492,7 +24482,6 @@
 *.examplesusagefeedback.com
 *.exampulsate.com
 *.exapxl.de
-*.analytics.exaricontracts.com
 *.exasked.com
 *.exasperationplotincarnate.com
 *.excelelernody.info
@@ -24591,7 +24580,6 @@
 *.oms.expedia.com
 *.collector.prod.expedia.com
 *.analytics.expediagroup.com
-*.metric.com.expediagroup.com
 *.paygw-analytics.com.expediagroup.com
 *.paygw-analytics.expediagroup.com
 *.analytics.expediapartnersolutions.com
@@ -24887,14 +24875,12 @@
 *.facilitategrandfather.com
 *.facilitycompetition.com
 *.facilitypestilent.com
-*.facinggleg.life
 *.fackeyess.com
 *.faclientirethe.xyz
 *.factgoldbeg.live
 *.oms.factiva.com
 *.facto-insolvenz.de
 *.matomo.factor.ua
-*.factor1right.com
 *.tms.hft.factor75.com
 *.wejpuy.factor75.com
 *.factquicker.com
@@ -24973,7 +24959,6 @@
 *.fallpalsae.live
 *.falomana.com
 *.img.faloo.com
-*.falsenalice.com
 *.falsewrist.com
 *.falsifybrightly.com
 *.falsifylilac.com
@@ -25028,7 +25013,6 @@
 *.fancycrab.net
 *.os.fandango.com
 *.fandmo.com
-*.metric.fanduel.com
 *.partners.fanduel.com
 *.fanfanhuiben.com
 *.fangcunzhijian1.cn
@@ -25039,7 +25023,6 @@
 *.fantasticaubergine.com
 *.fantasticdatings.life
 *.fantasticgap.pro
-*.metric.fantime.com
 *.fantuan.name
 *.fanydourer.com
 *.fanza.cc
@@ -25145,7 +25128,6 @@
 *.fatalitycharitablemoment.com
 *.fatchilli.media
 *.fatcoil.com
-*.sorriso.fate-saber.net
 *.privacyportal.fatergroup.com
 *.smetrics.fatface.com
 *.fatff.com
@@ -25236,7 +25218,7 @@
 *.fccinteractive.com
 *.n.fcd.su
 *.fcied.xyz
-*.metric.fcinet.org
+*.v4.metric.fcinet.org
 *.fckoyhl.net
 *.fcompsepd.com
 *.fcpfth.xyz
@@ -25393,7 +25375,6 @@
 *.ferict.com
 *.feript.com
 *.ferlingbelayed.com
-*.fermacyupplow.com
 *.feroxnestor.space
 *.track.ferrari.com
 *.tr.n.ferrero.fr
@@ -25624,7 +25605,6 @@
 *.findhere.org
 *.findingattending.com
 *.findingexchange.com
-*.findjanupcreep.tech
 *.findpartneronline22.fun
 *.findromanticdates.com
 *.findwhat.com
@@ -25690,7 +25670,6 @@
 *.firearmtire.com
 *.affiliate-script-pr.firebaseapp.com
 *.charity-suite-uk1.firebaseapp.com
-*.metric.email-out.fireeyecloud.com
 *.fireflyengagement.com
 *.firersale.com
 *.analytics.firespring.com
@@ -25733,9 +25712,7 @@
 *.app-clicks.firstrepublic.com
 *.firstsoftapp.com
 *.firsttexture.com
-*.metric.fiscardproconnect.com
 *.metrics.fischelenlinea.com
-*.metric.fisglobal.org
 *.fishedtopple.com
 *.fisher56.com
 *.elq.fisherinvestments.com
@@ -25747,12 +25724,8 @@
 *.sstats.fishersci.de
 *.sstats.fishersci.ie
 *.fishingdaily.shop
-*.metric.fishosted.com
 *.fishyoverallsupplement.com
-*.metric.fisinc.com
-*.metric.fisinfomanager.com
 *.analytics.fiskars.com
-*.metric.fisprepaid.com
 *.fistdoggie.com
 *.fistofzeus.com
 *.fistsurprising.com
@@ -25799,7 +25772,6 @@
 *.fixespreoccupation.com
 *.fjijxch.com
 *.fjjctsabpdjhge.com
-*.vpn-update.fjszwbb85d5o.top
 *.fjtroip.cn
 *.fjylcy.com
 *.fkauueeepla.top
@@ -25878,7 +25850,6 @@
 *.fleenaive.com
 *.fleeoutspoken.com
 *.fleetformy.com
-*.metric.fleetsmith.com
 *.fleeunleashangel.com
 *.flelgwe.site
 *.flerap.com
@@ -25889,6 +25860,7 @@
 *.flexbanner.com
 *.elqtracking.flexera.com
 *.flexiblelocator.com
+*.track.flexispot.com
 *.flexlinks.com
 *.analytics.flexport.com
 *.flickerbridge.com
@@ -26086,7 +26058,6 @@
 *.fncash.com
 *.fndrsp.net
 *.countly.fnf.com
-*.metric.fnis.com
 *.fnitw.xyz
 *.fnjxpwy.com
 *.fnkyyrgraizy.com
@@ -26238,7 +26209,6 @@
 *.forcelessgooseberry.com
 *.forcelessgreetingbust.com
 *.forcetwice.com
-*.metric.forceusercontent.com
 *.analytics.geoanalytics.ford.com
 *.metrics.ford.com
 *.smetrics.ford.com
@@ -26340,7 +26310,6 @@
 *.fortxfq.cn
 *.fortyphlosiona.com
 *.analytics.forum-media.com
-*.forumsotiatry.com
 *.analytics.forvis.com
 *.forwardcity.xyz
 *.forwardrb.bid
@@ -26680,7 +26649,6 @@
 *.friv5online.com
 *.frockritequell.com
 *.frockswatpelt.com
-*.frocogue.store
 *.frodx.com
 *.frog9alea.com
 *.frogmenislets.uno
@@ -26715,7 +26683,6 @@
 *.frothsubmarine.com
 *.frownfirsthand.com
 *.goatcounter.frozenfractal.com
-*.frrdlass.com
 *.frrhdl.xyz
 *.frrrerolls22.monster
 *.frsejhged.xyz
@@ -26796,7 +26763,6 @@
 *.fuelx.com
 *.data-12c31c7daf.fuersie.de
 *.data-90cb6242e4.fuersie.de
-*.fuffscreigh.website
 *.fufiooa.com
 *.fugcgfilma.com
 *.fugetech.com
@@ -26905,8 +26871,6 @@
 *.fuseamazementavow.com
 *.fusedeck.net
 *.fuseplatform.net
-*.metric.fuser.com
-*.metric.fuserwebservices.com
 *.fusilpiglike.com
 *.fusionads.net
 *.metrics.fusionauth.io
@@ -27172,7 +27136,6 @@
 *.ads-media.gameforge.com
 *.adsm2.gameforge.de
 *.pixelzirkus.gameforge.com
-*.metric.gamefuel.info
 *.analytics.gameguru.mobi
 *.gamehouse.com
 *.gamelights.ru
@@ -38528,6 +38491,7 @@
 *.martyrcontrol.com
 *.suncanny.marvel.com
 *.marvelhuntcountry.com
+*.marvellousmachine.net
 *.marvellouspeaches.com
 *.marvellousperforming.com
 *.marvelrespectableinset.com
@@ -48223,6 +48187,7 @@
 *.pushmaster.xyz
 *.pushmaster-cdn.xyz
 *.pushmaster-in.xyz
+*.tracker.pushmeback.com
 *.pushmejs.com
 *.pushmeup.art
 *.pushmono.com
@@ -60604,6 +60569,9 @@
 *.usermaven.com
 *.eq.userneeds.com
 *.stats.userneeds.com
+*.analytex.userpilot.io
+*.analytex-eu.userpilot.io
+*.analytex-us.userpilot.io
 *.userreplay.com
 *.userreplay.net
 *.cdn.userreport.com
@@ -65563,6 +65531,25 @@
 *.mda.zadn.vn
 *.sdk.zadn.vn
 *.zalo-ads-td.zadn.vn
+*.zpsocial-f35-org.zadn.vn
+*.zpsocial-f40-org.zadn.vn
+*.zpsocial-f41-org.zadn.vn
+*.zpsocial-f42-org.zadn.vn
+*.zpsocial-f43-org.zadn.vn
+*.zpsocial-f44-org.zadn.vn
+*.zpsocial-f45-org.zadn.vn
+*.zpsocial-f46-org.zadn.vn
+*.zpsocial-f47-org.zadn.vn
+*.zpsocial-f48-org.zadn.vn
+*.zpsocial-f49-org.zadn.vn
+*.zpsocial-f50-org.zadn.vn
+*.zpsocial-f51-org.zadn.vn
+*.zpsocial-f52-org.zadn.vn
+*.zpsocial-f53-org.zadn.vn
+*.zpsocial-f54-org.zadn.vn
+*.zpsocial-f55-org.zadn.vn
+*.zpsocial-f56-org.zadn.vn
+*.zpsocial-f57-org.zadn.vn
 *.zaffarnimbed.com
 *.zaful.com
 *.analytics.zagg.com

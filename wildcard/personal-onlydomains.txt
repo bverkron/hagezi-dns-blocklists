@@ -3,8 +3,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2024 09:16 UTC
-# Version: 2024.0103.0916.09
+# Last modified: 03 Jan 2024 14:16 UTC
+# Version: 2024.0103.1416.24
 # Syntax: Domains (without subdomains)
 # Number of entries: 44420
 #
@@ -13936,6 +13936,7 @@ core.dimatter.ai
 dimcarnie.com
 dimedoncywydd.com
 dimeftluck.live
+metrics-api.dimensions.ai
 dimessing-parker.com
 dimml.io
 dingdangcake.cn
@@ -15743,7 +15744,6 @@ etargetnet.com
 smetrics.etcanada.com
 etcodes.com
 analytics.etexgroup.com
-metric.mta.etframework.com
 etheappyrincea.info
 ethecountryw.org
 matomo.ethereum.org
@@ -15797,7 +15797,6 @@ ml.eulerian.net
 sfr.eulerian.net
 euleriancdn.net
 av.eulerupslant.com
-col.eum-appdynamics.com
 eumenesgigsman.com
 eunzkvf.com
 euosicjxjv.com
@@ -15927,7 +15926,6 @@ ewfsef.com
 marketing.ewi.org
 analytics.ewie.com
 ewikajs.com
-ewioud.com
 analytics.ewizsaas.com
 ewqkrfjkqz.com
 ewzavfde.xyz
@@ -15949,7 +15947,6 @@ track.exame.com
 examinerplodbuild.com
 exampleshake.com
 exapxl.de
-analytics.exaricontracts.com
 exasked.com
 excelelernody.info
 excellentafternoon.com
@@ -16013,7 +16010,6 @@ om.expedia.com
 oms.expedia.com
 collector.prod.expedia.com
 analytics.expediagroup.com
-metric.com.expediagroup.com
 analytics.expediapartnersolutions.com
 ntrfr.expekt.se
 expendhattwo.com
@@ -16273,7 +16269,6 @@ fancyactivity.com
 fancyapi.com
 fancycrab.net
 os.fandango.com
-metric.fanduel.com
 partners.fanduel.com
 fanfanhuiben.com
 fangcunzhijian1.cn
@@ -16284,7 +16279,6 @@ fansang.xyz
 fantasticaubergine.com
 fantasticdatings.life
 fantasticgap.pro
-metric.fantime.com
 fantuan.name
 fanydourer.com
 fanza.cc
@@ -16417,7 +16411,6 @@ smetrics.fcbarcelona.com
 smetrics.fcbarcelona.es
 fcbqxt.xyz
 fccinteractive.com
-metric.fcinet.org
 fcpfth.xyz
 fcprst.xyz
 fcs.ovh
@@ -16664,7 +16657,6 @@ find-more.net
 engine.findaphd.com
 findcommerce.com
 findhere.org
-findjanupcreep.tech
 findromanticdates.com
 findwhat.com
 findyourhalf.live
@@ -16700,7 +16692,6 @@ metric.fiod.nl
 fipkcakk.com
 fiprst.xyz
 fireads.org
-metric.email-out.fireeyecloud.com
 fireflyengagement.com
 analytics.firespring.com
 smetrics.firestonebpco.com
@@ -16725,9 +16716,7 @@ analytics.firstmates.com
 site.firstnet.com
 firstpromoter.com
 firsttexture.com
-metric.fiscardproconnect.com
 metrics.fischelenlinea.com
-metric.fisglobal.org
 fishedtopple.com
 fisher56.com
 elq.fisherinvestments.com
@@ -16737,12 +16726,8 @@ sstats.fishersci.ca
 sstats.fishersci.com
 sstats.fishersci.de
 sstats.fishersci.ie
-metric.fishosted.com
 fishyoverallsupplement.com
-metric.fisinc.com
-metric.fisinfomanager.com
 analytics.fiskars.com
-metric.fisprepaid.com
 fistdoggie.com
 fistofzeus.com
 fistsurprising.com
@@ -16823,7 +16808,6 @@ fldkakjccxhgw.com
 flecur.com
 fleddatabaseclothing.com
 fleddaughter.com
-metric.fleetsmith.com
 fleeunleashangel.com
 flelgwe.site
 flerap.com
@@ -16832,6 +16816,7 @@ analytics.fleurdumal.com
 support.flex.com
 flexbanner.com
 elqtracking.flexera.com
+track.flexispot.com
 flexlinks.com
 analytics.flexport.com
 analytics.flightclubdartsusa.com
@@ -16974,7 +16959,6 @@ fnbauniukvi.com
 fncash.com
 fndrsp.net
 countly.fnf.com
-metric.fnis.com
 fnitw.xyz
 fnrrm2fn1njl1.com
 foakiwhazoja.com
@@ -17145,7 +17129,6 @@ fuse.forbes.com
 geolocation.forbes.com
 forbidcrenels.com
 forcealetell.com
-metric.forceusercontent.com
 analytics.geoanalytics.ford.com
 smetrics.ford.com
 t.fordidahocenter.com
@@ -17445,7 +17428,6 @@ fritdugs.com
 zelten.fritz-berger.de
 friv5online.com
 frockswatpelt.com
-frocogue.store
 frodx.com
 frog9alea.com
 frogmenislets.uno
@@ -17581,8 +17563,6 @@ fuse-cloud.com
 fuseamazementavow.com
 fusedeck.net
 fuseplatform.net
-metric.fuser.com
-metric.fuserwebservices.com
 fusilpiglike.com
 metrics.fusionauth.io
 fusionquest.com
@@ -17757,7 +17737,6 @@ gamefabrique.com
 ads-delivery.gameforge.com
 ads-media.gameforge.com
 pixelzirkus.gameforge.com
-metric.gamefuel.info
 analytics.gameguru.mobi
 gamehouse.com
 gamelights.ru
@@ -25288,6 +25267,7 @@ smetrics.marshandmclennan.com
 info.marshpcs.com
 marti-cqh.com
 suncanny.marvel.com
+marvellousmachine.net
 marvellousperforming.com
 marx7loki.com
 marxismsuddy.com
@@ -31834,6 +31814,7 @@ pushly.it
 pushmaster.xyz
 pushmaster-cdn.xyz
 pushmaster-in.xyz
+tracker.pushmeback.com
 pushmeup.art
 pushnami.com
 pushnative.com
@@ -40365,6 +40346,9 @@ userleap.com
 support-widget.userlocal.jp
 usermap.net
 usermaven.com
+analytex.userpilot.io
+analytex-eu.userpilot.io
+analytex-us.userpilot.io
 userreplay.com
 userreplay.net
 cdn.userreport.com
@@ -43881,6 +43865,25 @@ log-plo.zadn.vn
 log-tienphong.zadn.vn
 mda.zadn.vn
 sdk.zadn.vn
+zpsocial-f35-org.zadn.vn
+zpsocial-f40-org.zadn.vn
+zpsocial-f41-org.zadn.vn
+zpsocial-f42-org.zadn.vn
+zpsocial-f43-org.zadn.vn
+zpsocial-f44-org.zadn.vn
+zpsocial-f45-org.zadn.vn
+zpsocial-f46-org.zadn.vn
+zpsocial-f47-org.zadn.vn
+zpsocial-f48-org.zadn.vn
+zpsocial-f49-org.zadn.vn
+zpsocial-f50-org.zadn.vn
+zpsocial-f51-org.zadn.vn
+zpsocial-f52-org.zadn.vn
+zpsocial-f53-org.zadn.vn
+zpsocial-f54-org.zadn.vn
+zpsocial-f55-org.zadn.vn
+zpsocial-f56-org.zadn.vn
+zpsocial-f57-org.zadn.vn
 zaffarnimbed.com
 analytics.zagg.com
 metrics.zagg.com
