@@ -127,7 +127,7 @@
 @@||click.aliexpress.com^
 @@||click.allkeyshop.com^
 @@||click.alternate.de^
-@@||aax*.amazon-adsystem.com^
+@@||aax-*-retail-direct.amazon-adsystem.com^
 @@||aax*.amazon.*^
 @@||assoc-redirect.amazon.*^
 @@||click.member.americanexpress.com^

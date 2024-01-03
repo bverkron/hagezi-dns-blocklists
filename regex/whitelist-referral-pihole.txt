@@ -6,7 +6,7 @@
 (\.|^)a1\.adform\.net$
 (\.|^)a1\.adformnet\.akadns\.net$
 (\.|^)aax.*\.amazon\..*$
-(\.|^)aax.*\.amazon\-adsystem\.com$
+(\.|^)aax\-.*\-retail\-direct\.amazon\-adsystem\.com$
 (\.|^)ab1n\.net$
 (\.|^)ablink\.email\.etsy\.com$
 (\.|^)ablink\.mail\.parkmobile\.io$
