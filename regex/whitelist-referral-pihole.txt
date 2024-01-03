@@ -328,6 +328,7 @@
 (\.|^)track.*\.customer\.io$
 (\.|^)track.*\.effiliation\.com$
 (\.|^)tracker\.marinsm\.com$
+(\.|^)track\.flexlinkspro\.com$
 (\.|^)track\.glovoapp\.com$
 (\.|^)track\.grove\.co$
 (\.|^)tracking\.bol\.com$

@@ -211,6 +211,7 @@
 @@||*cdn*.exponea.com^
 @@||l.facebook.com^
 @@||click.fidelityinvestments.com^
+@@||track.flexlinkspro.com^
 @@||ue.flipboard.com^
 @@||eultech.fnac.com^
 @@||link.freshmail.mx^
