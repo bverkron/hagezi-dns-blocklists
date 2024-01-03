@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jan 2024 23:23 UTC
-# Version: 2024.0102.2323.20
+# Last modified: 03 Jan 2024 23:10 UTC
+# Version: 2024.0103.2310.36
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 14276
+# Number of entries: 14188
 #
 *.11trikots.com
 *.12-suchen.de
@@ -211,7 +211,6 @@
 *.aim-assist.de
 *.aircargo-logistics.com
 *.airguncapital.com
-*.airjordan.at
 *.airjordans.live
 *.airjordanschuhe.at
 *.airmaxoutlet.net
@@ -2218,6 +2217,7 @@
 *.jackwolfskinaustria.co.at
 *.lowa.co.uk
 *.www.messner.co.at
+*.officialiphoneunlock.co.uk
 *.plushy-lucky.co.uk
 *.urhair.co.uk
 *.worldwidemoving.co.uk
@@ -2656,7 +2656,6 @@
 *.degussa-goldhandell.com
 *.dehens.fr
 *.dehnerverkauf.de
-*.deichmann-eu.shop
 *.deichmannsale.shop
 *.deichmannshoe.com
 *.dein-croozer.de
@@ -2678,7 +2677,6 @@
 *.deinrufretter.com
 *.deinschuhtempel.de
 *.deinspurwechsel.de
-*.deinvest.site
 *.dejonk.de
 *.dek-haustechnik.de
 *.dekoartikelrabatt.de
@@ -2749,7 +2747,6 @@
 *.designbyclaudia.com
 *.designer-dream.com
 *.designer-second-hand-shop.com
-*.designerdna.net
 *.designerfavorite.com
 *.designerjoules.com
 *.designersunglass.store
@@ -2790,8 +2787,6 @@
 *.deutschekredit-finanz.com
 *.deutscheritter.de
 *.deutschetroniks.com
-*.deutschgamestop.com
-*.deutschland-kredit-de.com
 *.developingplaza.com
 *.deveri.de
 *.deverkauffahrrad.com
@@ -2806,7 +2801,6 @@
 *.dfr-hessen.de
 *.dh-immobilien.at
 *.dhbhandpick.com
-*.dhe-group.com
 *.dhe-logistics.com
 *.dhk-transport.com
 *.diabohr-tech.de
@@ -2949,7 +2943,6 @@
 *.dolcevitashoe.com
 *.domabes.com
 *.domako.de
-*.dominko-finanzen.com
 *.domino-reifen.com
 *.donalovehair.de
 *.donnaschuhe.de
@@ -2977,7 +2970,6 @@
 *.dopesuomi-fi.com
 *.dopeswitzerland.com
 *.dopetakki.com
-*.dopsnowwear.com
 *.doramampn.com
 *.dorat.de
 *.doriancolin.com
@@ -3059,7 +3051,6 @@
 *.drugeo.to
 *.drugs247.net
 *.druker-ved.com
-*.dsabunbadang.shop
 *.dshskirabatt.com
 *.dsil-llc.com
 *.dslladen.com
@@ -3111,7 +3102,6 @@
 *.e-kaufmarkt.at
 *.e-kaufmarkt.com
 *.e-lektorat.at
-*.e-marktkauf.com
 *.e-neosmart.com
 *.e-radstore.com
 *.e-shop-markt.de
@@ -3156,11 +3146,9 @@
 *.ebike-best.com
 *.ebikeprofessor.nl
 *.ebikesgeschaft.com
-*.ebisushijo.com
 *.eblattholz.com
 *.ec-menta.de
 *.ecco-deutschland.com
-*.ecco-discount.us
 *.ecco-sale-deutschland.com
 *.eccodeutschland.de
 *.eccokosmetik.com
@@ -3212,7 +3200,6 @@
 *.edforit.com
 *.edgetoolhub.com
 *.edgoodtabs.com
-*.edgy-attire.com
 *.edgy-shop.com
 *.edgydecoration.com
 *.edgyfashionfinery.com
@@ -3267,7 +3254,6 @@
 *.ein-kaffee.de
 *.einayah.com
 *.einfachbaby.de
-*.einfaches-aufwarmen.com
 *.einfachknorke.de
 *.einkaufen-at.com
 *.einkaufsmarkt-rost.de
@@ -3310,7 +3296,6 @@
 *.elegantchaussure.com
 *.elegantfeme.com
 *.eleganziagems.com
-*.eleictoyshop.com
 *.elekro-master.com
 *.elektriker-fritz.de
 *.elektriker7d.at
@@ -3343,7 +3328,6 @@
 *.elektrohandelplus.de
 *.elektroholz.com
 *.elektrohoppe.de
-*.elektrokaufenmarkt.com
 *.elektrola-brothers.de
 *.elektroladen-eckert.com
 *.elektromehr.com
@@ -3398,7 +3382,6 @@
 *.elsner-reifenversand.shop
 *.eltordotango.com
 *.eluxuryonline.com
-*.emagshoponline.com
 *.embausa.shop
 *.emctm.com
 *.emd-service.de
@@ -3467,7 +3450,6 @@
 *.enormous.shop
 *.ensemble4cyclisme.com
 *.enstocks3v.top
-*.ensuenosecuador.com
 *.entertainmentstylish.com
 *.enthusiastichaic.com
 *.entruempelungsexperten.at
@@ -3563,8 +3545,6 @@
 *.eu-med-mart.com
 *.euchems.me
 *.eufahrradzubehor.de
-*.eufinanze.com
-*.eugaborschuhe.de
 *.eugadneu.de
 *.euheadsport.de
 *.euholz.com
@@ -3604,28 +3584,22 @@
 *.euronics-ser.de
 *.euronicsde.com
 *.euronicsde.de
-*.euronicsdeutsch.com
 *.euronicsdeutschland.net
 *.euronicsdeutschlandshop.de
 *.euronicsdirekte.de
 *.euronicseuro.com
 *.euronicseuro-de.com
 *.euronicseurope-ps.com
-*.euronicsgame.com
-*.euronicsgamede.com
-*.euronicsgaming.net
 *.euronicskonsole.com
 *.euronicsonline.net
 *.euronicsonlineshop.de
 *.euronicspowergame.de
 *.euronicss.com
 *.euronicsser.de
-*.euronicsservice.com
 *.euronicsservice.de
 *.euronicsserviceamazing.de
 *.euronicsservices.de
 *.euronicsshopde.com
-*.euronicsshoponline.de
 *.euronicsshoponline.net
 *.euronicsxxldeutschonline.de
 *.euronicsxxlonline.de
@@ -3649,7 +3623,6 @@
 *.europharmsonline.com
 *.europharmx.com
 *.europillsonline.com
-*.europost-versand.net
 *.euroshopmarket.eu
 *.eurosmarkts.com
 *.euschuhe.de
@@ -3712,7 +3685,6 @@
 *.exploria-tech.de
 *.expo-zinsportal.de
 *.express-schaedlingsbekaempfung.at
-*.expressbois.com
 *.expressbrennholz.com
 *.expressdealz.com
 *.expresseinkauf.com
@@ -3747,7 +3719,6 @@
 *.fabnetstudio.com
 *.fabriksolar.de
 *.fabrikverkaufmerrellch.com
-*.faburabrandworld.com
 *.facepets.es
 *.factoryland.de
 *.facyline.de
@@ -3772,7 +3743,6 @@
 *.fahrrad-versand.com
 *.fahrradbekleidung-onlines.de
 *.fahrradbekleidungkauf.com
-*.fahrradcheck24.de
 *.fahrradersde.com
 *.fahrradhelmrabatt.com
 *.fahrradkoenig.com
@@ -3791,7 +3761,6 @@
 *.fahrradsportverkauf.com
 *.fahrradstromkreis.com
 *.fahrradundbike.de
-*.fahrraduniversum.de
 *.fahrradvitus.de
 *.fahrradzubehor-angebote.com
 *.fahrradzubehorrabatt.com
@@ -3813,7 +3782,6 @@
 *.familie-amelsberg.de
 *.familieenhaustiere.de
 *.familienontour.de
-*.family-pills.com
 *.familyelegant.com
 *.familyhistoryjamaica.com
 *.familynow.club
@@ -3823,9 +3791,6 @@
 *.famousswim.com
 *.famozdealz.de
 *.fanaticgeneralstore.com
-*.fanaticoffical2023.com
-*.fanatics2022.com
-*.fanaticsusd.com
 *.fanatictool.com
 *.fancylets.com
 *.fannyborius.com
@@ -4148,7 +4113,6 @@
 *.flatteringshoes.com
 *.flawlesshousehold.com
 *.flehmanns.de
-*.fleisch-paradies.de
 *.fleischer-reifen.com
 *.fleshjacket.com
 *.flexi-de.top
@@ -4211,7 +4175,6 @@
 *.footjoy-finland.com
 *.footjoy-suomi.com
 *.footjoyosterreich.at
-*.footjoysports.com
 *.footjoyssuomi.com
 *.footjoysuomi.com
 *.footwearedge.com
@@ -4251,7 +4214,6 @@
 *.foto-biering.de
 *.foto-blackbox.de
 *.foto-expert.com
-*.foto-wolf.de
 *.fotoportemonnaie.de
 *.fotopr-online.com
 *.fotosocken.com
@@ -4412,7 +4374,6 @@
 *.fusspflege-klesen.de
 *.futegi.com
 *.future-nord.de
-*.futurello-pellet.com
 *.futuristicvogue.com
 *.fvkiwanis.org
 *.fvu-handel.com
@@ -4462,7 +4423,6 @@
 *.galabau-hammitsch.de
 *.galagate.co
 *.galaktischshop.com
-*.galandu.de
 *.galeriasale.de
 *.galeriasale.shop
 *.galerieoswald.de
@@ -4476,7 +4436,6 @@
 *.game-dynamics.com
 *.game-stop-de.com
 *.game-stopde.org
-*.game-stopdeutsch.com
 *.game-stopeuro.com
 *.game-str.com
 *.gamebasic-de.com
@@ -4489,29 +4448,23 @@
 *.gamerkanal.de
 *.games-markets.de
 *.gamesfox.de
-*.gamesmania.shop
 *.gamesmojo.de
 *.gamesstudionuernberg.com
 *.gamestop-de.com
 *.gamestop-deutscheland.com
 *.gamestop-eurode.com
 *.gamestop-play.com
-*.gamestop-servicede.com
 *.gamestop-shop.com
 *.gamestop-shopde.com
-*.gamestop-sservice.com
 *.gamestopcorpde.com
 *.gamestopde.com
 *.gamestopde.de
 *.gamestopdeutsche.com
-*.gamestopeurodeutsch.com
-*.gamestopgmbh.com
 *.gamestopgmbhde.com
 *.gamestopgsde.com
 *.gamestopland.com
 *.gamestoplanden.net
 *.gamestoponline.de
-*.gamestopservicede.com
 *.gamestopshopde.com
 *.gamestopshopp.com
 *.gamestopstockde.com
@@ -4565,7 +4518,6 @@
 *.gardentoolsell.com
 *.gardentoolssale.com
 *.gardentooluk.com
-*.gardenu.de
 *.gardono-shop.de
 *.garindo.de
 *.garment-official.com
@@ -4688,7 +4640,6 @@
 *.germanyremote.co
 *.geschirrangebote.com
 *.geschirrneu.de
-*.gesichtskauf.com
 *.gestuzclothing.com
 *.gesunde-welpenkaufen.com
 *.gesundeliebe.com
@@ -4727,9 +4678,7 @@
 *.getyourtreatmentshere.com
 *.getzor.com
 *.gewichtreduces.net
-*.gewofu.com
 *.gexchain.com
-*.gfid-groupe.com
 *.gfootwearus.com
 *.gfore-suomi.com
 *.gforedeutschland.de
@@ -4773,7 +4722,6 @@
 *.gimmylogistcis.com
 *.gimora.de
 *.ginkgo-blumen.de
-*.ginopellet.com
 *.giondo.de
 *.giondo-online.de
 *.giotagartenarbeit.com
@@ -4793,7 +4741,6 @@
 *.glamgoamazing.com
 *.glamorousoutfit.com
 *.glamouralchemy.com
-*.glas-gs.de
 *.glaser-reifenhandel.com
 *.glassbestsellers.com
 *.glassesde.com
@@ -4863,10 +4810,8 @@
 *.goldavenue24.com
 *.goldbank-hamburg.de
 *.goldbank-muenchen.de
-*.goldbank-munchen.de
 *.goldbannerx.org
 *.golden-groups.com
-*.goldenewelpen.com
 *.goldengoose.at
 *.goldeninvestbroker.com
 *.goldf-tradex.com
@@ -4874,7 +4819,6 @@
 *.goldhandel-degussa.de
 *.goldhandel-heute.de
 *.goldhandel-kauf.de
-*.goldhandel-test-sieger-2022.de
 *.goldhandel-testsieger.de
 *.goldhandelkontor-testsieger1972.de
 *.goldhandeltestsieger-seit1972.de
@@ -4898,7 +4842,6 @@
 *.golfdemandmall.com
 *.golfersgalore.com
 *.golffavorite.com
-*.golffootjoy.com
 *.golfhubover.com
 *.golfmegamart.com
 *.golfoffer-us.com
@@ -4910,7 +4853,6 @@
 *.golfworldover.com
 *.golfzonepop.com
 *.gollkies-holz.de
-*.golo-handel.de
 *.gomecks.top
 *.gomo-shop.de
 *.gonaflix.com
@@ -4957,7 +4899,6 @@
 *.granadabelekhotel.com
 *.grandado.com
 *.grandeurlux.com
-*.grandtechstore.net
 *.grantecredit-finance.com
 *.graskaufen.net
 *.graskaufen.shop
@@ -4965,7 +4906,6 @@
 *.gratis-produkttests.de
 *.graveilux.de
 *.gravelbikeneu.com
-*.great-market.com
 *.greatagainstore.com
 *.greatescapery.com
 *.greathottabs.com
@@ -4978,7 +4918,6 @@
 *.greeneshop.site
 *.greenlinelina.de
 *.greenpayl.top
-*.greensidefrenchies.com
 *.greentec-handel.de
 *.gregora.de
 *.greiner-reifenhandel.shop
@@ -5015,12 +4954,10 @@
 *.groundiesbarefootschweiz.com
 *.groundiesdamen.de
 *.groundiesdenmark.com
-*.groundiesdeutschland.com
 *.groundiesgermany.com
 *.groundiesinsuomi.com
 *.groundiesosterreich.at
 *.groundiesoutletsuomi.com
-*.groundiesshop.at
 *.groundiewien.com
 *.group-rwe.de
 *.groupsumi.de
@@ -5078,7 +5015,6 @@
 *.gws-powercell.de
 *.gwz-max.de
 *.gym-base.de
-*.gym-beast.de
 *.gym-shark-canada.com
 *.gym-shark-danmark.com
 *.gym-shark-egypt.com
@@ -5109,11 +5045,9 @@
 *.gymshark-turkiye-tayt.com
 *.gymshark-uk.com
 *.gymsharkale.com
-*.gymsharkalesuomi.com
 *.gymsharkar.com
 *.gymsharkat.com
 *.gymsharkatonline.com
-*.gymsharkauckland.com
 *.gymsharkaustralia-au.com
 *.gymsharkaustraliastores.com
 *.gymsharkaustria.at
@@ -5142,12 +5076,9 @@
 *.gymsharkosterreichshop.com
 *.gymsharkosterreichshops.com
 *.gymsharkoutletsuomi.com
-*.gymsharkoutletwebsite.com
 *.gymsharkperu.com
 *.gymsharkpt.com
-*.gymsharksbudapest.com
 *.gymsharkshoposterreich.com
-*.gymsharkshopwien.com
 *.gymsharksingaporeshop.com
 *.gymsharkslovenijaeu.com
 *.gymsharkslovensko.sk
@@ -5160,8 +5091,6 @@
 *.gymsharkstoreindia.com
 *.gymsharkstorenyc.com
 *.gymsharksuomi-fi.com
-*.gymsharksuomifi.com
-*.gymsharksuomishop.com
 *.gymsharkukoutlet.com
 *.gymsharkwien.com
 *.gymsharkwinkel.com
@@ -5284,7 +5213,6 @@
 *.happyalo-deutschland.de
 *.happychildmarket.com
 *.happydeal24.de
-*.happyish.top
 *.happyshopmall.com
 *.happytotsshop.com
 *.harborbag-select.com
@@ -5302,7 +5230,6 @@
 *.harting-versand.de
 *.hartmann-reifen.shop
 *.harwez.net
-*.hasanutar.com
 *.haschmidt.com
 *.hasegawamodel.com
 *.haskoni.de
@@ -5319,14 +5246,12 @@
 *.haus-delrio.com
 *.haus-der-bos.com
 *.haus-media.de
-*.haus-spiel.shop
 *.haus-stmartin.de
 *.hauser-personal.de
 *.hausexpressholz.de
 *.hausgeek.com
 *.haushalt-de.com
 *.haushalt-hase.de
-*.haushalt-holtkemper.com
 *.haushalt-jansen.net
 *.haushalt-land.com
 *.haushalt-store.com
@@ -5380,7 +5305,6 @@
 *.healthskiing.com
 *.healthyfuture-online.com
 *.healthyonsale.com
-*.heatersairpurifiers.com
 *.heatingdevicesshop.com
 *.heatingonsale.com
 *.heatingtool.com
@@ -5462,7 +5386,6 @@
 *.helmetsmet.com
 *.helmprada.com
 *.help-medicines.com
-*.helpalot.de
 *.helpsandalen.com
 *.helpthebees.net
 *.helveticore.capital
@@ -5477,7 +5400,6 @@
 *.henleysstorehouse.com
 *.hennig-reifen.com
 *.henning-autoreifen.com
-*.henrienergie.com
 *.henryo.de
 *.henrystyle.de
 *.hensel-mode.com
@@ -5511,7 +5433,6 @@
 *.heybuye.com
 *.heydude.shoes
 *.heydude-schuhe.de
-*.heydude-spain.com
 *.heydudeschuhe.at
 *.heydudeschuhe.com
 *.heydudeschuhedamen.de
@@ -5554,7 +5475,6 @@
 *.hinesuns.shop
 *.hinrichs-reifenhandel.com
 *.hinrichs-reifenversand.shop
-*.hinterman.de
 *.hipcraftsupply.com
 *.hiring-assist-logistic.com
 *.cent.hirship.com
@@ -5584,7 +5504,6 @@
 *.hobbiessoccer.com
 *.hobbiessurfing.com
 *.hobbieswater.com
-*.hobby-modellbau.com
 *.hobby-outdoors.com
 *.hobbycosplay.com
 *.hobbycutlery.com
@@ -5626,7 +5545,6 @@
 *.holz-heizpellets.com
 *.holz-hof.com
 *.holz-lagerversand.de
-*.holz-sales.com
 *.holz-stere.com
 *.holz-waldes-holz.com
 *.holzafen.com
@@ -5692,14 +5610,12 @@
 *.homeoffice--jobs.de
 *.homeoffice-365.com
 *.homeofficekarriere.de
-*.homepetd.com
 *.homepillswebstore.com
 *.homeprotool.com
 *.homerootsoutlet.com
 *.homerugsale.com
 *.homes-page.com
 *.homes-space.com
-*.homesdecorsale.com
 *.homesurya.com
 *.homesweethome.de
 *.hometoolhub.com
@@ -5752,7 +5668,6 @@
 *.hot-shopping.com
 *.hotcamera.shop
 *.hotchillies.shop
-*.hotcollectiblegoods.com
 *.hotechnetzteil.de
 *.hotelaustralien.de
 *.hotelinphuket.net
@@ -5837,7 +5752,6 @@
 *.hudyrc.com
 *.huesslers.de
 *.hugenberg-gartencenter.com
-*.hugfirst.com
 *.hughfurniture.xyz
 *.hugoboss-turkey.com
 *.hugobossnz.com
@@ -5970,7 +5884,6 @@
 *.impkeys.com
 *.improfithub.com
 *.impruneta.de
-*.impulsa.shop
 *.imrato.com
 *.imtunk.shop
 *.imzauberstuebchen.de
@@ -5998,7 +5911,6 @@
 *.infotripvnw.com
 *.ingayoga.de
 *.ingbert-unruh.de
-*.ingersoll1892.com
 *.ingramfineart.com
 *.ingri-kredit.com
 *.injectec.net
@@ -13022,7 +12934,6 @@
 *.tuxedoredefined.com
 *.tuxieon.com
 *.tv-gesundheit.at
-*.tvidler.com
 *.tvlowboards.de
 *.twidlachannel.com
 *.twidlamodern.com
@@ -14090,6 +14001,7 @@
 *.wrlovesk.life
 *.wt-schwentinental.de
 *.wt-versand.de
+*.wuebbe-office.de
 *.wulf-reifen.com
 *.wunderbarmeldung.com
 *.wunderlich-autoreifen.com
