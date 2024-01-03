@@ -5,7 +5,6 @@ https://abpvn.com/android/abpvn.txt
 https://adblock.ee/list.php
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 https://azorult-tracker.net/api/list/domain?format=plain
-https://cert-agid.gov.it/download/log4shell-iocs-raw-domain.txt
 https://dl.red.flag.domains/red.flag.domains.txt
 https://easylist-downloads.adblockplus.org/advblock.txt
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
@@ -39,7 +38,6 @@ https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-anno
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-malware.txt
 https://hole.cert.pl/domains/domains_hosts.txt
-https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 https://hosts.tweedge.net/malicious.txt
 https://iosprivacy.com/ivoid/raw/iVOID.hosts
