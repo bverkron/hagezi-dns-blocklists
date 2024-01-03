@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1704236100 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1704321780 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 02 Jan 2024 22:55 UTC
-; Version: 2024.0102.2255.35
+; Last modified: 03 Jan 2024 22:43 UTC
+; Version: 2024.0103.2243.48
 ; Syntax: RPZ
-; Number of entries: 2958
+; Number of entries: 2954
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -510,8 +510,6 @@ dyn-o-saur.com CNAME .
 *.dyn-o-saur.com CNAME .
 dynalias.com CNAME .
 *.dynalias.com CNAME .
-dynamai.com CNAME .
-*.dynamai.com CNAME .
 dynamic-m.com CNAME .
 *.dynamic-m.com CNAME .
 dyndns.com CNAME .
@@ -2666,8 +2664,6 @@ cloudns.pro CNAME .
 *.cloudns.pro CNAME .
 dyndns.pro CNAME .
 *.dyndns.pro CNAME .
-hmao.pro CNAME .
-*.hmao.pro CNAME .
 netcabo.pt CNAME .
 *.netcabo.pt CNAME .
 x443.pw CNAME .
