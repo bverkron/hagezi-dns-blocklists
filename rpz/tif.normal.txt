@@ -7670,8 +7670,6 @@ tintin.coffee CNAME .
 *.000nethost.com CNAME .
 000space.com CNAME .
 *.000space.com CNAME .
-000webhost.com CNAME .
-*.000webhost.com CNAME .
 000webhostapp.com CNAME .
 *.000webhostapp.com CNAME .
 0123-luke-tatsuki.com CNAME .

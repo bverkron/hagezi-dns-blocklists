@@ -198,8 +198,6 @@ vmlx98.codes CNAME .
 *.000nethost.com CNAME .
 000space.com CNAME .
 *.000space.com CNAME .
-000webhost.com CNAME .
-*.000webhost.com CNAME .
 000webhostapp.com CNAME .
 *.000webhostapp.com CNAME .
 1717.1000uc.com CNAME .

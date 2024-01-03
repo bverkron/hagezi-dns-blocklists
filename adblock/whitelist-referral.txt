@@ -363,3 +363,4 @@
 @@||redirect.appmetrica.yandex.*^
 @@||click.zoom.us^
 @@||t.lever-analytics.com^
+@@||tr.rdrtr.com^

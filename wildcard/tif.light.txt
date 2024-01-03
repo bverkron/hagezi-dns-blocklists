@@ -11,7 +11,6 @@
 *.000.pe
 *.000nethost.com
 *.000space.com
-*.000webhost.com
 *.000webhostapp.com
 *.0j.wf
 *.0pe.kr

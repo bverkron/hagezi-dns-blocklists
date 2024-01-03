@@ -12,7 +12,6 @@
 *.0008d6ba2e.com
 *.000nethost.com
 *.000space.com
-*.000webhost.com
 *.000webhost.info
 *.000webhostapp.com
 *.001union.com

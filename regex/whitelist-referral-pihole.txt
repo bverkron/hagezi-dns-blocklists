@@ -346,6 +346,7 @@
 (\.|^)track.*\.webgains\.team$
 (\.|^)trk\.ecomm\.lenovo\.com$
 (\.|^)trk\.specialized\.com$
+(\.|^)tr\.rdrtr\.com$
 (\.|^)t\.sidekickopen.*\.com$
 (\.|^)ue\.flipboard\.com$
 (\.|^)ulink\.adjust\..*$

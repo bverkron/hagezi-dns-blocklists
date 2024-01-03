@@ -11,7 +11,6 @@
 address=/000.pe/#
 address=/000nethost.com/#
 address=/000space.com/#
-address=/000webhost.com/#
 address=/000webhostapp.com/#
 address=/pepelu-staging.01staging.site/#
 address=/0j.wf/#

@@ -12,7 +12,6 @@ address=/000.pe/#
 address=/0008d6ba2e.com/#
 address=/000nethost.com/#
 address=/000space.com/#
-address=/000webhost.com/#
 address=/000webhost.info/#
 address=/000webhostapp.com/#
 address=/001union.com/#
