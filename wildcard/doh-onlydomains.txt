@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 02 Jan 2024 22:53 UTC
-# Version: 2024.0102.2253.07
+# Last modified: 04 Jan 2024 22:32 UTC
+# Version: 2024.0104.2232.24
 # Syntax: Domains (without subdomains)
-# Number of entries: 833
+# Number of entries: 827
 #
 ns.00dani.me
 cdn.0ms.dev
@@ -249,7 +249,6 @@ coe01.dnscry.pt
 cvt01.dnscry.pt
 dfw01.dnscry.pt
 dtw01.dnscry.pt
-dub01.dnscry.pt
 dus01.dnscry.pt
 fra01.dnscry.pt
 geg01.dnscry.pt
@@ -331,10 +330,8 @@ aattwwss.duckdns.org
 home27.duckdns.org
 jurre-home.duckdns.org
 krtekvpn.duckdns.org
-osefcorp.duckdns.org
 punono.duckdns.org
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 dukun.de
 dns.dyn1.de
 ueni.dyndns.org
@@ -474,7 +471,6 @@ dns.jstockley.com
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
 dns.kamilszczepanski.com
-adguard.kantinyoyok.xyz
 dns.karl.one
 dns.kawa.tf
 dns.kernel-error.de
@@ -773,7 +769,6 @@ sg.teradns.org
 tx.teradns.org
 uk.teradns.org
 dns.tesem.dog
-cloud.tezoi.com
 dns.theres.one
 dns.therifleman.name
 doh.tiar.app
@@ -806,7 +801,6 @@ dns.uplenk.com
 adfree.usableprivacy.net
 use-application-dns.net
 tor.vasi.li
-securedns.vendorvista.xyz
 dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.vishalk.com
