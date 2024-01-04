@@ -6963,7 +6963,6 @@
 *.metric.asia.apple.com
 *.books-analytics-events.apple.com
 *.camfx-analytics-events.apple.com
-*.grs.dbankcloud.eu.apple.com
 *.iad.apple.com
 *.iadcontent.apple.com
 *.iadsdk.apple.com
@@ -16602,7 +16601,6 @@
 *.infos.anz.com.au
 *.apis.com.br
 *.securemetrics.apple.com.cn
-*.securemvt.apple.com.cn
 *.applepc.com.my
 *.analytics.apps.com.tr
 *.arethegrav.com.ua

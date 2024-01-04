@@ -18841,7 +18841,6 @@
 ||metric.asia.apple.com^
 ||books-analytics-events.apple.com^
 ||camfx-analytics-events.apple.com^
-||grs.dbankcloud.eu.apple.com^
 ||iad.apple.com^
 ||iadcontent.apple.com^
 ||iadsdk.apple.com^
@@ -18849,7 +18848,6 @@
 ||metrics.apple.com^
 ||notes-analytics-events.apple.com^
 ||phonesubmissions.apple.com^
-||qwapi.apple.com^
 ||securemetrics.apple.com^
 ||securemvt.apple.com^
 ||stocks-analytics-events.apple.com^
@@ -42911,7 +42909,6 @@
 ||txt.appcity.com.au^
 ||www.appdriver.com.cn^
 ||securemetrics.apple.com.cn^
-||securemvt.apple.com.cn^
 ||appledentalnepal.com.np^
 ||applepc.com.my^
 ||recruit.go.apprenticeshipcommunity.com.au^

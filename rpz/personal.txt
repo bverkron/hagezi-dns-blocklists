@@ -2952,8 +2952,6 @@ analytics.com.cn CNAME .
 *.analytics.com.cn CNAME .
 securemetrics.apple.com.cn CNAME .
 *.securemetrics.apple.com.cn CNAME .
-securemvt.apple.com.cn CNAME .
-*.securemvt.apple.com.cn CNAME .
 adproxy.autohome.com.cn CNAME .
 *.adproxy.autohome.com.cn CNAME .
 al.autohome.com.cn CNAME .
@@ -11416,8 +11414,6 @@ books-analytics-events.apple.com CNAME .
 *.books-analytics-events.apple.com CNAME .
 camfx-analytics-events.apple.com CNAME .
 *.camfx-analytics-events.apple.com CNAME .
-grs.dbankcloud.eu.apple.com CNAME .
-*.grs.dbankcloud.eu.apple.com CNAME .
 iad.apple.com CNAME .
 *.iad.apple.com CNAME .
 iadcontent.apple.com CNAME .
