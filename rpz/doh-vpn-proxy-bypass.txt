@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1704321540 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1704407400 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 03 Jan 2024 22:39 UTC
-; Version: 2024.0103.2239.58
+; Last modified: 04 Jan 2024 22:30 UTC
+; Version: 2024.0104.2230.00
 ; Syntax: RPZ
-; Number of entries: 5302
+; Number of entries: 5282
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -2005,8 +2005,6 @@ tcpvpn.com CNAME .
 *.tcpvpn.com CNAME .
 tenta.com CNAME .
 *.tenta.com CNAME .
-cloud.tezoi.com CNAME .
-*.cloud.tezoi.com CNAME .
 thankvpn.com CNAME .
 *.thankvpn.com CNAME .
 the-cloak.com CNAME .
@@ -3049,8 +3047,6 @@ onconnect.info CNAME .
 *.onconnect.info CNAME .
 adguard.onlyfriends.info CNAME .
 *.adguard.onlyfriends.info CNAME .
-onweb.info CNAME .
-*.onweb.info CNAME .
 papervpn.info CNAME .
 *.papervpn.info CNAME .
 pinweb.info CNAME .
@@ -3449,8 +3445,6 @@ dns.indust.me CNAME .
 *.dns.indust.me CNAME .
 iportal.me CNAME .
 *.iportal.me CNAME .
-letshide.me CNAME .
-*.letshide.me CNAME .
 ltlxvxjjmvhn.me CNAME .
 *.ltlxvxjjmvhn.me CNAME .
 dgca.myds.me CNAME .
@@ -4395,14 +4389,10 @@ jurre-home.duckdns.org CNAME .
 *.jurre-home.duckdns.org CNAME .
 krtekvpn.duckdns.org CNAME .
 *.krtekvpn.duckdns.org CNAME .
-osefcorp.duckdns.org CNAME .
-*.osefcorp.duckdns.org CNAME .
 punono.duckdns.org CNAME .
 *.punono.duckdns.org CNAME .
 tuandns.duckdns.org CNAME .
 *.tuandns.duckdns.org CNAME .
-tungdnsne.duckdns.org CNAME .
-*.tungdnsne.duckdns.org CNAME .
 vpschito.duckdns.org CNAME .
 *.vpschito.duckdns.org CNAME .
 ueni.dyndns.org CNAME .
@@ -4689,8 +4679,6 @@ dfw01.dnscry.pt CNAME .
 *.dfw01.dnscry.pt CNAME .
 dtw01.dnscry.pt CNAME .
 *.dtw01.dnscry.pt CNAME .
-dub01.dnscry.pt CNAME .
-*.dub01.dnscry.pt CNAME .
 dus01.dnscry.pt CNAME .
 *.dus01.dnscry.pt CNAME .
 fra01.dnscry.pt CNAME .
@@ -4907,8 +4895,6 @@ privacydns.go6lab.si CNAME .
 *.privacydns.go6lab.si CNAME .
 hiddendragon.site CNAME .
 *.hiddendragon.site CNAME .
-lookingglass.site CNAME .
-*.lookingglass.site CNAME .
 mycelium.site CNAME .
 *.mycelium.site CNAME .
 proxysite.site CNAME .
@@ -4977,8 +4963,6 @@ dns.chromeina.top CNAME .
 *.dns.chromeina.top CNAME .
 blog.kimiblock.top CNAME .
 *.blog.kimiblock.top CNAME .
-litevpn.top CNAME .
-*.litevpn.top CNAME .
 dot.occ.top CNAME .
 *.dot.occ.top CNAME .
 proxypremium.top CNAME .
@@ -5253,8 +5237,6 @@ tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
 judua3rtinpst0s.xyz CNAME .
 *.judua3rtinpst0s.xyz CNAME .
-adguard.kantinyoyok.xyz CNAME .
-*.adguard.kantinyoyok.xyz CNAME .
 mobrain.xyz CNAME .
 *.mobrain.xyz CNAME .
 ninjaweb.xyz CNAME .
@@ -5295,8 +5277,6 @@ ag.ssrahul96.xyz CNAME .
 *.ag.ssrahul96.xyz CNAME .
 stackfront.xyz CNAME .
 *.stackfront.xyz CNAME .
-securedns.vendorvista.xyz CNAME .
-*.securedns.vendorvista.xyz CNAME .
 dns.vinnyp.xyz CNAME .
 *.dns.vinnyp.xyz CNAME .
 webpro.xyz CNAME .
