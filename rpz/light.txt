@@ -9492,8 +9492,6 @@ aamsitecertifier.com CNAME .
 *.aamsitecertifier.com CNAME .
 aanqylta.com CNAME .
 *.aanqylta.com CNAME .
-metric.g.aaplimg.com CNAME .
-*.metric.g.aaplimg.com CNAME .
 aarki.com CNAME .
 *.aarki.com CNAME .
 aarswtcnoz.com CNAME .

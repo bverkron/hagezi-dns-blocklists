@@ -6640,8 +6640,6 @@ aaf26c0e6a.com CNAME .
 *.aaf26c0e6a.com CNAME .
 aamsitecertifier.com CNAME .
 *.aamsitecertifier.com CNAME .
-metric.g.aaplimg.com CNAME .
-*.metric.g.aaplimg.com CNAME .
 aarki.com CNAME .
 *.aarki.com CNAME .
 analytics-2.aasaam.com CNAME .

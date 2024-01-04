@@ -5058,8 +5058,6 @@
 *.images.assets.aapa.org
 *.tracking.aapa.org
 *.aapeople.cn
-*.metric.g.aaplimg.com
-*.securemetrics-z.v.aaplimg.com
 *.aapubcti.xyz
 *.aapwdqx.in
 *.aaradhyamedspa.com
@@ -64863,7 +64861,6 @@
 *.za-go.experian.com
 *.experianmarketingservices.digital
 *.experianmatch.info
-*.securemetrics.experience.apple
 *.url9609.account.experience-muse.com
 *.experiencebethel.com
 *.marketing.experiencecolumbus.com

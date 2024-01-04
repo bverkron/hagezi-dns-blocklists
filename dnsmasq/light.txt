@@ -2025,7 +2025,6 @@ address=/aanqylta.com/#
 address=/images.assets.aapa.org/#
 address=/tracking.aapa.org/#
 address=/aapeople.cn/#
-address=/metric.g.aaplimg.com/#
 address=/aapubcti.xyz/#
 address=/aapwdqx.in/#
 address=/aarghwoning.digital/#

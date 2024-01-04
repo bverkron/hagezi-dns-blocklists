@@ -1384,7 +1384,6 @@ address=/aanetwork.vn/#
 address=/images.assets.aapa.org/#
 address=/tracking.aapa.org/#
 address=/aapeople.cn/#
-address=/metric.g.aaplimg.com/#
 address=/aapubcti.xyz/#
 address=/aarki.com/#
 address=/aarki.net/#

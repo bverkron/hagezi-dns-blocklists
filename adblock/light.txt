@@ -2025,7 +2025,6 @@
 ||images.assets.aapa.org^
 ||tracking.aapa.org^
 ||aapeople.cn^
-||metric.g.aaplimg.com^
 ||aapubcti.xyz^
 ||aapwdqx.in^
 ||aarghwoning.digital^
