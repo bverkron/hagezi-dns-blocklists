@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 02 Jan 2024 23:35 UTC
-! Version: 2024.0102.2335.32
+! Last modified: 03 Jan 2024 23:20 UTC
+! Version: 2024.0103.2320.11
 ! Syntax: AdBlock
-! Number of entries: 951
+! Number of entries: 964
 !
 ||000.pe^
 ||000nethost.com^
@@ -20,7 +20,6 @@
 ||17110.com^
 ||dl.198424.com^
 ||1ecosolution.it^
-||1qwqewrewqweqwrqe.sbs^
 ||2019mfa.com^
 ||2waky.com^
 ||3-a.net^
@@ -53,11 +52,13 @@
 ||abissnet.net^
 ||library.arihantmbainstitute.ac.in^
 ||iccscem.ac.in^
+||imit.ac.in^
 ||acc-disbsupportcenter.info^
 ||ackng.com^
 ||addressrevise.com^
 ||addtactical.com^
 ||adrorobert.pl^
+||www.geovanisantos.adv.br^
 ||adyboh.com^
 ||aepcide.com^
 ||agies.org^
@@ -82,16 +83,17 @@
 ||amazonmma.com^
 ||ambernook.uk^
 ||amotel.xyz^
-||anapa-zarya.ru^
 ||andalog.de^
 ||androidadbserver.com^
 ||angoraveteriner.com^
+||annihilate.ac^
 ||anobaka.info^
 ||anybodyopenfind.com^
 ||apkloli.com^
 ||aq2e.com^
 ||aqamerexfrugte.cf^
 ||arabi-onlinee.com^
+||aristonbentre.com^
 ||arogyapatholab.in^
 ||artemis.community^
 ||artmediastudio.ro^
@@ -106,6 +108,7 @@
 ||azmeasurement.com^
 ||azurehosting.co^
 ||b0tnet.com^
+||baatarvantrans.mn^
 ||babytoy-online.com^
 ||api.baimless.com^
 ||balancedia.com^
@@ -143,6 +146,7 @@
 ||brknarikan.com^
 ||bruiserbodies.com^
 ||brujosdelamor2019.com^
+||brusuax.com^
 ||apz.bsaldo.com^
 ||btvapp.net^
 ||bvbypswhds.com^
@@ -159,7 +163,6 @@
 ||careprofit.xyz^
 ||cargoconnect.online^
 ||carnegieinsider.com^
-||carthagefire.net^
 ||casamuseoayerbe.co^
 ||cbphe.com^
 ||cbpheback.com^
@@ -172,10 +175,12 @@
 ||che-web.eu^
 ||checkba.top^
 ||chemsky.tn^
+||chingman.net^
+||chiptune.com^
 ||downloadplus.chromiums.org^
-||chuckozeas.com^
 ||cilrix-corp.pro^
 ||cimaclub.live^
+||cipro.mx^
 ||clexowinsurance.com^
 ||clicketcloud.com^
 ||clockgen64.com^
@@ -190,6 +195,7 @@
 ||councilrespect.co.in^
 ||destinymc.co.za^
 ||drhanneserasmus.co.za^
+||emaids.co.za^
 ||fetchdesignprint.co.za^
 ||growrock.co.za^
 ||hopvibestravel.co.za^
@@ -199,10 +205,13 @@
 ||laforma.co.za^
 ||madicon.co.za^
 ||mumgee.co.za^
-||patisserie.co.ke^
+||olivehr.co.za^
+||olugun.co.za^
 ||qcollect.co.za^
+||sainzim.co.za^
 ||spaceframe.mobi.space-frame.co.za^
 ||spacetrack.co.tz^
+||superstar.tibolts.co.uk^
 ||travelwithmanta.co.za^
 ||my-sbox.trns.co.za^
 ||wmctc.co.uk^
@@ -212,14 +221,14 @@
 ||codeanyapp.com^
 ||cloudid.coffeeonboard.com^
 ||coinskenswallet.com^
+||colegiojuanbernardone.com^
 ||mail.alphaassessoriato.com.br^
 ||ameliagosia.com.pl^
 ||asiflyerbio.com.cn^
-||asu.com.vn^
-||atomm.com.br^
 ||bearcatpumps.com.cn^
 ||budimal.com.pl^
 ||cdaonline.com.ar^
+||dhnconstrucciones.com.ar^
 ||erkaradyator.com.tr^
 ||famesa.com.ar^
 ||graficaaoquadrado.com.br^
@@ -228,7 +237,6 @@
 ||herchinfitout.com.sg^
 ||www.hey-randomgirl.com.br^
 ||jolantabartnik.com.pl^
-||josymixmyhome.com.br^
 ||kest.com.pe^
 ||proativa.konkisti.com.br^
 ||krzysztofsikora.com.pl^
@@ -236,11 +244,13 @@
 ||live.com.gt^
 ||lostheaven.com.cn^
 ||medcar.com.tn^
-||microtrimsltd.com.bd^
+||oazahotel.com.mk^
+||palharesinformatica.com.br^
+||qaafdesign.com.sa^
 ||e-commerce.saleensuporte.com.br^
+||spices.com.sg^
 ||tataras.com.pl^
 ||visiontotal.com.co^
-||vkengcivil.com.br^
 ||vollfisioterapia.com.br^
 ||com-ho.me^
 ||comediantes.org^
@@ -255,6 +265,8 @@
 ||coopsantodomingo.com^
 ||corporation-pl.com^
 ||jsrb.scheme.corycabana.net^
+||nkfxt.scheme.corycabana.net^
+||wvmnz.scheme.corycabana.net^
 ||counter-strike2-de.com^
 ||crackload.net^
 ||cracksarena.com^
@@ -262,13 +274,13 @@
 ||crapses.pl^
 ||crz.de^
 ||csgoxdomain.us^
+||balkarsoftware.cubistech.com^
 ||cursodeparapsicologia.org^
 ||cynorix.com^
 ||static.cz01.cn^
 ||dacsandongthapmuoi.vn^
 ||darekfurtak.pl^
 ||dbmobile-phototan.de^
-||dcfsdfds2fdhfgj.sbs^
 ||dcylog.com^
 ||ddns.ms^
 ||ddns.us^
@@ -279,10 +291,12 @@
 ||declutter.top^
 ||deine-bewerbung.com^
 ||records.dennisign.se^
+||derekludlow.com^
 ||devises-dz.com^
 ||demo.devswire.com^
 ||dhi-mox-ei.top^
 ||diacolnocalyvi.tk^
+||diclegrup.org^
 ||didns.ru^
 ||diecialanowert.cf^
 ||digitalvehicleinspection.com^
@@ -295,11 +309,11 @@
 ||dleggere.com^
 ||dlevo.com^
 ||dnsnb8.net^
-||dokumentasoluciones.com^
 ||domallpl.pl^
 ||donkeytourscroatia.com^
 ||doorcat.quest^
 ||dostawa-id.live^
+||download.doumaibiji.cn^
 ||downloayxkemam.sbs^
 ||driverclub.co^
 ||droomsoft.com^
@@ -313,6 +327,7 @@
 ||dysnix.org^
 ||e-mobiletech.com^
 ||test.earborist.com^
+||eastconsults.com^
 ||ingress-daribow.easywp.com^
 ||2023.ebeenj.com^
 ||ecox.pt^
@@ -321,7 +336,6 @@
 ||eiyfmrn.com^
 ||et3.ektpnc.com^
 ||elvalledetarrazu.com^
-||emgvod.com^
 ||emplojo.com^
 ||emsapps.net^
 ||pake.endofinternet.org^
@@ -352,12 +366,14 @@
 ||fastactionmedicalbilling.com^
 ||fdmpkg.org^
 ||feedbacksea.com^
+||fastdnkaaa.ffox.site^
 ||financetoro.com^
 ||financier.com^
 ||flauntstaluhet.website^
 ||fleek.one^
 ||flyermobi.com^
 ||fnx.wf^
+||foodremit.com^
 ||fr.gd^
 ||freay.tech^
 ||freconmieetfinances.com^
@@ -383,6 +399,7 @@
 ||glthub.org^
 ||glycpolsbeel.cf^
 ||pn-raha.go.id^
+||gobesitysurgery.com^
 ||golancat.com^
 ||gomlgaming.dev^
 ||goodpltrmm.click^
@@ -415,7 +432,6 @@
 ||houssagynecologue.com^
 ||hseda.com^
 ||hugeversapi.com^
-||hunggiang.vn^
 ||hwthurmann.de^
 ||hyattartstudio.com^
 ||hynige.cf^
@@ -440,7 +456,6 @@
 ||inaver.org^
 ||inbeauthajaffdimp.cf^
 ||increaseworker.link^
-||indonesias.me^
 ||jatra-app.infinityfreeapp.com^
 ||krzysio.info.pl^
 ||scorpionelk.info.pl^
@@ -450,6 +465,7 @@
 ||information3413.cloud^
 ||ingonherbal.com^
 ||insp1re.online^
+||institut-corps-a-ligne.fr^
 ||intellectproactive.com^
 ||inwestcom.pl^
 ||ircftp.net^
@@ -472,6 +488,7 @@
 ||jzm.pw^
 ||kalp-s.com^
 ||kamura.pl^
+||karer.by^
 ||kevinley.com^
 ||kimyen.net^
 ||kingakinga1.pl^
@@ -539,13 +556,13 @@
 ||manlish.net^
 ||marcukesh.top^
 ||marekgw.pl^
+||marksidfgs.ug^
 ||marquesvogt.com^
 ||masterch.top^
 ||maticsurefmo.cf^
-||dienmay01.maudemo.com^
 ||maxiimus.top^
+||maxmoney.com^
 ||maxuikl.top^
-||maxximbrasil.com^
 ||mbgrm.com^
 ||mbmistaz.com^
 ||meeweb.com^
@@ -568,6 +585,7 @@
 ||mixer-novostei.ru^
 ||mkrissd.pl^
 ||mls-test.ch^
+||mnoger.cf^
 ||monikajoanna.pl^
 ||more-power-tool.com^
 ||mosthiborafgafu.tk^
@@ -637,7 +655,6 @@
 ||onlinepaysafeollx.shop^
 ||oo000oo.club^
 ||oops.best^
-||opesjk.ug^
 ||orderedami.com^
 ||orders94851.info^
 ||krakowiak.org.pl^
@@ -664,6 +681,7 @@
 ||paste-bin.xyz^
 ||pawlukojc.pl^
 ||down.pcclear.com^
+||download.pdf00.cn^
 ||pdns.cz^
 ||perniktermo.com^
 ||perroandante.cl^
@@ -684,7 +702,6 @@
 ||fadfatest.pneydn.com^
 ||po9h4c.com^
 ||pobetransh.com^
-||ponizinny.nl^
 ||portmap.host^
 ||posmicrosystems.com^
 ||ws3.pph-server.de^
@@ -720,7 +737,6 @@
 ||realtimenews.tk^
 ||realvnc.pro^
 ||reifenquick.de^
-||reiwo-service.de^
 ||7fec6270ed.repl.co^
 ||reservation80712.cloud^
 ||resmi-id.art^
@@ -732,6 +748,7 @@
 ||parallel.rockvideos.at^
 ||rodhigital.com^
 ||rollsbeer.com^
+||romvalstudios.com^
 ||rowingmachine.sydney^
 ||rozwojai.com^
 ||rp-online-dating.de^
@@ -757,6 +774,7 @@
 ||security-online.info^
 ||serveuser.com^
 ||servicepostbelgium.com^
+||servisaludocupacional.pe^
 ||sevensmbk.is^
 ||sga.bet^
 ||shahu66.com^
@@ -790,7 +808,6 @@
 ||ssmailer.com^
 ||starcountry.net^
 ||starnetx.live^
-||stayinoceancitymd.com^
 ||steamauthenticator.net^
 ||steamdesktopauthenticator.net^
 ||steamdesktopauthenticator.org^
@@ -799,7 +816,6 @@
 ||stojanu.pl^
 ||suakhoaketsattphcm.com^
 ||succyarthyry.com^
-||sunglassesninja.com^
 ||sunnysee.cc^
 ||mongo87a.sweet-water.org^
 ||temp.swtest.ru^
@@ -813,7 +829,6 @@
 ||techpowerup-gpu-z.com^
 ||techsso.com^
 ||tecni-soft.com^
-||telagrmac.com^
 ||tele-latino.com^
 ||telelatino.app^
 ||temptmag.com^
@@ -834,6 +849,7 @@
 ||tissueyard.org^
 ||tlsallpl.pl^
 ||tmalltbw.com^
+||tmglawpalawan.com^
 ||tomming.us^
 ||lang.topteamlife.com^
 ||loop.topteamlife.com^
@@ -855,7 +871,6 @@
 ||tuquy.com^
 ||tuuups.pl^
 ||twizt.net^
-||test.typoten.com^
 ||uclck.ru^
 ||d1.udashi.com^
 ||down.udashi.com^
@@ -866,7 +881,6 @@
 ||unapromo.com^
 ||unhamj.com^
 ||unicorpbrunei.com^
-||unioneterna.com^
 ||unispace.io^
 ||unkinerecle.com^
 ||unkorakite.cf^
@@ -890,6 +904,7 @@
 ||vmlx98.codes^
 ||vnmod.net^
 ||vptriathlon.com^
+||hr2019.vrcom7.com^
 ||vs.gy^
 ||w0.pm^
 ||walkindrivetoday.com^
@@ -921,7 +936,6 @@
 ||convercatioon.workers.dev^
 ||wsipv6.com^
 ||wwwplkt.pl^
-||wynecare.com^
 ||xemvtv.net^
 ||xiangshunjy.com^
 ||xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai^
