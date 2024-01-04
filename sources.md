@@ -38,6 +38,7 @@ https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-anno
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-malware.txt
 https://hole.cert.pl/domains/domains_hosts.txt
+https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 https://hosts.tweedge.net/malicious.txt
 https://iosprivacy.com/ivoid/raw/iVOID.hosts
