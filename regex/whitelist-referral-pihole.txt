@@ -2,6 +2,7 @@
 # Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
 # Installation: Mark all RegEx rules and copy them to Domains > tab "RegEx filter" > field "Regular Expression:". Enter "Referral" in the "Comment:" field. Click on "Add to Whitelist". 
 
+(\.|^)3cinteractive\.com$
 (\.|^)7eer\.net$
 (\.|^)a1\.adform\.net$
 (\.|^)a1\.adformnet\.akadns\.net$
@@ -11,6 +12,7 @@
 (\.|^)ablink\.email\.etsy\.com$
 (\.|^)ablink\.mail\.parkmobile\.io$
 (\.|^)accesslinkk\.com$
+(\.|^)accesstrade\.net$
 (\.|^)acemlnb\.com$
 (\.|^)action\.metaffiliation\.com$
 (\.|^)ad11\.adfarm1\.adition\.com$
@@ -34,8 +36,13 @@
 (\.|^)adj\.st$
 (\.|^)adorama\.rfvk\.net$
 (\.|^)adservice\.google\..*$
+(\.|^)adzerk\.com$
+(\.|^)adzerk\.net$
 (\.|^)affiliatefuture\.com$
+(\.|^)af\.mopo\.jp$
 (\.|^)alb\.reddit\.com$
+(\.|^)alitems\.co$
+(\.|^)alitems\.site$
 (\.|^)analytics\.barnebys\.sh$
 (\.|^)analytics\.twitter\.com$
 (\.|^)anrdoezrs\.net$
@@ -44,8 +51,11 @@
 (\.|^)api.*\.hubapi\.com$
 (\.|^)api\.narrativ\.com$
 (\.|^)apiservices\.krxd\.net$
+(\.|^)api\.traq\.li$
 (\.|^)apmebf\.com$
-(\.|^)app\.adjust\..*$
+(\.|^)apms5\.com$
+(\.|^)aporasal\.net$
+(\.|^)app.*\.adjust\..*$
 (\.|^)app\.appsflyer\.com$
 (\.|^)app\.e\.sigsauer\.com$
 (\.|^)app\.getresponse\.com$
@@ -56,6 +66,8 @@
 (\.|^)a\.slashdotmedia\.com$
 (\.|^)assets\.ikhnaie\.link$
 (\.|^)assoc\-redirect\.amazon\..*$
+(\.|^)atimaze\.com$
+(\.|^)atlassbx\.com$
 (\.|^)auto\-swiat\.pl$
 (\.|^)avantlink\.com$
 (\.|^)awstrack\.me$
@@ -105,6 +117,7 @@
 (\.|^)click\.holidayinnclubemail\.com$
 (\.|^)click\.icptrack\.com$
 (\.|^)click\.instantink\.hpsmart\.com$
+(\.|^)clickiocdn\.com$
 (\.|^)click\.justwatch\.com$
 (\.|^)click\.landsend\.com$
 (\.|^)click\.linksynergy\.com$
@@ -124,9 +137,12 @@
 (\.|^)click\.s\.kohls\.com$
 (\.|^)click\.snapshat\.com$
 (\.|^)clicks\.trx\-hub\.com$
+(\.|^)clicktale\.net$
 (\.|^)click\.zoom\.us$
 (\.|^)clk\.boulanger\.com$
+(\.|^)clk\.omgt3\.com$
 (\.|^)clk.*\.tradedoubler\.com$
+(\.|^)cloudmail.*\.netcore\.co\.in$
 (\.|^)cm\.naukri\.com$
 (\.|^)c\.msn\.com$
 (\.|^)c\.office\.com$
@@ -153,6 +169,7 @@
 (\.|^)disneyplus\.bn5x\.net$
 (\.|^)dominos\.sng\.link$
 (\.|^)dpbolvw\.net$
+(\.|^)dt51\.net$
 (\.|^)ea\.galerieslafayette\.com$
 (\.|^)ek.*\.voyage\-prive\.com$
 (\.|^)email\-.*\.adguard\.com$
@@ -170,15 +187,18 @@
 (\.|^)engage\.xbox\.com$
 (\.|^)eulerian\.brandalley\.fr$
 (\.|^)eultech\.fnac\.com$
+(\.|^)eu.*\.thunderhead\.com$
 (\.|^)events\.release\.narrativ\.com$
 (\.|^)evyy\.net$
 (\.|^)exacttarget\.com\.edgekey\.net$
+(\.|^)fr135\.net$
 (\.|^)geo.*\.presslabs\.net$
 (\.|^)ggopjn\.com$
 (\.|^)glnk\.io$
 (\.|^)go2jump\.org$
 (\.|^)go\.blokada\.org$
 (\.|^)go\.e2language\.com$
+(\.|^)go.*\.flx1\.com$
 (\.|^).*\-go\.kelkoogroup\.net$
 (\.|^)go\.microsoft\.com$
 (\.|^)go\.nextiva\.com$
@@ -202,8 +222,10 @@
 (\.|^)klclick.*\.com$
 (\.|^)kqzyfj\.com$
 (\.|^)l\.1mp\.ru$
+(\.|^)l\.betrad\.com$
 (\.|^)lddy\.no$
 (\.|^)l\.facebook\.com$
+(\.|^)link\.betclic\.com$
 (\.|^)link\.dana\.id$
 (\.|^)link\.digitaladvisor\.dk$
 (\.|^)link\.epicgames\.com$
@@ -219,6 +241,7 @@
 (\.|^)link\.wizzair\.com$
 (\.|^)list\-manage\.com$
 (\.|^)list\-unsubscribe\.eservice\.emarsys\.net$
+(\.|^)l\.neqty\.net$
 (\.|^)lt45\.net$
 (\.|^)mail\.onedrive\.com$
 (\.|^)mandrillapp\.com$
@@ -252,6 +275,7 @@
 (\.|^)partners.*\.stacksocial\.com$
 (\.|^)pdt\.tradedoubler\.com$
 (\.|^)pepperjamnetwork\.com$
+(\.|^)personaclick\.com$
 (\.|^)pi\.pardot\.com$
 (\.|^)pixel.*\.everesttech\.net$
 (\.|^)pjatr\.com$
@@ -262,6 +286,7 @@
 (\.|^)postaffiliatepro\.com$
 (\.|^)postsign\.docusign\.com$
 (\.|^)post\.spmailtechno\.com$
+(\.|^)p\.placed\.com$
 (\.|^)prf\.hn$
 (\.|^)prism\.app\-us1\.com$
 (\.|^)promo\.mobile\.de$
@@ -269,6 +294,7 @@
 (\.|^)pxf\.io$
 (\.|^)qflm\.net$
 (\.|^)qksrv\.net$
+(\.|^)rads\.stackoverflow\.com$
 (\.|^)readdle\.cmail20\.com$
 (\.|^)rebrandlydomain\.com$
 (\.|^)recommender.*\.scarabresearch\.com$
@@ -283,7 +309,9 @@
 (\.|^)r.*\.rs6\.net$
 (\.|^)r\.srvtrck\.com$
 (\.|^)sailthru\.com$
+(\.|^)sdk\.us\.xtremepush\.com$
 (\.|^)sendgrid\-secure\.bluecore\.com$
+(\.|^)servedby\.o2\.co\.uk$
 (\.|^)seu.*\.cleverreach\.com$
 (\.|^)s.*\.exacttarget\.com$
 (\.|^)shareasale\-analytics\.com$
@@ -308,7 +336,6 @@
 (\.|^)target\.georiot\.com$
 (\.|^)target\.microsoft\.com$
 (\.|^)t\.co$
-(\.|^)tc\.tradetracker\.net$
 (\.|^)t\.dripemail2\.com$
 (\.|^)t\.emailing\.monoprix\.fr$
 (\.|^)t\.email.*\.samsung\.ca$
@@ -348,9 +375,11 @@
 (\.|^)trk\.specialized\.com$
 (\.|^)tr\.rdrtr\.com$
 (\.|^)t\.sidekickopen.*\.com$
+(\.|^)t.*\.tradetracker\.net$
 (\.|^)ue\.flipboard\.com$
 (\.|^)ulink\.adjust\..*$
 (\.|^)unsubscribe\..*\.leanplum\.com$
+(\.|^)vfo\.voyage\-prive\.co\.uk$
 (\.|^)view\.email\.nzz\.ch$
 (\.|^)webep1\.com$
 (\.|^)webto\.salesforce\.com$
