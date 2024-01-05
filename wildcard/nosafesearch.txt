@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 02 Jan 2024 22:48 UTC
-# Version: 2024.0102.2248.49
+# Last modified: 05 Jan 2024 22:21 UTC
+# Version: 2024.0105.2221.57
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 257
+# Number of entries: 253
 #
 *.search.0xcb.dev
 *.search.0xgingi.com
@@ -192,7 +192,6 @@
 *.searx.rasp.fr
 *.librex.ratakor.com
 *.whoogle-search--replitcomreside.repl.co
-*.librex.retro-hax.net
 *.search.rhscz.eu
 *.searx.roflcopter.fr
 *.wtf.roflcopter.fr
@@ -209,13 +208,11 @@
 *.searx.ir
 *.searx.ninja
 *.searx.org
-*.searx.ro
 *.searx.ru
 *.searx.run
 *.searx.si
 *.searx.work
 *.searx.xyz
-*.searxng.se
 *.search.seds.nl
 *.searx.semipvt.com
 *.search.sethforprivacy.com
@@ -233,7 +230,6 @@
 *.search.stinpriza.org
 *.suchfeuer.de
 *.searx.sulu.me
-*.searx.sunless.cloud
 *.swisscows.com
 *.searx.thefloatinglab.world
 *.searx.thegreenwebfoundation.org

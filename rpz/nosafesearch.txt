@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1704235680 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1704493260 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 02 Jan 2024 22:48 UTC
-; Version: 2024.0102.2248.49
+; Last modified: 05 Jan 2024 22:21 UTC
+; Version: 2024.0105.2221.57
 ; Syntax: RPZ
-; Number of entries: 514
+; Number of entries: 506
 ;
 searx.32bitflo.at CNAME .
 *.searx.32bitflo.at CNAME .
@@ -48,8 +48,6 @@ sx.catgirl.cloud CNAME .
 *.sx.catgirl.cloud CNAME .
 search.kokomo.cloud CNAME .
 *.search.kokomo.cloud CNAME .
-searx.sunless.cloud CNAME .
-*.searx.sunless.cloud CNAME .
 whoogle-search--replitcomreside.repl.co CNAME .
 *.whoogle-search--replitcomreside.repl.co CNAME .
 search.0xgingi.com CNAME .
@@ -352,8 +350,6 @@ search.nebulacentre.net CNAME .
 *.search.nebulacentre.net CNAME .
 whoogle.privacydev.net CNAME .
 *.whoogle.privacydev.net CNAME .
-librex.retro-hax.net CNAME .
-*.librex.retro-hax.net CNAME .
 searx.tuxcloud.net CNAME .
 *.searx.tuxcloud.net CNAME .
 searx.zdechov.net CNAME .
@@ -450,8 +446,6 @@ jsearch.pw CNAME .
 *.jsearch.pw CNAME .
 unmonito.red CNAME .
 *.unmonito.red CNAME .
-searx.ro CNAME .
-*.searx.ro CNAME .
 go.mail.ru CNAME .
 *.go.mail.ru CNAME .
 nova.rambler.ru CNAME .
@@ -460,8 +454,6 @@ searx.ru CNAME .
 *.searx.ru CNAME .
 searx.run CNAME .
 *.searx.run CNAME .
-searxng.se CNAME .
-*.searxng.se CNAME .
 searx.nixnet.services CNAME .
 *.searx.nixnet.services CNAME .
 searx.si CNAME .

@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 02 Jan 2024 22:48 UTC
-# Version: 2024.0102.2248.49
+# Last modified: 05 Jan 2024 22:21 UTC
+# Version: 2024.0105.2221.57
 # Syntax: DNSMasq
-# Number of entries: 257
+# Number of entries: 253
 #
 address=/search.0xcb.dev/#
 address=/search.0xgingi.com/#
@@ -192,7 +192,6 @@ address=/nova.rambler.ru/#
 address=/searx.rasp.fr/#
 address=/librex.ratakor.com/#
 address=/whoogle-search--replitcomreside.repl.co/#
-address=/librex.retro-hax.net/#
 address=/search.rhscz.eu/#
 address=/searx.roflcopter.fr/#
 address=/wtf.roflcopter.fr/#
@@ -209,13 +208,11 @@ address=/searx.info/#
 address=/searx.ir/#
 address=/searx.ninja/#
 address=/searx.org/#
-address=/searx.ro/#
 address=/searx.ru/#
 address=/searx.run/#
 address=/searx.si/#
 address=/searx.work/#
 address=/searx.xyz/#
-address=/searxng.se/#
 address=/search.seds.nl/#
 address=/searx.semipvt.com/#
 address=/search.sethforprivacy.com/#
@@ -233,7 +230,6 @@ address=/startpage.com/#
 address=/search.stinpriza.org/#
 address=/suchfeuer.de/#
 address=/searx.sulu.me/#
-address=/searx.sunless.cloud/#
 address=/swisscows.com/#
 address=/searx.thefloatinglab.world/#
 address=/searx.thegreenwebfoundation.org/#
