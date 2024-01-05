@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1704407400 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1704493380 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 04 Jan 2024 22:30 UTC
-; Version: 2024.0104.2230.00
+; Last modified: 05 Jan 2024 22:23 UTC
+; Version: 2024.0105.2223.37
 ; Syntax: RPZ
-; Number of entries: 5282
+; Number of entries: 5278
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -205,16 +205,12 @@ adguard-server.cf CNAME .
 *.adguard-server.cf CNAME .
 freevpns.cf CNAME .
 *.freevpns.cf CNAME .
-supervpn.cf CNAME .
-*.supervpn.cf CNAME .
 tryvpn.cf CNAME .
 *.tryvpn.cf CNAME .
 usvpn.cf CNAME .
 *.usvpn.cf CNAME .
 vpnking.cf CNAME .
 *.vpnking.cf CNAME .
-vpservice.cf CNAME .
-*.vpservice.cf CNAME .
 ychen.cf CNAME .
 *.ychen.cf CNAME .
 dns.chenu.ch CNAME .
@@ -355,8 +351,6 @@ unblockweb.co CNAME .
 *.unblockweb.co CNAME .
 unblockyoutube.co CNAME .
 *.unblockyoutube.co CNAME .
-usaproxy.co CNAME .
-*.usaproxy.co CNAME .
 userload.co CNAME .
 *.userload.co CNAME .
 vpnmaster.co CNAME .
@@ -2005,6 +1999,8 @@ tcpvpn.com CNAME .
 *.tcpvpn.com CNAME .
 tenta.com CNAME .
 *.tenta.com CNAME .
+cloud.tezoi.com CNAME .
+*.cloud.tezoi.com CNAME .
 thankvpn.com CNAME .
 *.thankvpn.com CNAME .
 the-cloak.com CNAME .
@@ -2087,8 +2083,6 @@ tuvpn.com CNAME .
 *.tuvpn.com CNAME .
 tuxlervpn.com CNAME .
 *.tuxlervpn.com CNAME .
-typaza.com CNAME .
-*.typaza.com CNAME .
 u8sj3.com CNAME .
 *.u8sj3.com CNAME .
 uas2.com CNAME .
@@ -2325,8 +2319,6 @@ watchproxy.com CNAME .
 *.watchproxy.com CNAME .
 1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com CNAME .
 *.1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com CNAME .
-webevade.com CNAME .
-*.webevade.com CNAME .
 weblockapp.com CNAME .
 *.weblockapp.com CNAME .
 weboproxy.com CNAME .
@@ -2811,8 +2803,6 @@ freevpns.gq CNAME .
 *.freevpns.gq CNAME .
 onion.gq CNAME .
 *.onion.gq CNAME .
-supervpn.gq CNAME .
-*.supervpn.gq CNAME .
 tryvpn.gq CNAME .
 *.tryvpn.gq CNAME .
 webvpn.gq CNAME .
@@ -4177,8 +4167,6 @@ unblockyoutubefree.net CNAME .
 *.unblockyoutubefree.net CNAME .
 adfree.usableprivacy.net CNAME .
 *.adfree.usableprivacy.net CNAME .
-usaip.net CNAME .
-*.usaip.net CNAME .
 usawebproxy.net CNAME .
 *.usawebproxy.net CNAME .
 use-application-dns.net CNAME .
@@ -4389,10 +4377,14 @@ jurre-home.duckdns.org CNAME .
 *.jurre-home.duckdns.org CNAME .
 krtekvpn.duckdns.org CNAME .
 *.krtekvpn.duckdns.org CNAME .
+osefcorp.duckdns.org CNAME .
+*.osefcorp.duckdns.org CNAME .
 punono.duckdns.org CNAME .
 *.punono.duckdns.org CNAME .
 tuandns.duckdns.org CNAME .
 *.tuandns.duckdns.org CNAME .
+tungdnsne.duckdns.org CNAME .
+*.tungdnsne.duckdns.org CNAME .
 vpschito.duckdns.org CNAME .
 *.vpschito.duckdns.org CNAME .
 ueni.dyndns.org CNAME .
@@ -5237,6 +5229,8 @@ tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
 judua3rtinpst0s.xyz CNAME .
 *.judua3rtinpst0s.xyz CNAME .
+adguard.kantinyoyok.xyz CNAME .
+*.adguard.kantinyoyok.xyz CNAME .
 mobrain.xyz CNAME .
 *.mobrain.xyz CNAME .
 ninjaweb.xyz CNAME .
@@ -5277,6 +5271,8 @@ ag.ssrahul96.xyz CNAME .
 *.ag.ssrahul96.xyz CNAME .
 stackfront.xyz CNAME .
 *.stackfront.xyz CNAME .
+securedns.vendorvista.xyz CNAME .
+*.securedns.vendorvista.xyz CNAME .
 dns.vinnyp.xyz CNAME .
 *.dns.vinnyp.xyz CNAME .
 webpro.xyz CNAME .
