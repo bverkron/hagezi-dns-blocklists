@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2024 23:20 UTC
-# Version: 2024.0103.2320.11
+# Last modified: 04 Jan 2024 23:10 UTC
+# Version: 2024.0104.2310.07
 # Syntax: Domains (without subdomains)
-# Number of entries: 964
+# Number of entries: 958
 #
 000.pe
 000nethost.com
@@ -49,6 +49,7 @@ dl.1003b.56a.com
 832819.xyz
 867452310.com
 8t.pm
+dl.9xu.com
 abissnet.net
 library.arihantmbainstitute.ac.in
 iccscem.ac.in
@@ -73,7 +74,6 @@ alakheilizwe.org
 alertsecurities.in
 alibalticon.com
 alie3ksgbb.com
-alinac.ca
 allsslpl.pl
 alltlspl.pl
 alourin.cf
@@ -83,6 +83,7 @@ pandoramain-1794008345.us-west-2.elb.amazonaws.com
 amazonmma.com
 ambernook.uk
 amotel.xyz
+anapa-zarya.ru
 andalog.de
 androidadbserver.com
 angoraveteriner.com
@@ -92,6 +93,7 @@ anybodyopenfind.com
 apkloli.com
 aq2e.com
 aqamerexfrugte.cf
+aquaphobia.fr
 arabi-onlinee.com
 aristonbentre.com
 arogyapatholab.in
@@ -118,6 +120,7 @@ banking-dbs.co
 barawons.pl
 barbaru.pl
 barbuscia.pl
+bcmnursing.com
 bcomb.net
 bearware.org
 bernatgj.pl
@@ -146,7 +149,6 @@ british-shorthair.es
 brknarikan.com
 bruiserbodies.com
 brujosdelamor2019.com
-brusuax.com
 apz.bsaldo.com
 btvapp.net
 bvbypswhds.com
@@ -161,9 +163,10 @@ capital-prg6.site
 cardclaim.live
 careerkillers.me
 careprofit.xyz
-cargoconnect.online
 carnegieinsider.com
+carthagefire.net
 casamuseoayerbe.co
+cnc.catairlines.net
 cbphe.com
 cbpheback.com
 phish.cdo.wtf
@@ -180,7 +183,6 @@ chiptune.com
 downloadplus.chromiums.org
 cilrix-corp.pro
 cimaclub.live
-cipro.mx
 clexowinsurance.com
 clicketcloud.com
 clockgen64.com
@@ -201,17 +203,15 @@ growrock.co.za
 hopvibestravel.co.za
 imbueautoworx.co.za
 kakaopv.co.kr
-dating.khokhas.co.za
 laforma.co.za
 madicon.co.za
 mumgee.co.za
+networkwheels.co.za
 olivehr.co.za
 olugun.co.za
+patisserie.co.ke
 qcollect.co.za
-sainzim.co.za
 spaceframe.mobi.space-frame.co.za
-spacetrack.co.tz
-superstar.tibolts.co.uk
 travelwithmanta.co.za
 my-sbox.trns.co.za
 wmctc.co.uk
@@ -225,6 +225,8 @@ colegiojuanbernardone.com
 mail.alphaassessoriato.com.br
 ameliagosia.com.pl
 asiflyerbio.com.cn
+asu.com.vn
+atomm.com.br
 bearcatpumps.com.cn
 budimal.com.pl
 cdaonline.com.ar
@@ -238,7 +240,6 @@ herchinfitout.com.sg
 www.hey-randomgirl.com.br
 jolantabartnik.com.pl
 kest.com.pe
-proativa.konkisti.com.br
 krzysztofsikora.com.pl
 lindenconsultoria.com.br
 live.com.gt
@@ -251,6 +252,7 @@ e-commerce.saleensuporte.com.br
 spices.com.sg
 tataras.com.pl
 visiontotal.com.co
+vkengcivil.com.br
 vollfisioterapia.com.br
 com-ho.me
 comediantes.org
@@ -264,7 +266,7 @@ connellycandyland.info
 consultando-web.com
 coopsantodomingo.com
 corporation-pl.com
-jsrb.scheme.corycabana.net
+ciqcy.scheme.corycabana.net
 nkfxt.scheme.corycabana.net
 wvmnz.scheme.corycabana.net
 counter-strike2-de.com
@@ -309,12 +311,12 @@ diwodiwo.xyz
 dleggere.com
 dlevo.com
 dnsnb8.net
+dokumentasoluciones.com
 domallpl.pl
 donkeytourscroatia.com
 doorcat.quest
 dostawa-id.live
 download.doumaibiji.cn
-downloayxkemam.sbs
 driverclub.co
 droomsoft.com
 wordpress.ductai.xyz
@@ -379,7 +381,6 @@ freay.tech
 freconmieetfinances.com
 freetcp.com
 frezzyhook.com
-ftpvoyager.cc
 funletters.net
 www.roofing.galacticleads.com
 galandskiyher5.com
@@ -390,7 +391,6 @@ fadfa.gdalieyw.com
 gdylewski.pl
 gedebey-tvradio.info
 lmc.geeksroot.net
-www.bakirkoynakliyat.gen.tr
 geosetthudofak.cf
 getplayshow.com
 getsviip7.com
@@ -432,6 +432,7 @@ hostigram.xyz
 houssagynecologue.com
 hseda.com
 hugeversapi.com
+hunggiang.vn
 hwthurmann.de
 hyattartstudio.com
 hynige.cf
@@ -463,9 +464,7 @@ spiewak.info.pl
 transprt.info.pl
 waldemar.info.pl
 information3413.cloud
-ingonherbal.com
 insp1re.online
-institut-corps-a-ligne.fr
 intellectproactive.com
 inwestcom.pl
 ircftp.net
@@ -503,7 +502,6 @@ krussoftrunafi.cf
 krzysztofrzepecki.pl
 lacasadelasrosas.com
 lameguard.ru
-lasikofmichigan.com
 lastimaners.ug
 latino9.com
 leeziptv.com
@@ -521,6 +519,7 @@ line.pm
 lingrevelat.com
 linkgetapp.nl
 linkmn.gr
+linkvilleplayers.org
 linuxupdate.info
 liqun.shop
 lisagos.pl
@@ -539,7 +538,6 @@ luxurypropertiesfl.com
 xt.lykj988.com
 lyra.build
 m0.yt
-m1m1mapi.com
 maciejdominiak.pl
 magisk.info
 magiskmanagerroot.com
@@ -560,9 +558,11 @@ marksidfgs.ug
 marquesvogt.com
 masterch.top
 maticsurefmo.cf
+dienmay01.maudemo.com
 maxiimus.top
 maxmoney.com
 maxuikl.top
+maxximbrasil.com
 mbgrm.com
 mbmistaz.com
 meeweb.com
@@ -576,7 +576,6 @@ metabrastaxenis.com
 metalpark.pt
 mfalkowska.pl
 ok3.mflve.com
-microsecurityupdate.com
 microsoftonline.services
 microsoftonlines.net
 360down7.miiyun.cn
@@ -591,14 +590,12 @@ more-power-tool.com
 mosthiborafgafu.tk
 mozillaupdates.us
 mpcloudcollection.xyz
-mpnfts.com
 mrface.com
 mrslove.com
 mrugalla.pl
 msteam.biz
 msteampremium.online
 multiaccess.co
-muzzumilruheel.com
 mwgq.net
 gtz.my.id
 harmah.my.id
@@ -621,7 +618,7 @@ namthaibinh.net
 nasdr.pl
 navercloud.org
 ndegj3peoh.com
-demo.nessotechbd.com
+shells.nesco-alkes.com
 artcd.net.pl
 bartlomiej.net.pl
 elzbieta.net.pl
@@ -680,6 +677,7 @@ parrotbay.net
 pass-login.com
 paste-bin.xyz
 pawlukojc.pl
+payment-restriction.com
 down.pcclear.com
 download.pdf00.cn
 pdns.cz
@@ -690,7 +688,6 @@ picaportraits.com
 pilotpoc.com
 piotrwsice.pl
 pl-9a8.pl
-pl-paycash.xyz
 plale.pl
 playdr2.com
 player1532.com
@@ -757,12 +754,12 @@ v207.ru.is
 rusticironstore.com
 ryzen-master.com
 sadeemapk.com
-saf-oil.ru
 apps.saintsoporte.com
 sapiens-services.com
 sapphiretrixx.com
 saraa.shop
 sbytotsmasthersborrdi.cf
+scientific.pk
 scincormatize.com
 scribdbook.top
 scuba.camera
@@ -808,6 +805,7 @@ sslblindado.com
 ssmailer.com
 starcountry.net
 starnetx.live
+stayinoceancitymd.com
 steamauthenticator.net
 steamdesktopauthenticator.net
 steamdesktopauthenticator.org
@@ -816,19 +814,21 @@ stenhymojusgi.cf
 stojanu.pl
 suakhoaketsattphcm.com
 succyarthyry.com
+sunglassesninja.com
 sunnysee.cc
 mongo87a.sweet-water.org
 temp.swtest.ru
 score.symposiumhaiti.com
+configure.syscatec.com
 sysclearprom.space
 tabonyventures.com
 taxrefund.click
-tceducn.com
 techniguitare.com
 techofi.in
 techpowerup-gpu-z.com
 techsso.com
 tecni-soft.com
+telagrmac.com
 tele-latino.com
 telelatino.app
 temptmag.com
@@ -855,7 +855,6 @@ lang.topteamlife.com
 loop.topteamlife.com
 still.topteamlife.com
 zen.topteamlife.com
-torrentmoviess.com
 vsfhtrjtrejs.toshibanetcam.com
 weruvwer97.toshibanetcam.com
 toythieves.com
@@ -873,7 +872,6 @@ tuuups.pl
 twizt.net
 uclck.ru
 d1.udashi.com
-down.udashi.com
 uizlet.live
 ukrainedeliveryservice.xyz
 ulti-mate.com
@@ -884,12 +882,10 @@ unicorpbrunei.com
 unispace.io
 unkinerecle.com
 unkorakite.cf
-unlockingdreamsfinancial.com
 up-official.site
 upanfile.com
 update-pgp.com
 urlgalleries.net
-uxsingh.com
 uzdarakchi.com
 vaishnaviinterior.com
 vape-resource.com
@@ -922,12 +918,10 @@ websound.ru
 webwave.dev
 welikejack.com
 wetterkameras.com
-wewashclothes.com
 wgoss.pl
 wiljot.pl
 winkaros.ru
 winning-drinks.com
-wispafoods.com
 wixzey.com
 wntrk.pl
 womenforum.top
@@ -936,6 +930,7 @@ workerhand.link
 convercatioon.workers.dev
 wsipv6.com
 wwwplkt.pl
+wynecare.com
 xemvtv.net
 xiangshunjy.com
 xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
@@ -956,7 +951,6 @@ yourchance.top
 ysbaojia.com
 yzkzixun.com
 zakresnynaya.pl
-zaofisa.net
 zap-webspace.com
 zbigniewkaluga.pl
 bettermesupport.zendesk.com
