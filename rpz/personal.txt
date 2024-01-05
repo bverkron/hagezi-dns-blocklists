@@ -37066,8 +37066,6 @@ api.newsfeed.intl.miui.com CNAME .
 *.api.newsfeed.intl.miui.com CNAME .
 adv.sec.intl.miui.com CNAME .
 *.adv.sec.intl.miui.com CNAME .
-api.sec.intl.miui.com CNAME .
-*.api.sec.intl.miui.com CNAME .
 authbe.sec.intl.miui.com CNAME .
 *.authbe.sec.intl.miui.com CNAME .
 data.sec.intl.miui.com CNAME .

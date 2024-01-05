@@ -40856,7 +40856,6 @@
 ||api.collect.data.intl.miui.com^
 ||api.newsfeed.intl.miui.com^
 ||adv.sec.intl.miui.com^
-||api.sec.intl.miui.com^
 ||authbe.sec.intl.miui.com^
 ||data.sec.intl.miui.com^
 ||protect.dev.sec.intl.miui.com^

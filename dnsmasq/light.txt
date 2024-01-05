@@ -40856,7 +40856,6 @@ address=/api.brs.intl.miui.com/#
 address=/api.collect.data.intl.miui.com/#
 address=/api.newsfeed.intl.miui.com/#
 address=/adv.sec.intl.miui.com/#
-address=/api.sec.intl.miui.com/#
 address=/authbe.sec.intl.miui.com/#
 address=/data.sec.intl.miui.com/#
 address=/protect.dev.sec.intl.miui.com/#
