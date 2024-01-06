@@ -401,7 +401,6 @@
 @@||cut.lu^
 @@||cut.pe^
 @@||cut.sk^
-@@||cute2w.in^
 @@||cutt.eu^
 @@||cutt.ly^
 @@||cutt.us^
@@ -1814,7 +1813,6 @@
 @@||zsms.net^
 @@||zti.me^
 @@||zuki.ie^
-@@||zuo.in^
 @@||zuplo.link^
 @@||zurb.us^
 @@||zurins.uk^
