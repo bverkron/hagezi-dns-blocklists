@@ -1,11 +1,11 @@
 ### Statistics
 #### LIGHT
 ```
-220697 (89%) included | 6561 (3%) removed | 22012 (9%) dead
+216661 (87%) included | 9080 (4%) removed | 22659 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |      91% |   5% |      4% |  134480 | Personal
-  2 |      69% |   8% |     23% |    4747 | Extracted Wildcard Rules
+  1 |      89% |   5% |      6% |  134480 | Personal
+  2 |      66% |   8% |     26% |    4747 | Extracted Wildcard Rules
   3 |     100% |   0% |      0% |     950 | Threat Intelligence Feeds Light
   4 |      95% |   0% |      5% |      22 | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      70% |   0% |     30% |     345 | Native Tracker Amazon (Devices, Shopping, Video)
@@ -13,39 +13,39 @@
   7 |      93% |   0% |      7% |      59 | Native Tracker LG webOS
   8 |      62% |   0% |     38% |     239 | Native Tracker TikTok (Fingerprinting)
   9 |      13% |   0% |     87% |     191 | Native Tracker Microsoft (Windows, Office, MSN)
- 10 |      86% |   5% |      9% |    8700 | Denylist Base
+ 10 |      71% |   5% |     24% |    8712 | Denylist Base
  11 |      95% |   0% |      5% |    3785 | Basic Extension
 ```
 #### MULTI
 ```
-750126 (89%) included | 15745 (2%) removed | 76090 (9%) dead
+751259 (89%) included | 16785 (2%) removed | 77007 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  220697 | Predecessor: Multi Light
+  1 |     100% |   0% |      0% |  216661 | Predecessor: Multi Light
   2 |      92% |   5% |      3% |  134480 | Personal
-  3 |      69% |   8% |     23% |    4747 | Extracted Wildcard Rules
+  3 |      66% |   8% |     26% |    4747 | Extracted Wildcard Rules
   4 |      95% |   0% |      5% |      22 | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      70% |   0% |     30% |     345 | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% |      58 | Native Tracker Huawei (Devices)
   7 |      93% |   0% |      7% |      59 | Native Tracker LG webOS
   8 |      62% |   0% |     38% |     239 | Native Tracker TikTok (Fingerprinting)
   9 |      13% |   0% |     87% |     191 | Native Tracker Microsoft (Windows, Office, MSN)
- 10 |      87% |   5% |      8% |    8700 | Denylist Base
+ 10 |      87% |   5% |      8% |    8712 | Denylist Base
  11 |      95% |   0% |      5% |    3785 | Basic Extension
  12 |     100% |   0% |      0% |    4910 | Fake Light
  13 |      85% |  11% |      4% |  123970 | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
  14 |      78% |  14% |      8% |  173845 | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  15 |      86% |  13% |      1% |    5340 | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |     100% |   0% |      0% |    8346 | Threat Intelligence Feeds Medium
- 17 |      84% |  16% |      0% |   29925 | Analytics/Metrics Extension
- 18 |      95% |   0% |      5% |   84647 | Balanced Extension
+ 17 |      83% |  17% |      0% |   29925 | Analytics/Metrics Extension
+ 18 |      94% |   0% |      6% |   84647 | Balanced Extension
 ```
 #### PRO
 ```
-986557 (91%) included | 11162 (1%) removed | 84502 (8%) dead
+987576 (91%) included | 13111 (1%) removed | 85759 (8%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  750126 | Predecessor: Multi Normal
+  1 |     100% |   0% |      0% |  751259 | Predecessor: Multi Normal
   2 |      93% |   5% |      2% |  134480 | Personal
   3 |      85% |   8% |      7% |    4747 | Extracted Wildcard Rules
   4 |      95% |   0% |      5% |      22 | Native Tracker Apple (iOS, macOS, tvOS)
@@ -54,12 +54,12 @@
   7 |      93% |   0% |      7% |      59 | Native Tracker LG webOS
   8 |     100% |   0% |      0% |     239 | Native Tracker TikTok (Fingerprinting)
   9 |      40% |   0% |     60% |     191 | Native Tracker Microsoft (Windows, Office, MSN)
- 10 |      93% |   5% |      2% |    8700 | Denylist Base
- 11 |      95% |   0% |      5% |    3785 | Basic Extension
+ 10 |      93% |   5% |      2% |    8712 | Denylist Base
+ 11 |      96% |   0% |      4% |    3785 | Basic Extension
  12 |      87% |  11% |      2% |  123970 | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
- 13 |      81% |  14% |      5% |  173845 | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
- 14 |      86% |  13% |      1% |    5340 | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 15 |      84% |  16% |      0% |   29925 | Analytics/Metrics Extension
+ 13 |      80% |  14% |      6% |  173845 | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 14 |      87% |  13% |      0% |    5340 | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 15 |      83% |  17% |      0% |   29925 | Analytics/Metrics Extension
  16 |      98% |   0% |      2% |   84647 | Balanced Extension
  17 |     100% |   0% |      0% |   14039 | Fake
  18 |     100% |   0% |      0% |   29519 | Threat Intelligence Feeds Normal
