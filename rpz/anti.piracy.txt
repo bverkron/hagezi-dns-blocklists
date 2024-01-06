@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1704493920 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1704580620 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 05 Jan 2024 22:32 UTC
-; Version: 2024.0105.2232.16
+; Last modified: 06 Jan 2024 22:37 UTC
+; Version: 2024.0106.2237.39
 ; Syntax: RPZ
-; Number of entries: 21036
+; Number of entries: 21016
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1524,8 +1524,6 @@ yifytorrent.cc CNAME .
 *.yifytorrent.cc CNAME .
 ytmp3.cc CNAME .
 *.ytmp3.cc CNAME .
-ytmp3juices.cc CNAME .
-*.ytmp3juices.cc CNAME .
 yts-movie.cc CNAME .
 *.yts-movie.cc CNAME .
 zalukaj.cc CNAME .
@@ -1646,8 +1644,6 @@ watchfreemovies.ch CNAME .
 *.watchfreemovies.ch CNAME .
 zamunda.ch CNAME .
 *.zamunda.ch CNAME .
-zer0day.ch CNAME .
-*.zer0day.ch CNAME .
 cb01.charity CNAME .
 *.cb01.charity CNAME .
 streamingcommunity.charity CNAME .
@@ -1940,8 +1936,6 @@ watchtvseries.unblckd.club CNAME .
 *.watchtvseries.unblckd.club CNAME .
 vod78d.club CNAME .
 *.vod78d.club CNAME .
-ytsyify.club CNAME .
-*.ytsyify.club CNAME .
 home.yxgz.club CNAME .
 *.home.yxgz.club CNAME .
 cpasbien.cm CNAME .
@@ -8314,8 +8308,6 @@ yotoshi.com CNAME .
 *.yotoshi.com CNAME .
 youhaveavirus.com CNAME .
 *.youhaveavirus.com CNAME .
-younetu.com CNAME .
-*.younetu.com CNAME .
 youpornbook.com CNAME .
 *.youpornbook.com CNAME .
 yourbittorrent.com CNAME .
@@ -10858,8 +10850,6 @@ watch32.is CNAME .
 *.watch32.is CNAME .
 weboas.is CNAME .
 *.weboas.is CNAME .
-t.xk.is CNAME .
-*.t.xk.is CNAME .
 xmovies8.is CNAME .
 *.xmovies8.is CNAME .
 yggtorrent.is CNAME .
@@ -14284,8 +14274,6 @@ webrangers.net CNAME .
 *.webrangers.net CNAME .
 webstress.net CNAME .
 *.webstress.net CNAME .
-webwarez.net CNAME .
-*.webwarez.net CNAME .
 tracker.wellknownclub.net CNAME .
 *.tracker.wellknownclub.net CNAME .
 wepzone.net CNAME .
@@ -14302,8 +14290,6 @@ wonderfile.net CNAME .
 *.wonderfile.net CNAME .
 world-in-hd.net CNAME .
 *.world-in-hd.net CNAME .
-world-of-use.net CNAME .
-*.world-of-use.net CNAME .
 worldbd.net CNAME .
 *.worldbd.net CNAME .
 worldmags.net CNAME .
@@ -14358,8 +14344,6 @@ yubraca.net CNAME .
 *.yubraca.net CNAME .
 bt.yumeru.net CNAME .
 *.bt.yumeru.net CNAME .
-yuwabits.net CNAME .
-*.yuwabits.net CNAME .
 zamunda.net CNAME .
 *.zamunda.net CNAME .
 zaycev.net CNAME .
@@ -20970,8 +20954,6 @@ ytshindi.xyz CNAME .
 *.ytshindi.xyz CNAME .
 ytstvmovies.xyz CNAME .
 *.ytstvmovies.xyz CNAME .
-tracker.zaluan.xyz CNAME .
-*.tracker.zaluan.xyz CNAME .
 zecircle.xyz CNAME .
 *.zecircle.xyz CNAME .
 tracker.zerobytes.xyz CNAME .
@@ -21046,5 +21028,3 @@ thepiratebay.zone CNAME .
 *.thepiratebay.zone CNAME .
 yesmovies.zone CNAME .
 *.yesmovies.zone CNAME .
-yts.zone CNAME .
-*.yts.zone CNAME .
