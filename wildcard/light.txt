@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jan 2024 15:02 UTC
-# Version: 2024.0106.1502.47
+# Last modified: 06 Jan 2024 19:52 UTC
+# Version: 2024.0106.1952.28
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 64396
+# Number of entries: 64321
 #
 *.000.pe
 *.0008d6ba2e.com
@@ -2435,8 +2435,7 @@
 *.acsbapp.com
 *.acscdn.com
 *.connect.acspubs.org
-*.code.acstat.com
-*.hit.acstat.com
+*.acstat.com
 *.act-news.com
 *.act-on.com
 *.adobeanalytics.actalentservices.com
@@ -2866,9 +2865,7 @@
 *.adfahrapps.com
 *.adfalcon.com
 *.adfeelgood.com
-*.api.adfenix.com
-*.assets.adfenix.com
-*.cdn.adfenix.com
+*.adfenix.com
 *.adfgetlink.net
 *.adfgfeojqx.com
 *.adfinity.pro
@@ -2879,9 +2876,7 @@
 *.adfluence.net
 *.adfly.com
 *.adfly.vn
-*.filter.adflyer.media
-*.xml.adflyer.media
-*.xml-v4.adflyer.media
+*.adflyer.media
 *.adforcast.com
 *.adforce.com
 *.adforgames.com
@@ -3279,8 +3274,7 @@
 *.vbbg.adocean.pl
 *.webgroundbg.adocean.pl
 *.adoftheyear.com
-*.filter.adokutcontextual.com
-*.xml.adokutcontextual.com
+*.adokutcontextual.com
 *.rtb-useast.adokutrtb.com
 *.adomik.com
 *.adomv.com
@@ -3495,8 +3489,7 @@
 *.adsbro.com
 *.ads.adsbtc.fun
 *.adsbtrk.com
-*.filter.adsbuyclick.com
-*.xml.adsbuyclick.com
+*.adsbuyclick.com
 *.adsby.io
 *.adsbydelema.com
 *.adsbynimbus.com
@@ -3577,8 +3570,7 @@
 *.adsight.nl
 *.adsilo.net
 *.adsilo.pro
-*.filteradkernel.adsimilate.com
-*.xml1.adsimilate.com
+*.adsimilate.com
 *.code.adsinnov.com
 *.adsinstant.com
 *.adsixmedia.fr
@@ -3687,8 +3679,7 @@
 *.adsunion.com
 *.adsupply.com
 *.adsupplyads.net
-*.filter.adsupplyexchange.com
-*.xml-v4.adsupplyexchange.com
+*.adsupplyexchange.com
 *.adsupplyssl.com
 *.adsurplus.com
 *.adsvert.com
@@ -3715,8 +3706,7 @@
 *.adtad.xyz
 *.adtags.mobi
 *.adtaily.pl
-*.xml.adtapmedia.com
-*.xml-v4.adtapmedia.com
+*.adtapmedia.com
 *.adtarget.me
 *.adtaxi.com
 *.adtbcs.cn
@@ -3786,11 +3776,8 @@
 *.adtrk18.com
 *.adtrue.com
 *.adttt.com
+*.adtube.media
 *.ads.adtube.de
-*.filter.adtube.media
-*.xml.adtube.media
-*.xml-eu-v4.adtube.media
-*.xml-v4.adtube.media
 *.adtvedk.com
 *.aduic.com
 *.p1-lm.adukwai.com
@@ -3978,8 +3965,7 @@
 *.adview.pl
 *.advinci.co
 *.advisefirmly.com
-*.cdn.advisible.com
-*.source.advisible.com
+*.advisible.com
 *.advision-adnw.jp
 *.metrics.advisorchannel.com
 *.grow.advisorgroup.com
@@ -3988,8 +3974,7 @@
 *.action.advisorycloud.com
 *.adviva.net
 *.advividnetwork.com
-*.filter.advlistings.com
-*.xml.advlistings.com
+*.advlistings.com
 *.advmaker.net
 *.advmedia.by
 *.advmedia.io
@@ -4270,15 +4255,7 @@
 *.analytics.afirstsoft.cn
 *.afishamedia.net
 *.afitye.xyz
-*.click-rtb2-useast.afkwa.com
-*.rtb-eu-v4.afkwa.com
-*.rtb-useast-v4.afkwa.com
-*.rtb-uswest-v4.afkwa.com
-*.rtb2-eu.afkwa.com
-*.rtb2-useast.afkwa.com
-*.rtb2-uswest.afkwa.com
-*.win-rtb2-useast.afkwa.com
-*.win-rtb2-uswest.afkwa.com
+*.afkwa.com
 *.analytics.aflds.dev
 *.app.aflink.com
 *.aflsj.com
@@ -4626,8 +4603,7 @@
 *.matomo.airportinfo.live
 *.airpr.com
 *.airpush.com
-*.heartbeat.airserve.net
-*.static.airserve.net
+*.airserve.net
 *.airsnowking.live
 *.airsoang.net
 *.digianalytics.airtel.in
@@ -6346,6 +6322,7 @@
 *.aonunited.com
 *.aonzy.com
 *.aopgwes.cc
+*.aoscufe.com
 *.aosmicdossety.website
 *.aosmicvirago.com
 *.bb8.aotter.net
@@ -8764,6 +8741,7 @@
 *.v.beahh.com
 *.beakerweedjazz.com
 *.beakobjectcaliber.com
+*.bealanews.com
 *.beamedshipwreck.com
 *.beamincrease.com
 *.beammanmoile.space
@@ -9322,9 +9300,7 @@
 *.bidfhimuqwij.com
 *.bidfilter.com
 *.go.bidfluence.com
-*.filter.bidforclicks.com
-*.xml.bidforclicks.com
-*.xml-eu.bidforclicks.com
+*.bidforclicks.com
 *.bidgear.com
 *.bidgear-syndication.com
 *.bidgx.com
@@ -9338,8 +9314,7 @@
 *.api-us.bidmachine.io
 *.api-us-was.bidmachine.io
 *.xml.bidmonetize.com
-*.xml.bidmyadz.com
-*.xml-eu.bidmyadz.com
+*.bidmyadz.com
 *.cpm.bidmyqps.xyz
 *.rtb-useast.bidmyqps.xyz
 *.bidr.io
@@ -13227,8 +13202,7 @@
 *.clickcdn.co
 *.clickcertain.com
 *.clickco.net
-*.filter.clickcpcads.com
-*.xml-v4.clickcpcads.com
+*.clickcpcads.com
 *.clickdaly.com
 *.clickdensity.com
 *.clickedyclick.com
@@ -13328,8 +13302,7 @@
 *.cliv2508.com
 *.clivads.com
 *.clixco.in
-*.filter.clixforads.com
-*.xml.clixforads.com
+*.clixforads.com
 *.clixgalore.com
 *.clixmetrix.com
 *.rtb.clixportal.com
@@ -17176,8 +17149,7 @@
 *.conversionfanaticsappuk.com
 *.conversionfly.com
 *.conversionruler.com
-*.filter.convertap.com
-*.xml-v4.convertap.com
+*.convertap.com
 *.cdn.convertbox.com
 *.convertexperiments.com
 *.convertful.com
@@ -17368,10 +17340,7 @@
 *.corvetwoorari.com
 *.corvinapaella.life
 *.analytics.corvusengineering.com
-*.cggq.scheme.corycabana.net
-*.ciqcy.scheme.corycabana.net
-*.her.scheme.corycabana.net
-*.sfh.scheme.corycabana.net
+*.scheme.corycabana.net
 *.coryljanty.cam
 *.cosdate.jp
 *.cosmeticsrc.com
@@ -20245,8 +20214,7 @@
 *.domaining.in
 *.domainmanager.com
 *.domainplayersclub.com
-*.xml.domains-traffic.com
-*.xml-v4.domains-traffic.com
+*.domains-traffic.com
 *.domainsteam.de
 *.analytics.domaintools.com
 *.domallpl.pl
@@ -21500,11 +21468,14 @@
 *.innovid.com.edgekey.net
 *.global-wildcard.insightexpressai.com.edgekey.net
 *.dm.isnssdk.com.edgekey.net
+*.f-p-va.isnssdk.com.edgekey.net
 *.i.isnssdk.com.edgekey.net
 *.i16-tb.isnssdk.com.edgekey.net
 *.ichannel.isnssdk.com.edgekey.net
 *.log.isnssdk.com.edgekey.net
+*.log-mva.isnssdk.com.edgekey.net
 *.pangolin16.isnssdk.com.edgekey.net
+*.tnc16-my.isnssdk.com.edgekey.net
 *.tnc16-useast1a.isnssdk.com.edgekey.net
 *.metrics.macys.com.edgekey.net
 *.marketo.com.edgekey.net
@@ -23535,6 +23506,7 @@
 *.faptdsway.ru
 *.ko.faptor.com
 *.ok.faptor.com
+*.faqserv.com
 *.faquirrelot.com
 *.metrics.app.faraday.io
 *.farakav.com
@@ -24496,8 +24468,7 @@
 *.flunkeycaptor.guru
 *.flupshare.com
 *.flurry.com
-*.filter.flurryad.com
-*.xml.flurryad.com
+*.flurryad.com
 *.statistics.flurrydata.com
 *.flurrylimmu.com
 *.flushgenuinelydominion.com
@@ -27531,7 +27502,7 @@
 *.matomo.groovetech.io
 *.grooveworship.space
 *.groovinads.com
-*.1.groovinews.com
+*.groovinews.com
 *.xml.groovyadz.com
 *.groovyornament.com
 *.gropefore.com
@@ -30243,10 +30214,7 @@
 *.ijbgqlf.com
 *.uktc.ijento.com
 *.ijgbuj.xyz
-*.zj.dcys.ijinshan.com
-*.kbd1.kpns.ijinshan.com
-*.mobad.ijinshan.com
-*.tj.ijinshan.com
+*.ijinshan.com
 *.ijkcmm.com
 *.ijmrburud.com
 *.ijorecepous.com
@@ -31970,19 +31938,7 @@
 *.isn.nl
 *.isna.top
 *.isnd.top
-*.dm.isnssdk.com
-*.h5.isnssdk.com
-*.hotapi-va.isnssdk.com
-*.i.isnssdk.com
-*.i16-tb.isnssdk.com
-*.ichannel.isnssdk.com
-*.log.isnssdk.com
-*.log-tb.isnssdk.com
-*.mon.isnssdk.com
-*.open.isnssdk.com
-*.pangolin16.isnssdk.com
-*.tnc16-alisg.isnssdk.com
-*.tnc16-useast1a.isnssdk.com
+*.isnssdk.com
 *.isobaresoffit.com
 *.isoffss.com
 *.isogenylingel.guru
@@ -33215,9 +33171,7 @@
 *.kamost.com
 *.cdn-usent.kampyle.com
 *.kamura.pl
-*.cf04.kanade-ad.net
-*.kcs.kanade-ad.net
-*.kdex005.kanade-ad.net
+*.kanade-ad.net
 *.kanagi.xyz
 *.ads.kanalfrederikshavn.dk
 *.kanavagronomy.in
@@ -33310,8 +33264,7 @@
 *.kavanga.ru
 *.kavaycash.com
 *.kaxnoyxs.com
-*.dxp.kaxsdc.com
-*.prod01.kaxsdc.com
+*.kaxsdc.com
 *.smetrics.kay.com
 *.kaya303.lol
 *.kaya303.site
@@ -33614,8 +33567,7 @@
 *.kingkong.co
 *.kingrecommendation.com
 *.marketing.kingsiii.com
-*.abroad-ad.kingsoft-office-service.com
-*.cloudservice22.kingsoft-office-service.com
+*.kingsoft-office-service.com
 *.kingsoftz.com
 *.analytics.kingstats.dk
 *.kingteeshops.com
@@ -34639,8 +34591,7 @@
 *.leadboxer.com
 *.leadclick.com
 *.leadcrunch.com
-*.collector.leaddyno.com
-*.static.leaddyno.com
+*.leaddyno.com
 *.leadelephant.com
 *.leadenabsolution.com
 *.leadenhancer.com
@@ -37600,8 +37551,7 @@
 *.mercent.com
 *.matomo.us-east-1.prod.ext.mercer.com
 *.merchant-center-analytics.goog
-*.chanalytics.merchantadvantage.com
-*.secure.merchantadvantage.com
+*.merchantadvantage.com
 *.email.everyonesocial.merckgroup.com
 *.smetrics.mercola.com
 *.smetrics.mercolamarket.com
@@ -38374,22 +38324,20 @@
 *.moat4shot.com
 *.moatads.com
 *.moatpixel.com
+*.api-share.mob.com
 *.data.mob.com
 *.api.df.mob.com
+*.df-mic.mob.com
+*.dfe-mic.mob.com
 *.api.exc.mob.com
 *.api.fd.mob.com
-*.f.gm.mob.com
-*.l.gm.mob.com
+*.gm.mob.com
 *.sdk.guard.mob.com
-*.aw.mic.mob.com
-*.df.mic.mob.com
-*.dfe.mic.mob.com
-*.sdk.push.mob.com
-*.k.tcp.push.mob.com
-*.l.tcp.push.mob.com
-*.api.share.mob.com
-*.v6-api.share.mob.com
+*.mic.mob.com
+*.push.mob.com
+*.share.mob.com
 *.init.sms.mob.com
+*.v6-api-share.mob.com
 *.api.verify.mob.com
 *.moba8.net
 *.mobadme.jp
@@ -38667,8 +38615,7 @@
 *.sny.monosnap.com
 *.analytics.monroneylabels.com
 *.smetrics.monsanto.com
-*.cdn.monsido.com
-*.tracking.monsido.com
+*.monsido.com
 *.monsoonlassi.com
 *.analytics.monster.fr
 *.jdn.monster.com
@@ -43275,11 +43222,6 @@
 *.pafcpd.xyz
 *.pafutos.com
 *.pafwa.info
-*.czwcvfbc.page.link
-*.dtminwrj.page.link
-*.nalzahqp.page.link
-*.tpqcywcx.page.link
-*.youcinetv.page.link
 *.page-stats.de
 *.page1monk.com
 *.page9awry.com
@@ -44507,9 +44449,7 @@
 *.pa.pinpoll.com
 *.pinprickmerry.com
 *.pinremembrance.com
-*.analytics.pinsightmedia.com
-*.v8engine.pinsightmedia.com
-*.v8push.pinsightmedia.com
+*.pinsightmedia.com
 *.ads.pinterest.com
 *.ads-dev.pinterest.com
 *.analytics.pinterest.com
@@ -46516,10 +46456,7 @@
 *.pwmctl.com
 *.pwn.af
 *.pwnz.org
-*.filter.pwr-ads.com
-*.xml.pwr-ads.com
-*.xml-eu.pwr-ads.com
-*.xml-v4.pwr-ads.com
+*.pwr-ads.com
 *.pwresetcisco.com
 *.pwrgrowthapi.com
 *.pwrlkyotm.com
@@ -48871,9 +48808,7 @@
 *.rocks.io
 *.parallel.rockvideos.at
 *.map.rockwellautomation.com
-*.filter.rocoads.com
-*.xml-eu-v4.rocoads.com
-*.xml-v4.rocoads.com
+*.rocoads.com
 *.rocobo.uno
 *.metric.rocube.net
 *.roddinmucial.xyz
@@ -51047,6 +50982,7 @@
 *.shocking-design.pro
 *.shockinggrass.com
 *.shockingship.com
+*.shockynews.com
 *.shoefire.life
 *.shoesbox.pl
 *.analytics.shoesforcrews.com
@@ -51196,10 +51132,7 @@
 *.analytics.shorte.st
 *.cdn.shorte.st
 *.shorteh.com
-*.mx01.c.shortest-route.com
-*.mx02.c.shortest-route.com
-*.mx03.c.shortest-route.com
-*.columbus.shortest-route.com
+*.shortest-route.com
 *.analytics.shorthand.com
 *.shortlyrecyclerelinquish.com
 *.shortsgeom.com
@@ -55542,8 +55475,7 @@
 *.thetoptrust.com
 *.metrics.thetradingpit.com
 *.xml.thetrafficbid.com
-*.filter.thetrafficboss.com
-*.xml.thetrafficboss.com
+*.thetrafficboss.com
 *.thetrafficstat.net
 *.thetrendskill.com
 *.thetrendytales.com
@@ -56371,10 +56303,7 @@
 *.topsiteguide.com
 *.topsites24.de
 *.topsites24.net
-*.filter.topsolutionsmedia.com
-*.xml.topsolutionsmedia.com
-*.xml-eu-v4.topsolutionsmedia.com
-*.xml-v4.topsolutionsmedia.com
+*.topsolutionsmedia.com
 *.topstats.com
 *.topstrathfield.com
 *.topsummerapps.net
@@ -56947,9 +56876,8 @@
 *.treitrejewfish.com
 *.trekachy.com
 *.trekdata.com
-*.351talavera.treker.fun
-*.377whyalla.treker.fun
-*.224dornbirn.trekkww.space
+*.treker.fun
+*.trekkww.space
 *.treklizard.com
 *.trekstereo.com
 *.trellian.com
@@ -60824,9 +60752,7 @@
 *.o.webmd.com
 *.webmedia.pl
 *.webmedrtb.com
-*.xml.webmedxml.com
-*.xml-eu-v4.webmedxml.com
-*.xml-v4.webmedxml.com
+*.webmedxml.com
 *.banner.webmersion.com
 *.webmine.cz
 *.webmine.pro
@@ -62515,8 +62441,7 @@
 *.xmjajv.xyz
 *.xmktites.com
 *.xml-api.online
-*.filter.xmladsystem.com
-*.xml.xmladsystem.com
+*.xmladsystem.com
 *.xmlapiclickredirect10102022.com
 *.xmlformats.com
 *.filter.xmlfusion.com
