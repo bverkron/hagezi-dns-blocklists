@@ -138,6 +138,7 @@
 (\.|^)click\.snapshat\.com$
 (\.|^)clicks\.trx\-hub\.com$
 (\.|^)clicktale\.net$
+(\.|^)click\-trk\.com$
 (\.|^)click\.zoom\.us$
 (\.|^)clk\.boulanger\.com$
 (\.|^)clk\.omgt3\.com$
