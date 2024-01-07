@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jan 2024 23:09 UTC
-# Version: 2024.0106.2309.59
+# Last modified: 07 Jan 2024 11:07 UTC
+# Version: 2024.0107.1107.03
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 944
+# Number of entries: 951
 #
 *.000.pe
 *.000nethost.com
@@ -33,6 +33,8 @@
 *.50220.top
 *.50224.top
 *.50227.top
+*.api.52kkg.com
+*.542199235l.com
 *.dl.1003b.56a.com
 *.5g7.at
 *.5v0.nl
@@ -46,15 +48,15 @@
 *.832819.xyz
 *.867452310.com
 *.8t.pm
-*.94.http
 *.dl.9xu.com
 *.abissnet.net
 *.library.arihantmbainstitute.ac.in
 *.iccscem.ac.in
-*.partadino.ac.ug
+*.imit.ac.in
 *.acc-disbsupportcenter.info
 *.ackng.com
 *.addressrevise.com
+*.addtactical.com
 *.adrorobert.pl
 *.www.geovanisantos.adv.br
 *.adyboh.com
@@ -103,7 +105,6 @@
 *.avrmxinvestment.net
 *.awcna.com
 *.axelmetals.cc
-*.azmeasurement.com
 *.azurehosting.co
 *.b0tnet.com
 *.babytoy-online.com
@@ -148,6 +149,7 @@
 *.brusuax.com
 *.apz.bsaldo.com
 *.btvapp.net
+*.bufetesanchezabogados.com
 *.bvbypswhds.com
 *.byinter.net
 *.cacheoffer.tk
@@ -163,7 +165,6 @@
 *.cargoconnect.online
 *.carnegieinsider.com
 *.casamuseoayerbe.co
-*.cnc.catairlines.net
 *.cbphe.com
 *.cbpheback.com
 *.phish.cdo.wtf
@@ -178,7 +179,6 @@
 *.chingman.net
 *.chiptune.com
 *.downloadplus.chromiums.org
-*.chuckozeas.com
 *.cilrix-corp.pro
 *.cimaclub.live
 *.cipro.mx
@@ -188,26 +188,24 @@
 *.cloudfronts.services
 *.cloudlets.zone
 *.support.clz.kr
+*.cms-sh.de
 *.agemn.co.za
-*.aosafrica.co.za
-*.bigmikesupplies.co.za
 *.councilrespect.co.in
 *.destinymc.co.za
-*.drhanneserasmus.co.za
 *.emaids.co.za
+*.fetchdesignprint.co.za
 *.growrock.co.za
 *.hopvibestravel.co.za
 *.imbueautoworx.co.za
 *.kakaopv.co.kr
 *.laforma.co.za
 *.madicon.co.za
-*.mumgee.co.za
-*.networkwheels.co.za
 *.olivehr.co.za
 *.olugun.co.za
 *.qcollect.co.za
 *.sainzim.co.za
 *.spaceframe.mobi.space-frame.co.za
+*.spacetrack.co.tz
 *.superstar.tibolts.co.uk
 *.travelwithmanta.co.za
 *.my-sbox.trns.co.za
@@ -224,7 +222,6 @@
 *.ameliagosia.com.pl
 *.asiflyerbio.com.cn
 *.asu.com.vn
-*.atomm.com.br
 *.bearcatpumps.com.cn
 *.budimal.com.pl
 *.cdaonline.com.ar
@@ -234,17 +231,20 @@
 *.graficaaoquadrado.com.br
 *.grzegorzkulik.com.pl
 *.hapvidacaruaru.com.br
+*.herchinfitout.com.sg
 *.www.hey-randomgirl.com.br
 *.jolantabartnik.com.pl
 *.kest.com.pe
 *.proativa.konkisti.com.br
 *.krzysztofsikora.com.pl
 *.lindenconsultoria.com.br
+*.live.com.gt
 *.lostheaven.com.cn
 *.medcar.com.tn
-*.microtrimsltd.com.bd
-*.oazahotel.com.mk
+*.palharesinformatica.com.br
+*.qaafdesign.com.sa
 *.e-commerce.saleensuporte.com.br
+*.spices.com.sg
 *.tataras.com.pl
 *.visiontotal.com.co
 *.vkengcivil.com.br
@@ -270,7 +270,6 @@
 *.csgoxdomain.us
 *.balkarsoftware.cubistech.com
 *.cursodeparapsicologia.org
-*.cynorix.com
 *.static.cz01.cn
 *.dacsandongthapmuoi.vn
 *.darekfurtak.pl
@@ -287,10 +286,8 @@
 *.records.dennisign.se
 *.derekludlow.com
 *.devises-dz.com
-*.demo.devswire.com
 *.dhi-mox-ei.top
 *.diacolnocalyvi.tk
-*.diclegrup.org
 *.didns.ru
 *.diecialanowert.cf
 *.digitalvehicleinspection.com
@@ -309,9 +306,11 @@
 *.doorcat.quest
 *.dostawa-id.live
 *.download.doumaibiji.cn
+*.downloayxkemam.sbs
 *.driverclub.co
 *.droomsoft.com
 *.duchessefit.com
+*.wordpress.ductai.xyz
 *.dukaree.com
 *.dummy280280.net
 *.dungk.com
@@ -361,6 +360,7 @@
 *.fastactionmedicalbilling.com
 *.fdmpkg.org
 *.feedbacksea.com
+*.fastdnkaaa.ffox.site
 *.financetoro.com
 *.financier.com
 *.flauntstaluhet.website
@@ -372,15 +372,15 @@
 *.freay.tech
 *.freconmieetfinances.com
 *.freetcp.com
-*.ftpvoyager.cc
+*.frezzyhook.com
 *.funletters.net
+*.www.roofing.galacticleads.com
 *.galandskiyher5.com
 *.gammalambdalambda.org
 *.result.garrettcountygranfondo.org
 *.hranp10.gbbs8.cc
 *.fadfa.gdalieyw.com
 *.gdylewski.pl
-*.gedebey-tvradio.info
 *.lmc.geeksroot.net
 *.www.bakirkoynakliyat.gen.tr
 *.geosetthudofak.cf
@@ -393,12 +393,11 @@
 *.pn-raha.go.id
 *.gobesitysurgery.com
 *.golancat.com
-*.gomlgaming.dev
 *.goodpltrmm.click
 *.goxsite.top
 *.granticket.com
+*.greenisco.com
 *.grupomasis.com
-*.orsan.gruporhynous.com
 *.grzegorzku.pl
 *.gthub.org
 *.gupshap.com
@@ -412,6 +411,7 @@
 *.heniekmusiol.pl
 *.hhiek.pl
 *.hicity.vn
+*.hitstation.nl
 *.hitsturbo.com
 *.hklae.pl
 *.hnalkhedmad.com
@@ -419,6 +419,7 @@
 *.homewrt.com
 *.hoster-test.ru
 *.hostigram.xyz
+*.houssagynecologue.com
 *.hseda.com
 *.hugeversapi.com
 *.hunggiang.vn
@@ -461,7 +462,6 @@
 *.isasecret.com
 *.ishahcouture.com
 *.islammagdy.com
-*.drive.google.com.it-barcelona.com
 *.itosha.top
 *.iyclm.in
 *.jaerg.pl
@@ -492,8 +492,10 @@
 *.lacasadelasrosas.com
 *.lameguard.ru
 *.lasikofmichigan.com
+*.lastimaners.ug
 *.latino9.com
 *.leeziptv.com
+*.lestandardsarl.com
 *.letgobefree.org
 *.lflink.com
 *.li1iv.com
@@ -512,7 +514,6 @@
 *.liqun.shop
 *.lisagos.pl
 *.listviewss.com
-*.livetrack.in
 *.llcdn.eu
 *.localbitcoin.us
 *.localto.net
@@ -543,17 +544,15 @@
 *.marcukesh.top
 *.marekgw.pl
 *.marksidfgs.ug
-*.marquesvogt.com
 *.masterch.top
 *.maticsurefmo.cf
-*.dienmay01.maudemo.com
 *.maxiimus.top
 *.maxmoney.com
 *.maxuikl.top
-*.maxximbrasil.com
 *.mbgrm.com
 *.mbmistaz.com
 *.medfioytrkdkcodlskeej.net
+*.meeweb.com
 *.mefound.com
 *.mensmem.buzz
 *.mentality.cloud
@@ -564,6 +563,7 @@
 *.metalpark.pt
 *.mfalkowska.pl
 *.ok3.mflve.com
+*.microsecurityupdate.com
 *.microsoftonline.services
 *.microsoftonlines.net
 *.360down7.miiyun.cn
@@ -574,6 +574,7 @@
 *.mls-test.ch
 *.mnoger.cf
 *.monikajoanna.pl
+*.moninediy.com
 *.more-power-tool.com
 *.mosthiborafgafu.tk
 *.mozillaupdates.us
@@ -602,7 +603,6 @@
 *.mynashvillestudio.com
 *.mynetav.com
 *.mys2018.xyz
-*.mysura.it
 *.namthaibinh.net
 *.nasdr.pl
 *.navercloud.org
@@ -632,7 +632,6 @@
 *.nvidiainspector.ru
 *.o7car.com
 *.obokay.com
-*.oceancityrentalbyowner.com
 *.oferta.us
 *.google.off.ai
 *.romatotti520.oicp.io
@@ -647,6 +646,7 @@
 *.orders94851.info
 *.krakowiak.org.pl
 *.nsb.org.uk
+*.pns.org.pk
 *.powiadomienia.org.pl
 *.orlcasablanca.com
 *.osa.pl
@@ -659,6 +659,7 @@
 *.layout.oystergardens.us
 *.sync.oystergardens.club
 *.dl.packetstormsecurity.net
+*.paingta.xyz
 *.pampopholf.com
 *.pcn.panddna.com
 *.parrotbay.net
@@ -688,6 +689,7 @@
 *.fadfatest.pneydn.com
 *.po9h4c.com
 *.pobetransh.com
+*.ponizinny.nl
 *.portmap.host
 *.posmicrosystems.com
 *.ws3.pph-server.de
@@ -695,7 +697,6 @@
 *.prestazione-eur.info
 *.prestigehomeautomation.net
 *.3233.privado.info
-*.proecologicsistem.com
 *.programmtrad.top
 *.programtts.top
 *.promakeupbyelizabeth.com
@@ -713,6 +714,8 @@
 *.qnotice.com
 *.qpoe.com
 *.quansj.cn
+*.quizbn.com
+*.rackoon.net
 *.rangshila.com
 *.rapiddns.ru
 *.rdwrtu.cn
@@ -725,9 +728,13 @@
 *.7fec6270ed.repl.co
 *.reservation80712.cloud
 *.resmi-id.art
+*.resourceedge.org
 *.rewardsgiant-au.com
+*.richterhi-tech.com
 *.ritikajoshi.com
 *.riva-tuner.com
+*.parallel.rockvideos.at
+*.rodhigital.com
 *.rollsbeer.com
 *.romvalstudios.com
 *.rowingmachine.sydney
@@ -737,7 +744,8 @@
 *.v207.ru.is
 *.ryzen-master.com
 *.sadeemapk.com
-*.apps.saintsoporte.com
+*.saf-oil.ru
+*.safetygear.pk
 *.sapphiretrixx.com
 *.saraa.shop
 *.sbytotsmasthersborrdi.cf
@@ -756,7 +764,6 @@
 *.servisaludocupacional.pe
 *.sevensmbk.is
 *.sga.bet
-*.shahu66.com
 *.shangtuke.cn
 *.shavsl.com
 *.shengen.ru
@@ -784,7 +791,6 @@
 *.ss.la
 *.sslblindado.com
 *.ssmailer.com
-*.starcountry.net
 *.starnetx.live
 *.stayinoceancitymd.com
 *.steamauthenticator.net
@@ -795,6 +801,7 @@
 *.stojanu.pl
 *.suakhoaketsattphcm.com
 *.succyarthyry.com
+*.sunglassesninja.com
 *.sunnysee.cc
 *.mongo87a.sweet-water.org
 *.temp.swtest.ru
@@ -803,7 +810,6 @@
 *.sysclearprom.space
 *.tabonyventures.com
 *.taxrefund.click
-*.tceducn.com
 *.techniguitare.com
 *.techofi.in
 *.techpowerup-gpu-z.com
@@ -814,7 +820,6 @@
 *.telelatino.app
 *.temptmag.com
 *.tengfeidn.com
-*.pan.tenire.com
 *.terbaru-2023.com
 *.test-hf.su
 *.tgehb.pl
@@ -830,7 +835,6 @@
 *.tissueyard.org
 *.tlsallpl.pl
 *.tmalltbw.com
-*.tmglawpalawan.com
 *.tomming.us
 *.lang.topteamlife.com
 *.loop.topteamlife.com
@@ -840,6 +844,7 @@
 *.weruvwer97.toshibanetcam.com
 *.toythieves.com
 *.tracking-pack-xd.com
+*.tradeinsights.net
 *.transportwojtowicz.pl
 *.timeline.transversallearning.com
 *.trivial.mx
@@ -872,6 +877,7 @@
 *.uzdarakchi.com
 *.vaishnaviinterior.com
 *.vape-resource.com
+*.vencord.xyz
 *.viayonetici.com
 *.videodaewoo.pw
 *.villala5nt.life
@@ -883,6 +889,7 @@
 *.vmlx98.codes
 *.vnmod.net
 *.vptriathlon.com
+*.hr2019.vrcom7.com
 *.vs.gy
 *.w0.pm
 *.walkindrivetoday.com

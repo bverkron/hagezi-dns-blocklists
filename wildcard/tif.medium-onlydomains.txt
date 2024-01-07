@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jan 2024 23:14 UTC
-# Version: 2024.0106.2314.39
+# Last modified: 07 Jan 2024 11:11 UTC
+# Version: 2024.0107.1111.44
 # Syntax: Domains (without subdomains)
-# Number of entries: 6874
+# Number of entries: 6889
 #
 000.pe
 000nethost.com
@@ -454,7 +454,6 @@ aq2e.com
 aqamerexfrugte.cf
 aqarsharjah.com
 aquafresh-ro.com
-aquaphobia.fr
 aquila-services.bg
 ar2shop.com
 arabi-onlinee.com
@@ -710,6 +709,7 @@ billingtonsafety.com
 newhampshireorphoenix.billsfamily.us
 bimmodeling.net
 binislamglobal.ae
+binzayan.com
 bioartstudio.dental
 bionicengineering.pk
 biovacperu.com
@@ -734,6 +734,7 @@ blahe.in
 blanchecatfight.com
 blitz-kukaj.de
 b00klng.blogspot.com
+bio0king.blogspot.com
 bo0king.blogspot.com
 busizinusa.blogspot.com
 documentacionrav003483980903884833.blogspot.com
@@ -741,6 +742,7 @@ exipedia.blogspot.com
 hopelnew24.blogspot.com
 hotelofficeewn.blogspot.com
 htloctmain.blogspot.com
+htloctmain25.blogspot.com
 mujib-store28.blogspot.com
 resutanur.blogspot.com
 blogwatchweb.com
@@ -850,6 +852,7 @@ buyukustalar.org
 bvbypswhds.com
 brianetaveras.byethost13.com
 byinter.net
+byra24.no
 c-csigns.com
 c-pathways.com
 dw.c4kdeliver.top
@@ -1082,7 +1085,6 @@ artejoy.co.in
 aryaninterior.co.in
 ascsolutions.co.za
 associatedwindowcleaners.co.uk
-atiasado.co.il
 awana.co.zw
 azurasuperheroes.co.id
 bakertilly.co.bw
@@ -1165,6 +1167,7 @@ eratek.co.id
 excelltronics.co.za
 excelon.co.ke
 erp.fastgas.co.ke
+fetchdesignprint.co.za
 finesseplates.co.uk
 finmug.co.ke
 fmclog.co.uk
@@ -1228,6 +1231,7 @@ jumabar.co.uk
 justalkalinewater.co.za
 kakaopv.co.kr
 kapinga.co.tz
+katrarailwaystation.co.in
 keodiengineeringltd.co.ke
 khanz.co.nz
 lakuiksong.known.co.ke
@@ -1265,7 +1269,6 @@ nadhariclinic.co.ke
 naessship.co.uk
 nafi.co.tz
 neofitness.co.id
-networkwheels.co.za
 nicholasoflondon.co.uk
 nickbodyworks.co.uk
 nicolewilliamsgossip.co.uk
@@ -1308,6 +1311,7 @@ redlineevents.co.uk
 regisschool.co.ke
 reliablerapidresponse.co.za
 renga.co.za
+renukaindustry.co.in
 mps.rfstaging.co.uk
 rileyfalconsecurity.co.ke
 romalimited.co.ke
@@ -1339,6 +1343,7 @@ smscaffold.co.uk
 soccerlite.co.uk
 sovereignadventures.co.ke
 spaceframe.mobi.space-frame.co.za
+spacetrack.co.tz
 sphynxbeds.co.uk
 squarechapel.co.uk
 sridgeauto.co.za
@@ -1525,6 +1530,7 @@ belkblast.com.au
 bellebutik.com.tr
 bemmequerartes.com.br
 benkztopup.com.ng
+bertam.com.my
 besevic.com.ng
 bestbondcleaning.com.au
 bhem.com.ng
@@ -1553,6 +1559,7 @@ campovalepet.com.br
 cantechnology.com.my
 cantorpeninha.com.br
 caocuongtravel.com.vn
+caopositivo.com.br
 capacitecbi.com.mx
 capsfactory.com.mx
 carads.com.bd
@@ -1701,6 +1708,7 @@ focussci.com.br
 fortalconnect.com.br
 freitasautocenter.com.br
 frenosa.com.pe
+frioborges.com.ve
 fronus.com.pk
 fundapp.com.ng
 fusaopre.com.br
@@ -1741,6 +1749,7 @@ hambudata.com.ng
 hamlekundekari.com.tr
 hapvidacaruaru.com.br
 harvesttyres.com.au
+haulmaxtyres.com.au
 havinsk.com.br
 herchinfitout.com.sg
 hey-randomgirl.com.br
@@ -1787,6 +1796,7 @@ jandjtowingliverpool.com.au
 jcsengenhariacivil.com.br
 jekinformatica.com.br
 jjbpo.com.co
+jjjbros.com.au
 jmai.com.na
 jmbordados.com.br
 joinvilleseguranca.com.br
@@ -1901,6 +1911,7 @@ networthwhistler.com.ng
 newandin.com.co
 newparts.com.tr
 newversion.com.af
+nexcreations.com.sg
 norsworthy.com.ng
 novadrop.com.br
 nowmkt.com.br
@@ -2246,6 +2257,7 @@ dairmex.com
 daiwa.ventures
 daj8.me
 dalaibeauty.com
+damarplus.ro
 damaviola.it
 dambbel.ir
 danakildepressiontours.com
@@ -2327,6 +2339,7 @@ desdeelsentir.cl
 design-kerites.hu
 designcollections.pe
 designideation.tech
+dessertartbydeepali.com
 dessur.mx
 destinyrestorationassociation.org
 detoyprojects.net
@@ -2456,7 +2469,7 @@ server72.dosya.co
 dotcombroadband.net
 download.doumaibiji.cn
 dousen.co
-down-flash.com
+downloayxkemam.sbs
 files2.dp.ua
 dpecalgerie.com
 dphcp.org
@@ -2494,6 +2507,7 @@ dtccsf.org
 dti.lk
 dubai-watertanker.com
 dubaiblindscurtains.ae
+dubaishop.site
 dubbed.space
 dubovoy.news
 duchessefit.com
@@ -2574,6 +2588,7 @@ colegioparroquialaconsolata.edu.co
 csil.edu.pe
 ctep.edu.co
 cuc.edu.eg
+deukhurimultiplecampus.edu.np
 dvc.edu.vn
 bologna.epu.edu.iq
 skmtest.era.edu.my
@@ -2584,6 +2599,7 @@ hassanacademy.edu.pk
 icphs.edu.pk
 idealschoolburhanpur.edu.in
 iesanisidrodechocho.edu.co
+institutotolosa.edu.mx
 interpol.edu.pl
 iskl.edu.pk
 staging.ivet.edu.au
@@ -2627,6 +2643,7 @@ techandtrendy.edu.np
 thcsphuongmai.edu.vn
 tkh.edu.pk
 trinityuniversity.edu.ng
+ttc.edu.sg
 faculty.um.edu.sa
 whgs.edu.pk
 wing.edu.my
@@ -2790,6 +2807,7 @@ ethio-health.com
 ethiopianmiceassociation.com
 ethiotechaddis.com
 etiquetaspiura.com
+etumaxgulf.com
 pgp.eu.com
 eu3.org
 eurologistic.am
@@ -2862,13 +2880,10 @@ adf.faqserv.com
 adffs.faqserv.com
 adir.faqserv.com
 adl-ap.faqserv.com
-adl-bn.faqserv.com
 adl-fot.faqserv.com
 adl-gga.faqserv.com
 adl-gsq.faqserv.com
 adl-hg.faqserv.com
-adl-hjh.faqserv.com
-adl-j.faqserv.com
 adl-ljh.faqserv.com
 adl-shm.faqserv.com
 adl-ue.faqserv.com
@@ -2917,7 +2932,6 @@ e.faqserv.com
 ebc.faqserv.com
 ebd.faqserv.com
 ebf.faqserv.com
-eblag.faqserv.com
 edalat.faqserv.com
 edb.faqserv.com
 eds.faqserv.com
@@ -2932,7 +2946,6 @@ fsa.faqserv.com
 ir-an.faqserv.com
 iran-qa.faqserv.com
 irhsh.faqserv.com
-l-adl.faqserv.com
 lliean.faqserv.com
 rbm.faqserv.com
 ref.faqserv.com
@@ -2942,10 +2955,8 @@ s-ir.faqserv.com
 saf.faqserv.com
 sah.faqserv.com
 sahaam.faqserv.com
-sahama.faqserv.com
 sahgs.faqserv.com
 sahmn.faqserv.com
-sahmnl.faqserv.com
 sam.faqserv.com
 sat.faqserv.com
 sba.faqserv.com
@@ -2985,14 +2996,7 @@ zds.faqserv.com
 faregadget.com
 a-iran.fartit.com
 adf-za.fartit.com
-adl-am.fartit.com
-adl-bn.fartit.com
-adl-cl.fartit.com
 adl-flk.fartit.com
-adl-gn.fartit.com
-adl-gq.fartit.com
-adl-hv.fartit.com
-adl-irn.fartit.com
 adl-irna.fartit.com
 adl-oi.fartit.com
 adl-qda.fartit.com
@@ -3001,8 +3005,6 @@ adl-qo.fartit.com
 adl-qps.fartit.com
 adl-qqu.fartit.com
 adl-sa.fartit.com
-adl-sahml.fartit.com
-adl-zq.fartit.com
 adle.fartit.com
 adlggs.fartit.com
 adlh-sn.fartit.com
@@ -3041,7 +3043,6 @@ sahdm.fartit.com
 sahmbe.fartit.com
 sahmn.fartit.com
 sahmnu.fartit.com
-sahmnwq.fartit.com
 scv.fartit.com
 sdc.fartit.com
 sdhm.fartit.com
@@ -3255,7 +3256,6 @@ gdlrdc.com
 gdom.org
 gdylewski.pl
 geburtstagswunsche.co
-gedebey-tvradio.info
 lmc.geeksroot.net
 geete-dz.com
 gelsynergysolutions.com
@@ -3338,6 +3338,7 @@ gnncoautoparts.com
 pa-sampit.go.id
 pn-raha.go.id
 pt-bali.go.id
+smpn41.semarangkota.go.id
 goastudios.com
 alcaldiaelhatillo.gob.ve
 atlacomulco.gob.mx
@@ -3389,6 +3390,7 @@ cshms.kp.gov.pk
 hd.kp.gov.pk
 mpcp.kp.gov.pk
 naflqml.gov.np
+njc.gov.ng
 dev.oni.gov.ge
 salemcorporation.gov.in
 spsc.sudurpashchim.gov.np
@@ -3415,6 +3417,7 @@ greenglobalbenefittrade.com
 greenisco.com
 greenrootslandscaping.ae
 greenserenity.ca
+greentechelectric.eu
 greenteech.com
 grehlingerssealcoating.com
 grempartners.com
@@ -3554,6 +3557,7 @@ hiro-af.org
 naniwa-ginzaaward.hisaki-design.com
 historiasdelescarabajo.com
 hitechhomes.ca
+hitstation.nl
 hitsturbo.com
 running.hkcosmo.com
 hklae.pl
@@ -3797,7 +3801,6 @@ israrliaqat.com
 istaffrecruits.com
 istanasemer.com
 isteonline.org
-drive.google.com.it-barcelona.com
 italianpipemakers.com
 italianplanters.com
 itea-rwanda.com
@@ -3959,6 +3962,7 @@ kalaiyatv.com
 kalkandigital.com
 kaloriferbacasi.com
 kalp-s.com
+kalpavirutchamfoundation.org
 kambohsoftec.com
 kameleonprinting.com
 kamura.pl
@@ -3982,6 +3986,7 @@ karyaindahperkasa.com
 karyasolusi.com
 kashishguptafitness.com
 texasmtboston.kasinoraha.com
+katabononline.com
 kataeno.com
 katedraproducciones.com
 kathmanducentral.com
@@ -4135,10 +4140,12 @@ washingtontxtopeka.learnmoneymakingskills.com
 learnxeducation.com
 lebens-elemente.com
 leconsingpublicidad.com
+ledsun-eg.com
 sdey8.leecocelullares.quest
 leeziptv.com
 legaltransportes.cl
 lehengascholi.in
+lehner.biz
 preprod.lelit.fr
 lelivrepourarreterdefumer.com
 lemedinst.com
@@ -4578,7 +4585,6 @@ mphasistech.com
 mpvworld.com
 mq-lounge.com
 adl-sam.mrbasic.com
-adl-vb.mrbasic.com
 adl-vvs.mrbasic.com
 adloi.mrbasic.com
 adlr.mrbasic.com
@@ -4656,9 +4662,7 @@ ureana.my.id
 webppphpp.my.id
 my-xppen.com
 my0115.ru
-adl-bn.my03.com
 adlv.my03.com
-eblagh.my03.com
 ed-ib.my03.com
 edsd.my03.com
 ir-edalat.my03.com
@@ -4697,7 +4701,6 @@ adlsfa.mynetav.org
 adlshq.mynetav.org
 asdw.mynetav.org
 e-h-r-a-z-i-61.mynetav.org
-ir-bn.mynetav.org
 myoldcountryhouse.com
 myown.ng
 mypressonline.com
@@ -4780,6 +4783,7 @@ emprotel.net.bo
 founders.net.au
 internetareal.net.br
 lindsays.net.au
+melbournerollershutters.net.au
 powercomputer.net.co
 primetechnologies.net.pk
 railway.net.tw
@@ -5005,6 +5009,7 @@ cannamed.org.za
 casadelteatro.org.co
 cecan.org.br
 cid.org.ng
+creapb.org.br
 daumay.org.vn
 disobedience.org.uk
 educa.org.do
@@ -5027,6 +5032,7 @@ nmpsr.org.ng
 nsb.org.uk
 osam.org.ar
 pcfa.org.my
+pns.org.pk
 powiadomienia.org.pl
 revangenclik.org.az
 santaritasjc.org.br
@@ -5135,6 +5141,7 @@ paste-bin.xyz
 path4hosts.com
 patmypets.com
 patos.mx
+patrialand.com
 patrickforeilly.com
 patricksaccounting.com
 pattoverascienza.com
@@ -5306,7 +5313,6 @@ printingssolutions.com
 printtechbd.com
 priorityhomewarranty.com
 3233.privado.info
-prnts.cc
 pro-steam.eu
 proalsa-sa.com
 proaug.com
@@ -5609,6 +5615,7 @@ saf-oil.ru
 safarpanda.com
 safawear.com
 saferelocationpackers.com
+safetygear.pk
 safha.co
 sagheur.top
 sagksa.com
@@ -5701,6 +5708,7 @@ scientificatiles.com
 scincormatize.com
 scoutsjalisco.org
 new.scratch-build.com
+screeninghive.com
 scribdbook.top
 scuba.camera
 sds.pe
@@ -5761,6 +5769,7 @@ sge-sarlu.com
 sgnscg.com
 sgpolyerp.in
 sgs-gabon.com
+shaadow.net
 shaffaf.pk
 shahab.pk
 shahabians.com
@@ -5896,6 +5905,7 @@ sms13.de
 smsfunny.ir
 smzt.shop
 snapify.space
+snappretail.io
 sncfashionbeats.com
 snfpk.com
 sngie.ml
@@ -5923,6 +5933,7 @@ solutionforum.au
 solutionsinengineering.com
 solutionze.com
 somosmejortv.com
+somoyerdarpon.com
 somoyerkagoj.com
 sondoscamisas.com
 sonnenkirche.de
@@ -6021,6 +6032,7 @@ stmariascovenantschool.com
 stocksamachar.com
 stocksstudy.com
 stojanu.pl
+story2kids.com
 stracons.org
 strainernozzle.com
 stranici-imobiliare.ro
@@ -6470,6 +6482,7 @@ uniformescorporativos.com
 test.uniformmarkets.com
 unikrobot.com
 unimerfertilizzanti.it
+unioneterna.com
 uniquecolleges.com
 uniquepainters.in
 uniqueschoolbetul.com
@@ -6539,6 +6552,7 @@ vectribeagency.com
 vedetaavon.ro
 veken.de
 vemas.mx
+vencord.xyz
 vente-outillages.com
 venticas.net
 venturesnepal.com
@@ -6778,6 +6792,7 @@ xtractis.us
 xtremefrenchbulldogs.com
 xuezha.cn
 xuyentri.com
+xv-fiesta.com
 xxuz.com
 yakislar.com
 yamaclis.com
