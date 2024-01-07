@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 06 Jan 2024 22:40 UTC
-# Version: 2024.0106.2240.23
+# Last modified: 07 Jan 2024 10:37 UTC
+# Version: 2024.0107.1037.41
 # Syntax: DNSMasq
-# Number of entries: 150361
+# Number of entries: 150385
 #
 address=/000000.com/#
 address=/000000hd.com/#
@@ -45927,6 +45927,7 @@ address=/558865.com/#
 address=/5588696.com/#
 address=/558880.com/#
 address=/55888177.com/#
+address=/55888slot.com/#
 address=/558895.com/#
 address=/5588dabao.com/#
 address=/5588hv.com/#
@@ -64070,6 +64071,7 @@ address=/7788830.com/#
 address=/7788840.com/#
 address=/7788848.com/#
 address=/778888888.com/#
+address=/77888slot.com/#
 address=/7788904.com/#
 address=/7788930.com/#
 address=/7788939.com/#
@@ -72698,6 +72700,17 @@ address=/888poker.com/#
 address=/888promos.com/#
 address=/888qp66.com/#
 address=/888s1xbet.com/#
+address=/888slot00.com/#
+address=/888slot025.com/#
+address=/888slot07.com/#
+address=/888slot11.com/#
+address=/888slot116.com/#
+address=/888slot22.com/#
+address=/888slot33.com/#
+address=/888slot44.com/#
+address=/888slot66.com/#
+address=/888slot77.com/#
+address=/888slot99.com/#
 address=/888sport.com/#
 address=/888sport.it/#
 address=/888starz.bet/#
@@ -89529,6 +89542,7 @@ address=/bigk8vn.live/#
 address=/bigleaguekr.com/#
 address=/bigmatch2win.com/#
 address=/bigmatch88.com/#
+address=/bignumberfalling.com/#
 address=/bigowinn.com/#
 address=/bigpokiewins.com/#
 address=/bigpotslot.biz/#
@@ -94335,6 +94349,7 @@ address=/choifun88.com/#
 address=/choifun88.net/#
 address=/choigame88.com/#
 address=/choigame90.com/#
+address=/choigamevua.club/#
 address=/choigiaitri.net/#
 address=/choihay.vip/#
 address=/choihitclub.fun/#
@@ -107025,6 +107040,7 @@ address=/ho18.net/#
 address=/ho518.net/#
 address=/hoabanh.com/#
 address=/hoabanh88.com/#
+address=/hoacoomay.com/#
 address=/hoahao.vip/#
 address=/hoappasla.com/#
 address=/hobi777.org/#
@@ -138945,6 +138961,7 @@ address=/vip7787.com/#
 address=/vip77880.com/#
 address=/vip7816.com/#
 address=/vip78930.com/#
+address=/mzn.vip789621.com/#
 address=/vip7922.com/#
 address=/vip7991.com/#
 address=/vip7993.com/#
@@ -139745,6 +139762,13 @@ address=/vtzyx07t.vip/#
 address=/vu-betredirect1.com/#
 address=/vu3542.com/#
 address=/vu5sp.com/#
+address=/vua2.club/#
+address=/authen.vua2-ldp.com/#
+address=/cskh.vua2-ldp.com/#
+address=/fb.vua2-ldp.com/#
+address=/group.vua2-ldp.com/#
+address=/lobby.vua2-ldp.com/#
+address=/vua69.com/#
 address=/vua88.club/#
 address=/vuabai9.com/#
 address=/vuabai999.com/#
