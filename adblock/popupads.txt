@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 07 Jan 2024 09:56 UTC
-! Version: 2024.0107.0956.43
+! Last modified: 07 Jan 2024 21:45 UTC
+! Version: 2024.0107.2145.30
 ! Syntax: AdBlock
-! Number of entries: 73207
+! Number of entries: 73235
 !
 ||0.beer^
 ||0.club^
@@ -6849,6 +6849,7 @@
 ||ablatesgascon.cam^
 ||ableaborah.com^
 ||ableandworld.info^
+||abletoprese.org^
 ||ablitleoor.com^
 ||abljusxzahul.com^
 ||ablogica.com^
@@ -11237,6 +11238,7 @@
 ||attributefallen.com^
 ||attritioncombustible.com^
 ||attunebarberreality.com^
+||atuakaiwi.uno^
 ||atulyabharatrun.com^
 ||atulyastore.com^
 ||atvotrargluc.com^
@@ -12486,6 +12488,7 @@
 ||baxascpkean.com^
 ||baxotjdtesah.com^
 ||bayalnephite.com^
+||bayanocityish.uno^
 ||baycolonybiltmore.com^
 ||baycompaniesautostudio.com^
 ||bayesianintelligence.com^
@@ -13662,6 +13665,7 @@
 ||birchtreesafety.com^
 ||birchwigkidney.com^
 ||birdas.com^
+||birdmencomicry.uno^
 ||birdnavy.com^
 ||birdsofladakh.com^
 ||birdtears.com^
@@ -20863,6 +20867,7 @@
 ||cruzeciatech.com^
 ||tags.crwdcntrl.net^
 ||cryclerkwords.com^
+||cryingforanythi.com^
 ||cryingtherefore.com^
 ||cryllex.org^
 ||nu.cryogencafiz.com^
@@ -24125,6 +24130,7 @@
 ||dsfjhfhyry2hh8jo09.com^
 ||dsgstar.com^
 ||dsicollegegangoh.in^
+||dsixipuj.com^
 ||dsjxs.yt^
 ||dsnamemayings.cfd^
 ||dsnextgen.com^
@@ -26221,6 +26227,7 @@
 ||etalerestomicro.com^
 ||etangvietnam.digital^
 ||etapescaisse.com^
+||etcherpalila.life^
 ||etcodes.com^
 ||etcpl.net^
 ||eteachacademy.com^
@@ -27352,6 +27359,7 @@
 ||featbankrupthide.com^
 ||featbooksterile.com^
 ||featherguard.com^
+||featlyforthy.top^
 ||featue.com^
 ||featurelink.com^
 ||featureslounge.com^
@@ -28506,6 +28514,7 @@
 ||forbiddenuneasy.com^
 ||forblanc.com^
 ||forbledforcet.uno^
+||forbledpukras.top^
 ||forcealetell.com^
 ||forced-lose.de^
 ||forceddenial.com^
@@ -29098,6 +29107,7 @@
 ||ftvcapital.at^
 ||ftvcapital.la^
 ||ftvcapital.uk^
+||ftvszarpfvecjf.com^
 ||ftwjubad.com^
 ||p.ftwpcn.com^
 ||fubnhuqima.com^
@@ -40261,6 +40271,7 @@
 ||liquidroll.com^
 ||liquidtraffic.id^
 ||liquorsref.com^
+||liquorstils.top^
 ||liqurhys.xyz^
 ||lira.london^
 ||lirateblister.com^
@@ -43828,6 +43839,7 @@
 ||mooxar.com^
 ||mopedisods.com^
 ||mopefrequent.com^
+||mopeia.xyz^
 ||mopemodelingfrown.com^
 ||mopesupportrefine.com^
 ||mopiehitz.com^
@@ -43961,6 +43973,7 @@
 ||mounct.com^
 ||moundgrandmotherel.com^
 ||mounir-mouracade.com^
+||mounraro.com^
 ||mountainbali.com^
 ||mountainbender.xyz^
 ||mountaincaller.top^
@@ -44577,6 +44590,7 @@
 ||myhugewords.com^
 ||myhypeposts.com^
 ||myhypestories.com^
+||myhzndxsndppx.com^
 ||myimagetracking.com^
 ||myindiatourist.com^
 ||myioushe.com^
@@ -45196,6 +45210,7 @@
 ||necropolis.city^
 ||nectardoodled.com^
 ||nectonyez.life^
+||neczdhps.com^
 ||nedandlooked.org^
 ||nedaughablelead.info^
 ||nedestablish.com^
@@ -45851,6 +45866,7 @@
 ||nicoblockturkey.com^
 ||nicobrew.com^
 ||nicoll.ca^
+||nicolotonettomanagement.com^
 ||nicorank.net^
 ||nicsorts-accarade.com^
 ||nicthei.com^
@@ -50002,6 +50018,7 @@
 ||pgshraap.com^
 ||pgssl.com^
 ||pgumnlqy.com^
+||pguopvgje.com^
 ||pgwalebooking.com^
 ||pgwcrtobrdjx.com^
 ||pgwlzodsll.com^
@@ -54605,6 +54622,7 @@
 ||remotelyoccasionallyfacing.com^
 ||remotepwn.com^
 ||remoteriders.com^
+||removalvoraz.top^
 ||removeclickfunnels.com^
 ||removedcommaexcavate.com^
 ||removedispel.com^
@@ -55047,6 +55065,7 @@
 ||revoirdyingly.digital^
 ||revokepolygraph.com^
 ||revolutionbeseech.com^
+||revolveclothingclearance.com^
 ||revolvemockerycopper.com^
 ||revolveoppress.com^
 ||revolvinglove.us^
@@ -55075,6 +55094,7 @@
 ||rewqpqa.link^
 ||rewqpqa.net^
 ||rewqpqa.org^
+||rewwlzjmj.com^
 ||rexbucks.com^
 ||rexelita.it^
 ||rexsrv.com^
@@ -59583,6 +59603,7 @@
 ||sneezeinterview.com^
 ||snehilfoundation.com^
 ||snelpy.com^
+||snhtvtp.com^
 ||snicherchitra.space^
 ||snidethereto.com^
 ||sniffedheavensupervise.com^
@@ -63012,6 +63033,7 @@
 ||tehras.com^
 ||tehsilpatrol.guru^
 ||teiegram.app^
+||tejanoyerked.top^
 ||tejasmargaritas.com^
 ||tejasvyasam.com^
 ||tejgyan.app^
@@ -66390,6 +66412,7 @@
 ||tyhetygi.com^
 ||tyingentered.com^
 ||tykhanaumbrana.life^
+||tykidrfhpkc.com^
 ||tykoliz.com^
 ||tylerandskye.shop^
 ||tylerbusinessflex.com^
@@ -70126,6 +70149,7 @@
 ||whitgodship.com^
 ||whitmanrecocks.uno^
 ||whittenchorded.com^
+||whittlenonoily.top^
 ||whitts.xyz^
 ||whizduly.com^
 ||whizpug.com^
@@ -70995,6 +71019,7 @@
 ||wscakdn.website^
 ||wse234.com^
 ||wsegllelygqqv.xyz^
+||wsejsoqdmdzcvr.com^
 ||wsfcs.net^
 ||wsgmcgtbvky.com^
 ||wshosting.cz^
@@ -71463,6 +71488,7 @@
 ||xjavarsousl.tech^
 ||xjdjd.com^
 ||xjfbhxp.com^
+||xjlukrsm.com^
 ||xjrijeab.top^
 ||xjrwxfdphc.com^
 ||xjsqhlfscjxo.com^
@@ -71608,6 +71634,7 @@
 ||xqfwhxbfxhpjko.com^
 ||xqydapp.com^
 ||xqzwtvjkjj.com^
+||xrbgxfcxraulkxn.com^
 ||xrgvn.tech^
 ||xrhci.space^
 ||xrossfoods.com^
@@ -72101,6 +72128,7 @@
 ||ynaapihbulbky.com^
 ||yneationsliee.xyz^
 ||ynfsiosdt.com^
+||ynieeluebt.com^
 ||ynklendr.online^
 ||ynleeqgudghah.com^
 ||ynlssc.com^
