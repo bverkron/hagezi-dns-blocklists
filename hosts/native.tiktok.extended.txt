@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 06 Jan 2024 22:51 UTC
-# Version: 2024.0106.2251.54
+# Last modified: 07 Jan 2024 10:49 UTC
+# Version: 2024.0107.1049.13
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 404
+# Number of entries: 407
 #
 0.0.0.0 docs-frontier-sg.byteoversea.com
 0.0.0.0 frontier.byteoversea.com
@@ -117,8 +117,10 @@
 0.0.0.0 12691274.ads.tiktok.com
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-frontier.tiktok.com
+0.0.0.0 222.ads-frontier.tiktok.com
 0.0.0.0 227.ads-frontier.tiktok.com
 0.0.0.0 com.ads-frontier.tiktok.com
+0.0.0.0 dsl.ads-frontier.tiktok.com
 0.0.0.0 ppp.ads-frontier.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 analytics.tiktok.com
@@ -169,6 +171,7 @@
 0.0.0.0 frontier-my2.tiktokv.com
 0.0.0.0 frontier-phx.tiktokv.com
 0.0.0.0 frontier-ru.tiktokv.com
+0.0.0.0 frontier-test.tiktokv.com
 0.0.0.0 frontier-test1.tiktokv.com
 0.0.0.0 frontier-va.tiktokv.com
 0.0.0.0 frontier15-normal.tiktokv.com
