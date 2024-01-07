@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Jan 2024 11:11 UTC
-# Version: 2024.0107.1111.44
+# Last modified: 07 Jan 2024 22:57 UTC
+# Version: 2024.0107.2257.46
 # Syntax: Domains (without subdomains)
-# Number of entries: 6889
+# Number of entries: 6874
 #
 000.pe
 000nethost.com
@@ -19,7 +19,6 @@ pepelu-staging.01staging.site
 soft.110route.com
 1395867912.pw
 17110.com
-179527.com
 dl.198424.com
 19dm82.info
 i9t5qw.db.files.1drv.com
@@ -107,7 +106,6 @@ ab-pensiones.com
 abcdelectricity.com
 abcdserver.com
 abcomunicacionesperu.com
-vn.abcxzy.com
 abdulkhaleque.in
 abeseguros.com
 abhayawelfare.com
@@ -242,7 +240,6 @@ aimhigh-global.com
 aioecoin.org
 aiqonsb.com
 airesdemoscatel.com
-airhobi.com
 airmoney9ja.com
 airoutlaw.com
 airtimes.my
@@ -478,7 +475,6 @@ ariamedical.ir
 arigotechnologies.com
 arihantinfrastructure.com
 arinosolidale.org
-aristonbentre.com
 arkinfonet.com
 arm-cc.com
 arnsms.ir
@@ -1269,6 +1265,7 @@ nadhariclinic.co.ke
 naessship.co.uk
 nafi.co.tz
 neofitness.co.id
+networkwheels.co.za
 nicholasoflondon.co.uk
 nickbodyworks.co.uk
 nicolewilliamsgossip.co.uk
@@ -2155,7 +2152,6 @@ computernetworkteam.com
 computershop.cl
 comunidadinclusiva.cl
 concept4arc.com
-concreteprinciplesdesign.com
 conf1g.com
 conglyan.com
 conjureup.ca
@@ -2471,7 +2467,6 @@ download.doumaibiji.cn
 dousen.co
 downloayxkemam.sbs
 files2.dp.ua
-dpecalgerie.com
 dphcp.org
 dpls.ir
 dpp.hn
@@ -2516,7 +2511,6 @@ remccoss2023.duckdns.org
 remcoss2023.duckdns.org
 rxrr.duckdns.org
 tfdko3okrs.duckdns.org
-wordpress.ductai.xyz
 dudicyqehama.top
 dukaaaan.com
 dukaree.com
@@ -2683,7 +2677,6 @@ ekopak.az
 ekproducciones.com
 eksad.com
 ekswood.com
-et3.ektpnc.com
 el-ahmaddeme.sn
 elaichiwala.com
 elansquare.co
@@ -2715,7 +2708,6 @@ elorait.com
 eloxeweb.ro
 elpallets.com
 elsafeer.travel
-elvalledetarrazu.com
 elyonpro.com
 emandmore.hu
 emdservicios.cl
@@ -3256,6 +3248,7 @@ gdlrdc.com
 gdom.org
 gdylewski.pl
 geburtstagswunsche.co
+gedebey-tvradio.info
 lmc.geeksroot.net
 geete-dz.com
 gelsynergysolutions.com
@@ -3282,7 +3275,6 @@ getamericanclasshelp.com
 p44.p3.n0.cdn.getcloudapp.com
 getesolutions.com
 getimmobilier.com
-getmega.net
 getplayshow.com
 getsviip7.com
 gfnpssijmr.com
@@ -3308,7 +3300,6 @@ siparisler.github.io
 givemevideo.com
 given-itm.com
 giwayshans.lk
-giyahgostar.com
 giyotinmakasi.com
 gjvhost.com
 hed.gkp.pk
@@ -3801,6 +3792,7 @@ israrliaqat.com
 istaffrecruits.com
 istanasemer.com
 isteonline.org
+drive.google.com.it-barcelona.com
 italianpipemakers.com
 italianplanters.com
 itea-rwanda.com
@@ -4211,10 +4203,8 @@ listviewss.com
 litestudios.us
 littlecoveresort.com
 littlestarcasting.com
-juntadeconfrariesdese.live-website.com
 livescorekapuas88.com
 liveskorhdp.com
-livetrack.in
 livework.in
 livmesilovess.pro
 livverr.com
@@ -4520,7 +4510,6 @@ mittnyahem.com
 mixer-novostei.ru
 mixit-sound.com
 mkrissd.pl
-mkstat227.xyz
 mktrex219.xyz
 mls-test.ch
 mmcctechnology.com
@@ -4974,8 +4963,6 @@ oo000oo.club
 ooolowokureandco.org
 oops.best
 opal.rw
-opesjk.ug
-opolis.io
 opsol.com
 opticienregard.com
 optimacosmetics.rs
@@ -5520,7 +5507,6 @@ rhiviephotography.com
 riage.fr
 ricc.in
 richardhoefer.com
-richterhi-tech.com
 ridgemedicalcentre.com
 rightcarquote.com
 rimatextile.com
@@ -6482,7 +6468,6 @@ uniformescorporativos.com
 test.uniformmarkets.com
 unikrobot.com
 unimerfertilizzanti.it
-unioneterna.com
 uniquecolleges.com
 uniquepainters.in
 uniqueschoolbetul.com
