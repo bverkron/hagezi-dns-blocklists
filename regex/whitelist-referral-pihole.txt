@@ -5,8 +5,10 @@
 (\.|^)3cinteractive\.com$
 (\.|^)7eer\.net$
 (\.|^)a1\.adform\.net$
-(\.|^)a1\.adformnet\.akadns\.net$
-(\.|^)aax.*\.amazon\..*$
+(\.|^)aax.*\.amazon\.cn$
+(\.|^)aax.*\.amazon\.com$
+(\.|^)aax\-eu\.amazon\..*$
+(\.|^)aax\-fe\.amazon\..*$
 (\.|^)aax\-.*\-retail\-direct\.amazon\-adsystem\.com$
 (\.|^)ab1n\.net$
 (\.|^)ablink\.email\.etsy\.com$
@@ -15,19 +17,7 @@
 (\.|^)accesstrade\.net$
 (\.|^)acemlnb\.com$
 (\.|^)action\.metaffiliation\.com$
-(\.|^)ad11\.adfarm1\.adition\.com$
-(\.|^)ad11p\.adfarm1\.adition\.com$
-(\.|^)ad13\.adfarm1\.adition\.com$
-(\.|^)ad1\.adfarm1\.adition\.com$
-(\.|^)ad2\.adfarm1\.adition\.com$
-(\.|^)ad3\.adfarm1\.adition\.com$
-(\.|^)ad4\.adfarm1\.adition\.com$
-(\.|^)ad5\.adfarm1\.adition\.com$
-(\.|^)ad6\.adfarm1\.adition\.com$
-(\.|^)ad71\.adfarm1\.adition\.com$
-(\.|^)ad7\.adfarm1\.adition\.com$
-(\.|^)ad8\.adfarm1\.adition\.com$
-(\.|^)ad9\.adfarm1\.adition\.com$
+(\.|^)ad.*\.adfarm1\.adition\.com$
 (\.|^)ad\.admitad\.com$
 (\.|^)ad\.atdmt\.com$
 (\.|^)ad\.doubleclick\.net$
@@ -77,7 +67,6 @@
 (\.|^)bfast\.com$
 (\.|^)bizrate\.com$
 (\.|^)bnc\.lt$
-(\.|^)bs\.eyeblaster\.akadns\.net$
 (\.|^)bs\.serving\-sys\.com$
 (\.|^)buff\.ly$
 (\.|^)campaign\.adobe\.com$
@@ -142,7 +131,6 @@
 (\.|^)click\.zoom\.us$
 (\.|^)clk\.boulanger\.com$
 (\.|^)clk\.omgt3\.com$
-(\.|^)clk.*\.tradedoubler\.com$
 (\.|^)cloudmail.*\.netcore\.co\.in$
 (\.|^)cm\.naukri\.com$
 (\.|^)c\.msn\.com$
@@ -165,7 +153,6 @@
 (\.|^)customtraffic\.impactradius\.com$
 (\.|^)c\.webengage\.com$
 (\.|^)d\.agkn\.com$
-(\.|^)dart\.l\.doubleclick\.net$
 (\.|^)data\.digital\.costco\.com$
 (\.|^)disneyplus\.bn5x\.net$
 (\.|^)dominos\.sng\.link$
@@ -174,7 +161,8 @@
 (\.|^)ea\.galerieslafayette\.com$
 (\.|^)ek.*\.voyage\-prive\.com$
 (\.|^)email\-.*\.adguard\.com$
-(\.|^)email\-.*\.adtidy\..*$
+(\.|^)email\-.*\.adtidy\.net$
+(\.|^)email\-.*\.adtidy\.org$
 (\.|^)email\.docker\.com$
 (\.|^)email\.microsoft.*\.com$
 (\.|^)email\.namebase\.io$
@@ -191,7 +179,6 @@
 (\.|^)eu.*\.thunderhead\.com$
 (\.|^)events\.release\.narrativ\.com$
 (\.|^)evyy\.net$
-(\.|^)exacttarget\.com\.edgekey\.net$
 (\.|^)fr135\.net$
 (\.|^)geo.*\.presslabs\.net$
 (\.|^)ggopjn\.com$
@@ -271,10 +258,7 @@
 (\.|^)online\.adservicemedia\.dk$
 (\.|^)online\.digital\-advisor\.com$
 (\.|^)open\.spotify\.com$
-(\.|^)pagead46\.l\.doubleclick\.net$
-(\.|^)pagead\.l\.doubleclick\.net$
 (\.|^)partners.*\.stacksocial\.com$
-(\.|^)pdt\.tradedoubler\.com$
 (\.|^)pepperjamnetwork\.com$
 (\.|^)personaclick\.com$
 (\.|^)pi\.pardot\.com$
@@ -305,7 +289,6 @@
 (\.|^)redirector\.eservice\.emarsys\.net$
 (\.|^)redirect.*\.tagcommander\.com$
 (\.|^)redirect\.viglink\.com$
-(\.|^)redir.*\.tradedoubler\.com$
 (\.|^)referrer\.disqus\.com$
 (\.|^)r.*\.rs6\.net$
 (\.|^)r\.srvtrck\.com$
@@ -320,7 +303,6 @@
 (\.|^)shop\-links\.co$
 (\.|^)sites\.hscoscdn.*\.net$
 (\.|^)slickdeals\.net$
-(\.|^)solutions\.tradedoubler\.com$
 (\.|^)solution\.weborama\.fr$
 (\.|^)static\.cleverpush\.com$
 (\.|^)stvkr\.com$
@@ -352,7 +334,6 @@
 (\.|^)track\.adform\.net$
 (\.|^)track\.adtraction\.com$
 (\.|^)track\.canva\.com$
-(\.|^)track\.cj\.akadns\.net$
 (\.|^)trackcmp\.net$
 (\.|^)track.*\.customer\.io$
 (\.|^)track.*\.effiliation\.com$
@@ -372,6 +353,7 @@
 (\.|^)track\.shoparize\.com$
 (\.|^)track\.smtp2go\.net$
 (\.|^)track.*\.webgains\.team$
+(\.|^)tradedoubler\.com$
 (\.|^)trk\.ecomm\.lenovo\.com$
 (\.|^)trk\.specialized\.com$
 (\.|^)tr\.rdrtr\.com$
