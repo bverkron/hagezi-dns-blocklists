@@ -188,6 +188,7 @@ https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/H
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
 https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_all_bets_are_off
+https://raw.githubusercontent.com/Neo23x0/signature-base/master/iocs/c2-iocs.txt
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/nextdns/ddns-domains/main/suffixes
 https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/apple-private-relay
@@ -221,6 +222,7 @@ https://raw.githubusercontent.com/RandomAdversary/Macedonian-adBlock-Filters/mas
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ahnlab.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-akamai.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-alienlabs.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-amnenstytech.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-bitdefender.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-bsi.txt
