@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 06 Jan 2024 22:37 UTC
-# Version: 2024.0106.2237.39
+# Last modified: 08 Jan 2024 22:27 UTC
+# Version: 2024.0108.2227.18
 # Syntax: DNSMasq
-# Number of entries: 10508
+# Number of entries: 10516
 #
 address=/blink-stresser.000webhostapp.com/#
 address=/ddos-ovh-v6.000webhostapp.com/#
@@ -4018,6 +4018,7 @@ address=/freebfg.org/#
 address=/freebookspot.es/#
 address=/freeboot.pw/#
 address=/freecinemanow.com/#
+address=/freecoursesonline.me/#
 address=/freecrackpatch.com/#
 address=/freecracksoftwares.net/#
 address=/freecrackzone.com/#
@@ -4169,6 +4170,7 @@ address=/gabber.space/#
 address=/galacticcentral.org/#
 address=/galtro.fr/#
 address=/gamato.info/#
+address=/game-2u.com/#
 address=/game-files.net/#
 address=/game-torrent.info/#
 address=/game3rb.com/#
@@ -4337,6 +4339,7 @@ address=/bittorrent.gongt.net/#
 address=/btt.service.gongt.me/#
 address=/goodjobmedia.com/#
 address=/goodolddays.net/#
+address=/googledrivelinks.com/#
 address=/goojara.ch/#
 address=/goojara.to/#
 address=/gophie.cam/#
@@ -6568,6 +6571,7 @@ address=/nsanedown.com/#
 address=/nsaneforums.com/#
 address=/nstress.com/#
 address=/reisub.nsupdate.info/#
+address=/nsw2u.com/#
 address=/nsw2u.org/#
 address=/nsw2u.xyz/#
 address=/nsxafiliados.com/#
@@ -6596,6 +6600,7 @@ address=/nutorrent.com/#
 address=/nw0.info/#
 address=/nwanime.tv/#
 address=/torrent.nwps.ws/#
+address=/nxbrew.com/#
 address=/nxtgn.org/#
 address=/nyaa.eu/#
 address=/nyaa.net/#
@@ -7273,6 +7278,8 @@ address=/proxytpb.win/#
 address=/prozik.net/#
 address=/prwatch.net/#
 address=/przeklej.pl/#
+address=/ps4pkg.com/#
+address=/ps5pkg.net/#
 address=/psarips.com/#
 address=/psarips.xyz/#
 address=/psperspective.net/#
@@ -9725,6 +9732,7 @@ address=/vdomela.com/#
 address=/vdonip.com/#
 address=/vdos-s.co/#
 address=/vdos-s.com/#
+address=/tracker.vds.nz/#
 address=/tracker.vectahosting.eu/#
 address=/vedigratis.com/#
 address=/vedohd.uno/#
