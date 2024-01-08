@@ -257,6 +257,7 @@
 (\.|^)onenetworkdirect\.net$
 (\.|^)online\.adservicemedia\.dk$
 (\.|^)online\.digital\-advisor\.com$
+(\.|^)openinapp\.link$
 (\.|^)open\.spotify\.com$
 (\.|^)partners.*\.stacksocial\.com$
 (\.|^)pepperjamnetwork\.com$
