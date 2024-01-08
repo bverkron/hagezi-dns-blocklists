@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1704629580 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1704672240 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Jan 2024 12:13 UTC
-; Version: 2024.0107.1213.37
+; Last modified: 08 Jan 2024 00:04 UTC
+; Version: 2024.0108.0004.03
 ; Syntax: RPZ
-; Number of entries: 88422
+; Number of entries: 88390
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -5976,6 +5976,8 @@ analytics.5milesapp.com CNAME .
 *.5toft8or7on8tt.com CNAME .
 5u.com CNAME .
 *.5u.com CNAME .
+5vbs96dea.com CNAME .
+*.5vbs96dea.com CNAME .
 5visions.com CNAME .
 *.5visions.com CNAME .
 6001628d3d.com CNAME .
@@ -14014,8 +14016,6 @@ bitmedianetwork.com CNAME .
 *.bitmedianetwork.com CNAME .
 analytics.bitmex.com CNAME .
 *.analytics.bitmex.com CNAME .
-email.mg.bitmex.com CNAME .
-*.email.mg.bitmex.com CNAME .
 analytics-ingress-global.bitmovin.com CNAME .
 *.analytics-ingress-global.bitmovin.com CNAME .
 bitonclick.com CNAME .
@@ -17018,8 +17018,6 @@ cilomum.com CNAME .
 *.cilomum.com CNAME .
 cinarra.com CNAME .
 *.cinarra.com CNAME .
-link.cincinnatimagazine.com CNAME .
-*.link.cincinnatimagazine.com CNAME .
 analytics.cincopa.com CNAME .
 *.analytics.cincopa.com CNAME .
 cinemahelicopterwall.com CNAME .
@@ -19190,6 +19188,8 @@ eec.crunchyroll.com CNAME .
 *.eec.crunchyroll.com CNAME .
 metrics.crunchyroll.com CNAME .
 *.metrics.crunchyroll.com CNAME .
+crupie.com CNAME .
+*.crupie.com CNAME .
 crusilyparonym.com CNAME .
 *.crusilyparonym.com CNAME .
 analytics.crutchfield.com CNAME .
@@ -19198,6 +19198,8 @@ stereos2s.crutchfield.com CNAME .
 *.stereos2s.crutchfield.com CNAME .
 analytics.cruxnow.com CNAME .
 *.analytics.cruxnow.com CNAME .
+cryingforanythi.com CNAME .
+*.cryingforanythi.com CNAME .
 cryjun.com CNAME .
 *.cryjun.com CNAME .
 metric.pay.crypto.com CNAME .
@@ -25556,6 +25558,8 @@ ftiodfqk.com CNAME .
 *.ftiodfqk.com CNAME .
 ftjcfx.com CNAME .
 *.ftjcfx.com CNAME .
+ftltbijc.com CNAME .
+*.ftltbijc.com CNAME .
 ftmhsrrk.com CNAME .
 *.ftmhsrrk.com CNAME .
 fttjyji.com CNAME .
@@ -30584,12 +30588,6 @@ inclusacharmed.com CNAME .
 *.inclusacharmed.com CNAME .
 incognitosearches.com CNAME .
 *.incognitosearches.com CNAME .
-email1.incommincentives.com CNAME .
-*.email1.incommincentives.com CNAME .
-email.engage.incommincentives.com CNAME .
-*.email.engage.incommincentives.com CNAME .
-email.loyalty.incommincentives.com CNAME .
-*.email.loyalty.incommincentives.com CNAME .
 incompletethong.com CNAME .
 *.incompletethong.com CNAME .
 inconclusiveaction.com CNAME .
@@ -45274,6 +45272,8 @@ smetrics.qvcuk.com CNAME .
 *.smetrics.qvcuk.com CNAME .
 qvdt3feo.com CNAME .
 *.qvdt3feo.com CNAME .
+qvlczhitbsqpl.com CNAME .
+*.qvlczhitbsqpl.com CNAME .
 qvpublish.com CNAME .
 *.qvpublish.com CNAME .
 qwaapgxfahce.com CNAME .
@@ -45348,6 +45348,8 @@ racewhisperingsnow.com CNAME .
 *.racewhisperingsnow.com CNAME .
 saa.rachaelrayshow.com CNAME .
 *.saa.rachaelrayshow.com CNAME .
+d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com CNAME .
+*.d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com CNAME .
 smetrics.rackroomshoes.com CNAME .
 *.smetrics.rackroomshoes.com CNAME .
 racktidyingunderground.com CNAME .
@@ -47248,6 +47250,8 @@ rwuannaxztux.com CNAME .
 *.rwuannaxztux.com CNAME .
 rwwoqcjefc.com CNAME .
 *.rwwoqcjefc.com CNAME .
+rwzzeivpakyxql.com CNAME .
+*.rwzzeivpakyxql.com CNAME .
 rxatodtvt.com CNAME .
 *.rxatodtvt.com CNAME .
 rxeosevsso.com CNAME .
@@ -49838,6 +49842,8 @@ snebbubbled.com CNAME .
 *.snebbubbled.com CNAME .
 sneezeinterview.com CNAME .
 *.sneezeinterview.com CNAME .
+snhtvtp.com CNAME .
+*.snhtvtp.com CNAME .
 snidethereto.com CNAME .
 *.snidethereto.com CNAME .
 adsales.snidigital.com CNAME .
@@ -53662,8 +53668,6 @@ smetrics.tmz.com CNAME .
 *.smetrics.tmz.com CNAME .
 dyn.tnaflix.com CNAME .
 *.dyn.tnaflix.com CNAME .
-email.tncountyclerk.com CNAME .
-*.email.tncountyclerk.com CNAME .
 tneca.com CNAME .
 *.tneca.com CNAME .
 tneduf.com CNAME .
@@ -73670,8 +73674,6 @@ intimlife.net CNAME .
 *.intimlife.net CNAME .
 invoca.net CNAME .
 *.invoca.net CNAME .
-email.invoicecloud.net CNAME .
-*.email.invoicecloud.net CNAME .
 aadntv-relay.iocnt.net CNAME .
 *.aadntv-relay.iocnt.net CNAME .
 aadtelma-relay.iocnt.net CNAME .
@@ -76938,6 +76940,8 @@ smetrics.aarp.org CNAME .
 *.smetrics.aarp.org CNAME .
 connect.abi.org CNAME .
 *.connect.abi.org CNAME .
+abletoprese.org CNAME .
+*.abletoprese.org CNAME .
 webtracking.acams.org CNAME .
 *.webtracking.acams.org CNAME .
 forms.accc-cancer.org CNAME .
@@ -81304,6 +81308,8 @@ analytics.cloudly.space CNAME .
 *.analytics.cloudly.space CNAME .
 crownswoden.space CNAME .
 *.crownswoden.space CNAME .
+cryptoad.space CNAME .
+*.cryptoad.space CNAME .
 cultismcanty.space CNAME .
 *.cultismcanty.space CNAME .
 dailyvids.space CNAME .

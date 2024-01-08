@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 07 Jan 2024 12:13 UTC
-! Version: 2024.0107.1213.37
+! Last modified: 08 Jan 2024 00:04 UTC
+! Version: 2024.0108.0004.03
 ! Syntax: AdBlock
-! Number of entries: 44211
+! Number of entries: 44195
 !
 ||0008d6ba2e.com^
 ||000webhost.info^
@@ -923,6 +923,7 @@
 ||5thfinger.com^
 ||5toft8or7on8tt.com^
 ||5u.com^
+||5vbs96dea.com^
 ||5visions.com^
 ||6001628d3d.com^
 ||6061de8597.com^
@@ -1487,6 +1488,7 @@
 ||abkoxlikbzs.com^
 ||ableandworld.info^
 ||analytics.ableton.com^
+||abletoprese.org^
 ||ablida.net^
 ||abluentshinny.com^
 ||metric.ably.com^
@@ -6959,7 +6961,6 @@
 ||bitmedia.io^
 ||bitmedianetwork.com^
 ||analytics.bitmex.com^
-||email.mg.bitmex.com^
 ||analytics-ingress-global.bitmovin.com^
 ||bitonclick.com^
 ||analytics.bitpanda.com^
@@ -9167,7 +9168,6 @@
 ||cima-club.club^
 ||4k.cimovies.org^
 ||cinarra.com^
-||link.cincinnatimagazine.com^
 ||analytics.cincopa.com^
 ||matomo.valueforyou.cineca.it^
 ||cinemahd.top^
@@ -11808,6 +11808,7 @@
 ||eec.crunchyroll.com^
 ||metrics.crunchyroll.com^
 ||crunodedysuric.digital^
+||crupie.com^
 ||analytics.crushon.ai^
 ||crusilyparonym.com^
 ||analytics.crutchfield.com^
@@ -11816,6 +11817,7 @@
 ||crvbnac.xyz^
 ||crwdcntrl.net^
 ||cry2h.cn^
+||cryingforanythi.com^
 ||cryjun.com^
 ||metric.crypto.org^
 ||metric.pay.crypto.com^
@@ -11823,6 +11825,7 @@
 ||crypto-loot.com^
 ||crypto-loot.org^
 ||crypto-webminer.com^
+||cryptoad.space^
 ||cryptobeneluxbanner.care^
 ||cryptobrowser.site^
 ||cryptocoinsad.com^
@@ -16731,6 +16734,7 @@
 ||marketing.ftfnews.com^
 ||ftiodfqk.com^
 ||ftjcfx.com^
+||ftltbijc.com^
 ||ftmhsrrk.com^
 ||ftrtnr.xyz^
 ||ftte.fun^
@@ -20617,9 +20621,6 @@
 ||inclusacharmed.com^
 ||matomo.incm.pt^
 ||incognitosearches.com^
-||email1.incommincentives.com^
-||email.engage.incommincentives.com^
-||email.loyalty.incommincentives.com^
 ||incompatible-singer.pro^
 ||incompleteshock.pro^
 ||incompletethong.com^
@@ -21116,7 +21117,6 @@
 ||invoc.us^
 ||invoca.net^
 ||solutions.invocacdn.com^
-||email.invoicecloud.net^
 ||involuntarysteadyartsy.com^
 ||involve.asia^
 ||posthog.admin.involve.me^
@@ -31971,6 +31971,7 @@
 ||qvdt3feo.com^
 ||qvftejz.cn^
 ||analytics.qvisto.net^
+||qvlczhitbsqpl.com^
 ||qvol.tv^
 ||qvpublish.com^
 ||qvrdlvz.cn^
@@ -32044,6 +32045,7 @@
 ||raccogliereilconsenso.com^
 ||racewhisperingsnow.com^
 ||saa.rachaelrayshow.com^
+||d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com^
 ||smetrics.rackroomshoes.com^
 ||racktidyingunderground.com^
 ||hcjpbc.radaronline.com^
@@ -33525,6 +33527,7 @@
 ||rwnmcum.cn^
 ||rwuannaxztux.com^
 ||rwwoqcjefc.com^
+||rwzzeivpakyxql.com^
 ||rxatodtvt.com^
 ||rxeosevsso.com^
 ||rxglvcowb.com^
@@ -35489,6 +35492,7 @@
 ||sneakwind.com^
 ||snebbubbled.com^
 ||sneezeinterview.com^
+||snhtvtp.com^
 ||snidethereto.com^
 ||adsales.snidigital.com^
 ||analytics.snidigital.com^
@@ -38233,7 +38237,6 @@
 ||dyn.tnaflix.com^
 ||tnative.ru^
 ||tncid.app^
-||email.tncountyclerk.com^
 ||tneca.com^
 ||tneduf.com^
 ||tnfhxszj.xyz^
