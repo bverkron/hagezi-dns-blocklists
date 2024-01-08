@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Jan 2024 22:53 UTC
-# Version: 2024.0107.2253.06
+# Last modified: 08 Jan 2024 22:59 UTC
+# Version: 2024.0108.2259.13
 # Syntax: Domains (without subdomains)
-# Number of entries: 944
+# Number of entries: 947
 #
 000.pe
 000nethost.com
@@ -15,7 +15,6 @@
 0j.wf
 0pe.kr
 1717.1000uc.com
-soft.110route.com
 1395867912.pw
 17110.com
 dl.198424.com
@@ -34,7 +33,6 @@ dl.198424.com
 50224.top
 50227.top
 api.52kkg.com
-542199235l.com
 dl.1003b.56a.com
 5g7.at
 5v0.nl
@@ -49,21 +47,20 @@ dl.1003b.56a.com
 867452310.com
 8t.pm
 dl.9xu.com
-abissnet.net
+abruptlydummy.com
 library.arihantmbainstitute.ac.in
 iccscem.ac.in
 imit.ac.in
 acc-disbsupportcenter.info
 ackng.com
 addressrevise.com
-addtactical.com
 adrorobert.pl
-www.geovanisantos.adv.br
 adyboh.com
 aepcide.com
 agies.org
 agnieszkaklaudia.pl
 aioecoin.org
+airhobi.com
 akadns.live
 akadns.services
 register.akamaized.ca
@@ -92,6 +89,7 @@ apkloli.com
 aq2e.com
 aqamerexfrugte.cf
 arabi-onlinee.com
+aristonbentre.com
 arogyapatholab.in
 artemis.community
 artmediastudio.ro
@@ -128,7 +126,6 @@ cirukaz.biz.id
 hvqsj.biz.id
 klik-disiniii.biz.id
 lukasiewicz.biz.pl
-0tuiwp.mariomanagement.biz.id
 p-gv.biz.id
 mujib-store28.blogspot.com
 bloodynoon.com
@@ -153,6 +150,7 @@ byinter.net
 cacheoffer.tk
 download.caihong.com
 camminachetipassa.it
+canconsulting.in
 canmaxiprog.site
 cannabiscouponz.com
 capital-prg6.site
@@ -163,7 +161,6 @@ cargoconnect.online
 carnegieinsider.com
 carthagefire.net
 casamuseoayerbe.co
-cnc.catairlines.net
 cbphe.com
 cbpheback.com
 phish.cdo.wtf
@@ -175,12 +172,14 @@ chatdouyin.top
 che-web.eu
 checkba.top
 chemsky.tn
+chingman.net
 chiptune.com
 downloadplus.chromiums.org
 chuckozeas.com
 cilrix-corp.pro
 cimaclub.live
 cipro.mx
+clexowinsurance.com
 clicketcloud.com
 clockgen64.com
 cloudflare-server.top
@@ -189,12 +188,10 @@ cloudlets.zone
 support.clz.kr
 cms-sh.de
 agemn.co.za
-aosafrica.co.za
-bigmikesupplies.co.za
 councilrespect.co.in
-drhanneserasmus.co.za
-emaids.co.za
+destinymc.co.za
 fetchdesignprint.co.za
+growrock.co.za
 hopvibestravel.co.za
 imbueautoworx.co.za
 kakaopv.co.kr
@@ -204,25 +201,24 @@ mumgee.co.za
 networkwheels.co.za
 olivehr.co.za
 olugun.co.za
-patisserie.co.ke
 qcollect.co.za
 sainzim.co.za
 spaceframe.mobi.space-frame.co.za
 spacetrack.co.tz
+superstar.tibolts.co.uk
+travelwithmanta.co.za
 my-sbox.trns.co.za
 wmctc.co.uk
-api-ms.cobainaja.id
 coddes.top
 codeanyapp.com
 cloudid.coffeeonboard.com
 coinskenswallet.com
 colegiojuanbernardone.com
-transfer.adttemp.com.br
+mail.alphaassessoriato.com.br
 ameliagosia.com.pl
 asiflyerbio.com.cn
 asu.com.vn
 atomm.com.br
-bearcatpumps.com.cn
 budimal.com.pl
 cdaonline.com.ar
 dhnconstrucciones.com.ar
@@ -231,13 +227,11 @@ famesa.com.ar
 graficaaoquadrado.com.br
 grzegorzkulik.com.pl
 hapvidacaruaru.com.br
-herchinfitout.com.sg
-www.hey-randomgirl.com.br
 jolantabartnik.com.pl
+josymixmyhome.com.br
 kest.com.pe
 krzysztofsikora.com.pl
 lindenconsultoria.com.br
-live.com.gt
 lostheaven.com.cn
 medcar.com.tn
 microtrimsltd.com.bd
@@ -259,7 +253,6 @@ conglyan.com
 conn.ph
 connellycandyland.info
 consultando-web.com
-coopsantodomingo.com
 corporation-pl.com
 scheme.corycabana.net
 counter-strike2-de.com
@@ -267,10 +260,11 @@ crackload.net
 cracksarena.com
 craft-host.ru
 crapses.pl
-crz.de
+crypticgamings.com
 csgoxdomain.us
 balkarsoftware.cubistech.com
 cursodeparapsicologia.org
+cynorix.com
 static.cz01.cn
 dacsandongthapmuoi.vn
 darekfurtak.pl
@@ -307,10 +301,11 @@ domallpl.pl
 donkeytourscroatia.com
 doorcat.quest
 dostawa-id.live
-downloayxkemam.sbs
+download.doumaibiji.cn
 driverclub.co
 droomsoft.com
 duchessefit.com
+wordpress.ductai.xyz
 dukaree.com
 dummy280280.net
 dungk.com
@@ -327,6 +322,7 @@ ecox.pt
 interpol.edu.pl
 eehxhl.com
 eiyfmrn.com
+elvalledetarrazu.com
 emplojo.com
 emsapps.net
 pake.endofinternet.org
@@ -357,7 +353,6 @@ d7.fajridemo.com
 fastactionmedicalbilling.com
 fdmpkg.org
 feedbacksea.com
-fastdnkaaa.ffox.site
 financetoro.com
 financier.com
 flauntstaluhet.website
@@ -370,7 +365,6 @@ freay.tech
 freconmieetfinances.com
 freetcp.com
 frezzyhook.com
-ftpvoyager.cc
 funletters.net
 www.roofing.galacticleads.com
 galandskiyher5.com
@@ -385,6 +379,7 @@ www.bakirkoynakliyat.gen.tr
 geosetthudofak.cf
 getplayshow.com
 getsviip7.com
+ggogle.de
 gllthub.com
 globallaborsupply.com
 glthub.org
@@ -392,7 +387,6 @@ glycpolsbeel.cf
 pn-raha.go.id
 gobesitysurgery.com
 golancat.com
-gomlgaming.dev
 goodpltrmm.click
 goxsite.top
 granticket.com
@@ -459,12 +453,11 @@ intellectproactive.com
 inwestcom.pl
 ircftp.net
 isasecret.com
+ishahcouture.com
 islammagdy.com
-drive.google.com.it-barcelona.com
 itosha.top
 iyclm.in
 jaerg.pl
-janisthaaivf.com
 januszpr.pl
 jeffdahlke.com
 jhayesconsulting.com
@@ -472,6 +465,7 @@ jkhrs.pl
 jobcity.com
 jointings.org
 justns.ru
+justplay.asia
 jzm.pw
 kalp-s.com
 kamura.pl
@@ -489,10 +483,12 @@ krisna-cloud.com
 krussoftrunafi.cf
 krzysztofrzepecki.pl
 lacasadelasrosas.com
+lameguard.ru
 lasikofmichigan.com
 lastimaners.ug
 latino9.com
 leeziptv.com
+lestandardsarl.com
 letgobefree.org
 lflink.com
 li1iv.com
@@ -511,6 +507,7 @@ linuxupdate.info
 liqun.shop
 lisagos.pl
 listviewss.com
+livetrack.in
 llcdn.eu
 localbitcoin.us
 localto.net
@@ -521,7 +518,6 @@ lound.xyz
 lsopas.pl
 lubpl.pl
 luxurypropertiesfl.com
-xt.lykj988.com
 lyra.build
 m0.yt
 maciejdominiak.pl
@@ -545,10 +541,11 @@ marquesvogt.com
 masterch.top
 maticsurefmo.cf
 maxiimus.top
-maxmoney.com
 maxuikl.top
+maxximbrasil.com
 mbgrm.com
 mbmistaz.com
+medfioytrkdkcodlskeej.net
 meeweb.com
 mefound.com
 mensmem.buzz
@@ -565,7 +562,6 @@ microsoftonline.services
 microsoftonlines.net
 360down7.miiyun.cn
 missey.online
-mistydeblasiophotography.com
 mixer-novostei.ru
 mkrissd.pl
 mls-test.ch
@@ -582,7 +578,6 @@ mrugalla.pl
 msteam.biz
 msteampremium.online
 multiaccess.co
-muzzumilruheel.com
 mwgq.net
 gtz.my.id
 harmah.my.id
@@ -605,14 +600,11 @@ namthaibinh.net
 nasdr.pl
 navercloud.org
 ndegj3peoh.com
-shells.nesco-alkes.com
-demo.nessotechbd.com
 artcd.net.pl
 bartlomiej.net.pl
 elzbieta.net.pl
 netplosd.de
 jsfk3d43.netvisualizer.com
-new-tech-savvy.com
 newfinancialmarketworld.com
 neworder44799.info
 nhatheptienchebinhduong.com
@@ -640,6 +632,8 @@ onlinedesignstudio.net
 onlinepaysafeollx.shop
 oo000oo.club
 oops.best
+opesjk.ug
+opolis.io
 orderedami.com
 orders94851.info
 krakowiak.org.pl
@@ -662,8 +656,10 @@ pampopholf.com
 pcn.panddna.com
 parrotbay.net
 pass-login.com
+paste-bin.xyz
 pawlukojc.pl
 payment-restriction.com
+down.pcclear.com
 download.pdf00.cn
 pdns.cz
 perniktermo.com
@@ -691,12 +687,13 @@ posmicrosystems.com
 ws3.pph-server.de
 prephe.ro
 prestazione-eur.info
+prestigehomeautomation.net
 3233.privado.info
-proecologicsistem.com
 programmtrad.top
 programtts.top
 promakeupbyelizabeth.com
 propagandaetrafego.com
+protechasia.com
 prowrld.top
 psf-store.net
 punkdns.pw
@@ -710,10 +707,12 @@ qnotice.com
 qpoe.com
 quansj.cn
 quizbn.com
+rackoon.net
 rangshila.com
 rapiddns.ru
 rdwrtu.cn
 kif.re.kr
+realboos.online
 realnewstime.xyz
 realtimenews.tk
 realvnc.pro
@@ -722,7 +721,9 @@ reiwo-service.de
 7fec6270ed.repl.co
 reservation80712.cloud
 resmi-id.art
+resourceedge.org
 rewardsgiant-au.com
+richterhi-tech.com
 ritikajoshi.com
 riva-tuner.com
 rodhigital.com
@@ -733,16 +734,15 @@ rozwojai.com
 rp-online-dating.de
 rs83.com
 v207.ru.is
+rusticironstore.com
 ryzen-master.com
 sadeemapk.com
 saf-oil.ru
-safetygear.pk
 apps.saintsoporte.com
 sapiens-services.com
 sapphiretrixx.com
 saraa.shop
 sbytotsmasthersborrdi.cf
-scientific.pk
 scincormatize.com
 scribdbook.top
 scuba.camera
@@ -764,6 +764,7 @@ shengen.ru
 shipminttracking.net
 shoefire.life
 shopsgat.com
+sierrafoodcorp.com
 sin88.biz
 sinerptuasiewo.com
 site-manager.eu
@@ -785,6 +786,7 @@ srv-fattureincloud.de
 ss.la
 sslblindado.com
 ssmailer.com
+starcountry.net
 starnetx.live
 stayinoceancitymd.com
 steamauthenticator.net
@@ -804,6 +806,7 @@ configure.syscatec.com
 sysclearprom.space
 tabonyventures.com
 taxrefund.click
+tceducn.com
 techniguitare.com
 techofi.in
 techpowerup-gpu-z.com
@@ -814,7 +817,6 @@ tele-latino.com
 telelatino.app
 temptmag.com
 tengfeidn.com
-pan.tenire.com
 terbaru-2023.com
 test-hf.su
 tgehb.pl
@@ -832,6 +834,7 @@ tlsallpl.pl
 tmalltbw.com
 tmglawpalawan.com
 tomming.us
+prime.topendpower.top
 lang.topteamlife.com
 loop.topteamlife.com
 still.topteamlife.com
@@ -864,6 +867,7 @@ unicorpbrunei.com
 unispace.io
 unkinerecle.com
 unkorakite.cf
+unlockingdreamsfinancial.com
 up-official.site
 upanfile.com
 update-pgp.com
@@ -872,6 +876,7 @@ uxsingh.com
 uzdarakchi.com
 vaishnaviinterior.com
 vape-resource.com
+vencord.xyz
 viayonetici.com
 videodaewoo.pw
 villala5nt.life
@@ -882,10 +887,10 @@ vividrriver.pw
 vizvaz.com
 vmlx98.codes
 vnmod.net
+vptriathlon.com
 hr2019.vrcom7.com
 vs.gy
 w0.pm
-walkindrivetoday.com
 walkinglate.com
 walletdappfixed.net
 badura.warszawa.pl
@@ -901,7 +906,6 @@ websound.ru
 webwave.dev
 welikejack.com
 wetterkameras.com
-wewashclothes.com
 wgoss.pl
 wiljot.pl
 winkaros.ru
@@ -933,7 +937,6 @@ youcineapk.org
 youcineapp.com
 youcinetv.app
 yourchance.top
-ysbaojia.com
 yzkzixun.com
 zakresnynaya.pl
 zaofisa.net
