@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 07 Jan 2024 10:37 UTC
-# Version: 2024.0107.1037.41
+# Last modified: 08 Jan 2024 22:29 UTC
+# Version: 2024.0108.2229.58
 # Syntax: DNSMasq
-# Number of entries: 150385
+# Number of entries: 150390
 #
 address=/000000.com/#
 address=/000000hd.com/#
@@ -107973,6 +107973,7 @@ address=/hzjd6.vip/#
 address=/hzrp.live/#
 address=/hzthg.win/#
 address=/hzxhdsy.com/#
+address=/i-1xslots486.ru/#
 address=/i-bet.com/#
 address=/i-private-profile-viewer.com/#
 address=/i0309.com/#
@@ -120544,6 +120545,7 @@ address=/melbet.ng/#
 address=/melbet.org/#
 address=/melbet.ru/#
 address=/melbet-10012.top/#
+address=/melbet-122.ru/#
 address=/melbet-42748.top/#
 address=/melbet-50957.top/#
 address=/melbet-58767.top/#
@@ -120564,6 +120566,7 @@ address=/melbet-partners.com/#
 address=/melbet-rus.ru/#
 address=/melbet-sp.com/#
 address=/melbet-stavka1.xyz/#
+address=/melbet-x63.ru/#
 address=/melbet001.com/#
 address=/melbet10.com/#
 address=/melbet130.com/#
@@ -137374,6 +137377,7 @@ address=/ukcasinoclub.com/#
 address=/ukcasinoclub.eu/#
 address=/ukjbn.com/#
 address=/ukqzw.win/#
+address=/ukrainianbonus.eu/#
 address=/uktoponlinecasinos.com/#
 address=/ulqj3veu.vip/#
 address=/ultimatecasino.com/#
@@ -138727,6 +138731,7 @@ address=/vip1722.com/#
 address=/vip17365.com/#
 address=/vip1772.com/#
 address=/vip1778.com/#
+address=/vip1win.ru/#
 address=/vip1xbet.com/#
 address=/vip2022.com/#
 address=/vip2077.com/#
