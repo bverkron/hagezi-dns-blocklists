@@ -37,7 +37,6 @@ https://gitlab.com/KevinThomas0/cryptoscamdb-lists/-/raw/master/cryptoscamdb-blo
 https://gitlab.com/nitrohorse/government-malware-domains-blocklist/-/raw/master/domains.txt
 https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-malware.txt
 https://hole.cert.pl/domains/domains_hosts.txt
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
@@ -239,6 +238,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyfi
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-d3lab.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-deepinstinct.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-dfir.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-domaintools.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-drweb.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-elastic.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-esentire.txt
