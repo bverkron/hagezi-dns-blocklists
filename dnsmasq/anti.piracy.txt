@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 08 Jan 2024 22:27 UTC
-# Version: 2024.0108.2227.18
+# Last modified: 09 Jan 2024 18:22 UTC
+# Version: 2024.0109.1822.16
 # Syntax: DNSMasq
-# Number of entries: 10516
+# Number of entries: 10515
 #
 address=/blink-stresser.000webhostapp.com/#
 address=/ddos-ovh-v6.000webhostapp.com/#
@@ -6065,7 +6065,6 @@ address=/moviedaba.com/#
 address=/moviedom.live/#
 address=/moviedream.ws/#
 address=/moviefiles.org/#
-address=/moviefone.com/#
 address=/movieforfree.co/#
 address=/moviefreak.xyz/#
 address=/movieglide.com/#
