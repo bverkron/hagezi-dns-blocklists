@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jan 2024 22:49 UTC
-# Version: 2024.0108.2249.40
+# Last modified: 09 Jan 2024 23:10 UTC
+# Version: 2024.0109.2310.48
 # Syntax: Domains (without subdomains)
-# Number of entries: 13603
+# Number of entries: 13605
 #
 11trikots.com
 123-konsolit.store
@@ -242,7 +242,6 @@ albertsgruen.de
 albrechts-handel.de
 alcufee.de
 aldo-osterreich.com
-aldofashion.com
 aldorabatt.de
 aldorf-dresden.de
 aldoschuhe.de
@@ -1754,7 +1753,6 @@ caesar-installateur.at
 cafe-hardenberg.de
 cafivo.com
 cafuzee5.boats
-cairnoptical.com
 cairnoutdoor.de
 cairnsport.de
 calabra.de
@@ -2726,6 +2724,7 @@ diamondpen.store
 diaskfz.com
 dick-reifen.com
 didro.de
+die-garten-meister.de
 die-hoegers.de
 die-holzhandlung.de
 diedlerholz.de
@@ -12829,6 +12828,7 @@ venino-handel.de
 venuefashion.com
 vera-mode.com
 veralo.de
+veramodehaus.de
 veramundo.net
 verenabunte.com
 verios-gaming.de
@@ -13437,6 +13437,7 @@ wulf-reifen.com
 wunderbarmeldung.com
 wunderlich-autoreifen.com
 wunderwild.de
+wunschau.de
 wuppertech.de
 wuyozji.top
 wv-langen.de
@@ -13550,6 +13551,7 @@ zeroplay.de
 zetko-waren.com
 zetko-waren.de
 zettabag.com
+app.zety.de
 zetzethaustechnik.de
 zeynoa.de
 zh1capital.com
