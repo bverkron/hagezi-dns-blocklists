@@ -12,15 +12,15 @@ body:
         If the AdBlocker/DNS cloud service is not listed, please select "Other" and enter its name in the comment field below.
       multiple: true
       options:
-        - Pi-hole
         - AdGuard
         - AdGuard Home
+        - Pi-hole
         - uBlock
-        - NextDNS
         - AdGuard DNS
         - ControlD
-        - RethinkDNS
         - DNSwarden
+        - NextDNS
+        - RethinkDNS
         - Other
     validations:
       required: true
@@ -42,16 +42,16 @@ body:
   - type: dropdown
     id: blocklists
     attributes:
-      label: Which blocklist(s) do you use?
+      label: With which block list(s) does the problem occur?
       multiple: true
       options:
-        - Personal
         - Multi LIGHT
         - Multi NORMAL 
         - Multi PRO 
         - Multi PRO++
-        - Multi ULTIMATE 
+        - Multi ULTIMATE
         - Fake
+        - Pop-Up Ads
         - Threat Intelligence Feeds
         - DoH/VPN/TOR/Proxy Bypass
         - DoH Bypass
@@ -59,9 +59,10 @@ body:
         - Dynamic DNS
         - Badware Hoster
         - Most Abused TLDs
-        - Native Tracker
         - Anti Piracy
         - Gambling
+        - Personal
+        - Native Tracker
     validations:
       required: true
 
