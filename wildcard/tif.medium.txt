@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jan 2024 23:03 UTC
-# Version: 2024.0108.2303.50
+# Last modified: 09 Jan 2024 23:24 UTC
+# Version: 2024.0109.2324.57
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6788
+# Number of entries: 6496
 #
 *.000.pe
 *.000nethost.com
@@ -51,6 +51,7 @@
 *.3inkadvertising.com
 *.3plecom.com
 *.3repakistan.net
+*.3rt.site
 *.onlines.3utilities.com
 *.3xplor3.life
 *.3z.nu
@@ -117,7 +118,6 @@
 *.abrfitness.com
 *.abruptlydummy.com
 *.abruzzo-villas.com
-*.abundarma.com
 *.abuturkeypharma.com
 *.library.arihantmbainstitute.ac.in
 *.crpao.ac.th
@@ -141,6 +141,7 @@
 *.accident.lv
 *.accinox.com
 *.accountsmall.in
+*.montanadenashville.acebella.com
 *.aceitunasevillana.com
 *.1uis8.acercelullares.quest
 *.achave.es
@@ -151,7 +152,6 @@
 *.acmecmb.com
 *.acpmpackers.com
 *.acrglobe.com
-*.acs-maroc.org
 *.activerbd.com
 *.actshoplocal.com
 *.ada2u.com
@@ -160,7 +160,6 @@
 *.adanacigkoftesiparis.com
 *.adarwa.rw
 *.adashopita.co
-*.addoxygenempowermentfoundation.org
 *.addressrevise.com
 *.addressusa.ca
 *.addtactical.com
@@ -172,7 +171,6 @@
 *.adminradio.net
 *.adnanltd.com
 *.adommroso.org
-*.adone.in
 *.adriaevolution.com
 *.adrorobert.pl
 *.adscookie.com
@@ -192,13 +190,10 @@
 *.affordablesinginglessons.com
 *.afiyatok.com
 *.afolowokureandassociates.com
-*.africaillustriousawards.org
-*.africanempowermenthubuganda.org
 *.africaninsectprotein.com
 *.africatrendtrading.com
 *.afrosai.org
 *.afsharemlak.com
-*.agatino.net
 *.agatsyaspermbank.in
 *.agcgalleria.com
 *.agde.com
@@ -207,7 +202,6 @@
 *.agencymediasosial.com
 *.obrecht.agentenpreview.com
 *.agentleadgenesis.com
-*.agies.org
 *.agisakis.gr
 *.agitel-formation.net
 *.agnieszkaklaudia.pl
@@ -217,7 +211,6 @@
 *.agrifarmequip.com
 *.agriformexico.com
 *.agritourismnetworkandtours.com
-*.agromusala.ba
 *.ah-movers.com
 *.ahagroup.in
 *.ahencelik.com
@@ -239,12 +232,9 @@
 *.aimhigh-global.com
 *.aioecoin.org
 *.aiqonsb.com
-*.airesdemoscatel.com
-*.airhobi.com
 *.airmoney9ja.com
 *.airoutlaw.com
 *.airtimes.my
-*.ajkerbaazar.com
 *.ajmanmall.com
 *.ajpglobalshopping.com
 *.akadns.live
@@ -260,7 +250,6 @@
 *.al-ishraqshop.com
 *.al7irak.com
 *.alakheilizwe.org
-*.alanayamassagespa.com
 *.alasrindustries.com
 *.albarakagroupom.com
 *.8waewa.alcatelcelullares.quest
@@ -268,7 +257,6 @@
 *.aldynetworks.com
 *.aleeftrade.com
 *.alertsecurities.in
-*.alessiadegaspari.it
 *.alexafurnitech.com
 *.alexboatsrental.com
 *.alfatransgo.com
@@ -324,7 +312,6 @@
 *.allon4dentalimplants.org
 *.allon4mexico.com
 *.allonlinenewz.com
-*.allseocheckertools.com
 *.allsslpl.pl
 *.alltlspl.pl
 *.alluponyarecords.com
@@ -371,7 +358,6 @@
 *.amotel.xyz
 *.amsangroup.com
 *.amtc-dz.com
-*.amtrakdeals.com
 *.amtri.ma
 *.amv2.org
 *.amzfix.com
@@ -403,7 +389,6 @@
 *.antojitosurincon.com
 *.antoniusarif.com
 *.anugerahberkatsarana.com
-*.anurajfragrances.com
 *.anybodyopenfind.com
 *.anydaywriters.com
 *.anyerdeliv.com
@@ -431,7 +416,6 @@
 *.dentistajundiai.app.br
 *.implantesdentarios.app.br
 *.marketingdigital.app.br
-*.medcenter.app.br
 *.tagsystems3.s3.eu-de.cloud-object-storage.appdomain.cloud
 *.appointcenter.com
 *.wingcomm-dot-yamm-track.appspot.com
@@ -439,7 +423,6 @@
 *.aprfc.rw
 *.apstaffing.us
 *.aptinverex.net
-*.apuntotelecom.com
 *.apurnomo.com
 *.apweslk.com
 *.aq2e.com
@@ -452,7 +435,6 @@
 *.arabicheckout.com
 *.aram24.ir
 *.arambook.ir
-*.aranytrade.com
 *.arbatours.pk
 *.arbitribe.com
 *.arcagroup.mx
@@ -506,7 +488,6 @@
 *.asotic.org
 *.aspensiesta.com
 *.aspensiestadenver.com
-*.asperiabd.com
 *.asragarments.com
 *.assadara-group.com
 *.assecap.com
@@ -551,14 +532,12 @@
 *.autooutletllc.com
 *.autovoll.ro
 *.autovpn.cc
-*.autrequotidien.bj
 *.ahmetaltinok.av.tr
 *.ramazanaltinok.av.tr
 *.avakentechnologies.com
 *.avaluosypropiedadeshomy.co
 *.avcreklam.com
 *.avd.asia
-*.avemariacare.com
 *.avender.store
 *.avgeekinsider.com
 *.aviciiconstruction.com
@@ -577,7 +556,6 @@
 *.ayendonjeans.com
 *.ayrgestion.com
 *.ayrintiyapi.com
-*.ayturk.world
 *.az-link.email
 *.azaherelteeb.com
 *.azarbamdelijan.ir
@@ -615,7 +593,6 @@
 *.balena-etcher.com
 *.baliinside.id
 *.balkanparadise.tours
-*.balletstudiobogota.com
 *.balustradeinox.info
 *.bananidecorator.com
 *.bandcresort.com
@@ -657,7 +634,6 @@
 *.benchmarkcell.com
 *.benderhidrolik.com
 *.benitofoods.com
-*.bepvugiang.vn
 *.beqweb.com
 *.berafiltre.com
 *.bernalpliego.com
@@ -665,11 +641,9 @@
 *.bero-webspace.de
 *.berriesgroupofhotels.com
 *.berynamalaysia.com
-*.best4you.live
 *.bestbabycamp.com
 *.bestgiftlover.com
 *.bestmixsweets.com
-*.bestpricesa.com
 *.bestproductsfor.online
 *.beta-final.com
 *.betegleza.pl
@@ -677,7 +651,6 @@
 *.bfacilityservice.com
 *.bguest.net
 *.bhagirathitv.com
-*.bhalmaskin.com
 *.bharatakonstruksi.com
 *.bhatetravels.com
 *.bhhsc.com
@@ -705,7 +678,6 @@
 *.birkelseeds.com
 *.birulaut.id
 *.bittip.xyz
-*.bittraderfx.com
 *.bixellentgreen.com
 *.cirukaz.biz.id
 *.hvqsj.biz.id
@@ -762,7 +734,6 @@
 *.bodrumprofesyonel.com
 *.boggswebworks.com
 *.bolandraf.com
-*.bolhf.org
 *.bombaycasuals.com
 *.bomespine.com
 *.marylandscmontgomery.bonesdesigncompany.com
@@ -832,7 +803,6 @@
 *.burgerbuddy.in
 *.bursalambiri.com
 *.businessmarkets.us
-*.butgeneraltrading.com
 *.buyfon.ir
 *.buyukustalar.org
 *.bvbypswhds.com
@@ -860,7 +830,6 @@
 *.calidadalavista.com
 *.califholdings.com
 *.californiatraininginstitute.com
-*.camerazone.lk
 *.camminachetipassa.it
 *.canalesparga.cl
 *.canconsulting.in
@@ -878,7 +847,6 @@
 *.cardclaim.live
 *.careercompanion.au
 *.careerkillers.me
-*.careermoguls.com
 *.careersreach.com
 *.careprofit.xyz
 *.cargoconnect.online
@@ -913,7 +881,6 @@
 *.cbphe.com
 *.cbpheback.com
 *.ccforteza.com
-*.cctvsecuritycamerapros.com
 *.cdc-ublida1.com
 *.cdn-tcp.online
 *.phish.cdo.wtf
@@ -934,8 +901,6 @@
 *.censys.xyz
 *.centerdenti.com
 *.central-ai.org
-*.centralautomotrizrosas.co
-*.centraldistrict.ro
 *.centremedicalmorepont.ch
 *.centreon.net
 *.centruldepsihosomatica.md
@@ -948,7 +913,6 @@
 *.cerige-cd.net
 *.cerodamed.com
 *.certhis.us
-*.certucheabogados.com
 *.certuser.info
 *.cervecerosdecampeche.com
 *.cest-carre.fr
@@ -964,7 +928,6 @@
 *.channeldistribution.net
 *.chapterconstruction.com
 *.chartcharcha.com
-*.chasedigitalllc.com
 *.chasehomes.ae
 *.chashni.co
 *.chatdouyin.top
@@ -975,11 +938,11 @@
 *.cheapvtu.ng
 *.checkba.top
 *.cheeringzu.com
-*.chekodi.com
 *.chem-solutions.pe
 *.chemsky.tn
 *.chezetu.com
 *.chfee.org
+*.chidoqr.site
 *.childrenshealthintl.org
 *.chinarhospitalanddailysiscenter.com
 *.chingman.net
@@ -1002,7 +965,6 @@
 *.cimagtel.cl
 *.cimlglobal.us
 *.cinperu.org
-*.cipro.mx
 *.ciptransfer.com
 *.circuitech.ae
 *.citvcharacato.com
@@ -1013,7 +975,6 @@
 *.cityups.net
 *.cityups.org
 *.claryicon.com
-*.claseco.com
 *.clasificadosdeoriente.com
 *.clasitapua.com
 *.classic-construct.com
@@ -1038,9 +999,7 @@
 *.cloudk.click
 *.cloudlets.zone
 *.b.clu-e.eu
-*.clubhousefinancialgroup.com
 *.cluematrix.in
-*.clyeducation.com
 *.support.clz.kr
 *.cmbc-formations.fr
 *.cms-sh.de
@@ -1064,11 +1023,9 @@
 *.apmt.co.in
 *.aquafixpropertymaintenance.co.uk
 *.arenaone.co.ke
-*.artejoy.co.in
 *.aryaninterior.co.in
 *.ascsolutions.co.za
 *.associatedwindowcleaners.co.uk
-*.atiasado.co.il
 *.awana.co.zw
 *.azurasuperheroes.co.id
 *.bakertilly.co.bw
@@ -1150,22 +1107,17 @@
 *.eratek.co.id
 *.excelltronics.co.za
 *.excelon.co.ke
-*.erp.fastgas.co.ke
 *.fetchdesignprint.co.za
-*.finesseplates.co.uk
 *.finmug.co.ke
 *.fmclog.co.uk
 *.follow.co.za
 *.footballeague.co.uk
 *.freelistingsa.co.za
 *.freightzone.co.zw
-*.fulldeckproductions.co.za
 *.furrytalesdogwalker.co.uk
 *.futuredge.co.ke
 *.gehlot.co.in
-*.geneqo.co.ke
 *.gentzhull.co.uk
-*.geocentric.co.in
 *.geopin.co.ke
 *.geosummit.co.ke
 *.gitutors.co.za
@@ -1241,7 +1193,6 @@
 *.microturners.co.in
 *.miningassociates.co.in
 *.miyaru.co.ke
-*.mkbwindows.co.uk
 *.mktrading.co.za
 *.mooya.co.za
 *.motionislife.co.uk
@@ -1275,10 +1226,8 @@
 *.petrolabindo.co.id
 *.petstation.co.in
 *.pharmajobs.co.ke
-*.portmarine.co.tz
 *.prestigetyreandautosolutions.co.uk
 *.primasaga.co.id
-*.primebuildcontractors.co.ke
 *.printexchange.co.ke
 *.procretestructures.co.ke
 *.propertystock.co.in
@@ -1296,11 +1245,9 @@
 *.reliablerapidresponse.co.za
 *.renga.co.za
 *.renukaindustry.co.in
-*.mps.rfstaging.co.uk
 *.rileyfalconsecurity.co.ke
 *.romalimited.co.ke
 *.roseleagarage.co.uk
-*.rosretail.co.in
 *.routemart.co.in
 *.royalprinters.co.in
 *.rspetukangan.co.id
@@ -1315,9 +1262,7 @@
 *.sertifikasi.co.id
 *.shaktifoundation.co.in
 *.shubhshadi.co.in
-*.simplimoney.co.in
 *.simrajfabricators.co.ke
-*.sisidb.co.uk
 *.sixdegreescreative.co.ke
 *.skaleup.co.uk
 *.slsofficial.co.id
@@ -1356,7 +1301,6 @@
 *.thobilem.co.za
 *.superstar.tibolts.co.uk
 *.timbuktu.co.id
-*.timewiseconsulting.co.uk
 *.tmhairboutique.co.uk
 *.server.toeicswt.co.kr
 *.transglobaladjusters.co.ke
@@ -1378,7 +1322,6 @@
 *.wallpaperstudio.co.in
 *.warwickmotcentre.co.uk
 *.waxbill.co.tz
-*.wccchealthfacilitieswholesalers.co.za
 *.wenawenkosi.co.za
 *.wisewriters.co.uk
 *.wizzlimited.co.uk
@@ -1389,6 +1332,7 @@
 *.dj.zn.co.nz
 *.co-create2071.org
 *.coachingfinancieroconfidencial.com
+*.coadymarine.com
 *.coagula.online
 *.api-ms.cobainaja.id
 *.cocoplaynut.com
@@ -1396,7 +1340,6 @@
 *.codeanyapp.com
 *.codebluesystem.com
 *.odal.codeium.dev
-*.codelimd.com
 *.codelinkinfotech.com
 *.codemark.co
 *.codepostalpro.com
@@ -1413,7 +1356,6 @@
 *.colegiojuanbernardone.com
 *.colegiosanbenigno.cl
 *.colegiosembrador.cl
-*.colegiostellamaris.cl
 *.colegiucriminologie.md
 *.collinescommunications.com
 *.colombiacomputersupport.com
@@ -1430,7 +1372,6 @@
 *.adamakambalaj.com.tr
 *.adelaidebathrepairs.com.au
 *.adilogluyolyapi.com.tr
-*.adimogi.com.br
 *.transfer.adttemp.com.br
 *.advat.com.ng
 *.advitax.com.ec
@@ -1442,7 +1383,6 @@
 *.agendamaconicabrasil.com.br
 *.agroinsumoslameseta.com.co
 *.agropak.com.tr
-*.ai4fs.com.ng
 *.akkontreyler.com.tr
 *.aktifyapikimya.com.tr
 *.alarko.com.ar
@@ -1474,7 +1414,6 @@
 *.arantestecnologia.com.br
 *.arewamirror.com.ng
 *.arishhomeschool.com.ng
-*.arqsustancial.com.ar
 *.arquitecons.com.br
 *.arquivaae.com.br
 *.artsbygrace.com.br
@@ -1485,18 +1424,14 @@
 *.asiflyerbio.com.cn
 *.aslangrup.com.tr
 *.astomengenharia.com.br
-*.astrologia.com.co
 *.astroseyyah.com.tr
 *.asu.com.vn
-*.athenas.com.pe
 *.athiele.com.br
 *.atomm.com.br
 *.auseal.com.au
 *.autumnagedcare.com.au
 *.avitamedicina.com.br
-*.aygun-digital.com.bo
 *.azzurro.com.ar
-*.baisoya.com.pk
 *.bajarangabali.com.np
 *.bakertilly.com.ec
 *.bakmobilya.com.tr
@@ -1541,7 +1476,6 @@
 *.cantorpeninha.com.br
 *.caocuongtravel.com.vn
 *.caopositivo.com.br
-*.capacitecbi.com.mx
 *.capsfactory.com.mx
 *.carads.com.bd
 *.cargodominant.com.ph
@@ -1549,7 +1483,6 @@
 *.carlaperez.com.br
 *.carlsjunior.com.pa
 *.cdaonline.com.ar
-*.cearabomconforto.com.br
 *.celebranteclovisespinosa.com.br
 *.celiapenco.com.br
 *.centurionperu.com.pe
@@ -1595,13 +1528,11 @@
 *.cursoamigurumipassoapasso.com.br
 *.cursoscesp.com.br
 *.dagmetal.com.tr
-*.daijo.com.br
 *.damightdata.com.ng
 *.damlamasulamasistemleri.com.tr
 *.datalifez.com.ng
 *.ddservices.com.mx
 *.ddtecdedetizacao.com.br
-*.deangelisfilmes.com.br
 *.dedetizadoraresolv.com.br
 *.defendamazon.com.br
 *.delog.com.ng
@@ -1619,7 +1550,6 @@
 *.desirelandscapes.com.au
 *.devpassion.com.mx
 *.dgcomputer.com.br
-*.dhnconstrucciones.com.ar
 *.digitalconsultants.com.pk
 *.dinamicus.com.br
 *.diskete.com.br
@@ -1632,7 +1562,6 @@
 *.dublados.com.br
 *.dulcettieolic.com.br
 *.durangos.com.co
-*.dynamicindustries.com.pk
 *.eastbox.com.my
 *.edificiocomercial.com.br
 *.efitacademy.com.au
@@ -1641,7 +1570,6 @@
 *.electroking.com.mx
 *.elegantstudio.com.ng
 *.elegantusedu.com.au
-*.eletroportseg.com.br
 *.elevapark.com.mx
 *.elevecosmeticos.com.br
 *.elevenexpress.com.co
@@ -1650,7 +1578,6 @@
 *.emadparibahan.com.bd
 *.emandi.com.pk
 *.emporchid.com.tw
-*.empowermobility.com.au
 *.energiait.com.br
 *.ensalud.com.co
 *.ensamblearquitectura.com.co
@@ -1658,12 +1585,10 @@
 *.erkaradyator.com.tr
 *.erudicaoinvestimentos.com.br
 *.escritordiario.com.br
-*.escuelacaninabigdog.com.mx
 *.essentagro.com.br
 *.estandaringenieros.com.pe
 *.esthevaskin.com.np
 *.evolutiopilates.com.br
-*.expertcol.com.co
 *.expresodelacosta.com.ar
 *.extinuv.com.mx
 *.extramoda.com.ua
@@ -1697,16 +1622,13 @@
 *.gandmchapmanpainting.com.au
 *.gconsultores.com.co
 *.gebzeweb.com.tr
-*.getacfo.com.au
 *.gfoodpackaging.com.my
 *.ghsartex.com.br
-*.girocopterobrasil.com.br
 *.glaucireis.com.br
 *.globocia.com.br
 *.glowell.com.co
 *.gnettecnologia.com.br
 *.gnsys.com.br
-*.goalintense.com.ng
 *.goldentelecommunication.com.ng
 *.gonitech.com.ng
 *.gqsassessoria.com.br
@@ -1719,7 +1641,6 @@
 *.grupocardo.com.mx
 *.grupocisbra.com.br
 *.grupomotobel.com.br
-*.gruporosagoncalves.com.br
 *.grzegorzkulik.com.pl
 *.gtech.com.co
 *.gtzenterprises.com.np
@@ -1742,12 +1663,8 @@
 *.htingenieria.com.mx
 *.hydra.com.my
 *.hypeplumbing.com.au
-*.hys.com.co
 *.ideamos.com.mx
-*.idreamtravel.com.my
 *.ifilsa.com.mx
-*.imperatizdaconcertina.com.br
-*.imperiocreativo.com.mx
 *.inanyazilim.com.tr
 *.incrediblehomes.com.au
 *.infoplaceti.com.br
@@ -1781,7 +1698,6 @@
 *.jolantabartnik.com.pl
 *.jomsapotlokal.com.my
 *.jornalnovaepoca.com.br
-*.josymixmyhome.com.br
 *.jroconstrucciones.com.mx
 *.jsp.com.np
 *.juanalbertoyaria.com.ar
@@ -1798,7 +1714,6 @@
 *.kitspack.com.br
 *.klinikjohor.com.my
 *.kmes.com.pk
-*.kobena.com.my
 *.kogibase.com.ng
 *.proativa.konkisti.com.br
 *.kontarti.com.tr
@@ -1813,7 +1728,6 @@
 *.landmarkgroup.com.pk
 *.lasertime.com.mx
 *.lbdhmc.com.ph
-*.lecabine.com.mx
 *.leegarden.com.tw
 *.leticiamc.com.br
 *.ligadoaraguaia.com.br
@@ -1821,8 +1735,6 @@
 *.lindenconsultoria.com.br
 *.linkingroup.com.bd
 *.live.com.gt
-*.livetectelecom.com.br
-*.emailmarketing.locaweb.com.br
 *.lomefashion.com.ng
 *.losabuelos.com.mx
 *.lostheaven.com.cn
@@ -1847,7 +1759,6 @@
 *.medcar.com.tn
 *.medicalbrasil.com.br
 *.megabrand.com.pk
-*.megalista.com.br
 *.meiracontadores.com.br
 *.merceogrady.com.ar
 *.messat.com.tr
@@ -1869,7 +1780,6 @@
 *.mtnfs.com.pk
 *.mudardevidaja.com.br
 *.muilee.com.my
-*.multiversooracular.com.br
 *.myhijrah.com.my
 *.mysupreme.com.my
 *.nadalostelecom.com.ng
@@ -1913,11 +1823,9 @@
 *.pani.com.pk
 *.parafusacos.com.br
 *.parallel.com.gt
-*.pastelerosentrerios.com.ar
 *.pawsonthecoast.com.au
 *.pbkp.com.np
 *.pcchampion.com.co
-*.pclap.com.mx
 *.pctoolsbarrancabermeja.com.co
 *.peppersion.com.sg
 *.perdana.com.my
@@ -1928,15 +1836,11 @@
 *.phn.com.ng
 *.phonefixers.com.au
 *.pitt.com.br
-*.pizza10delivery.com.br
 *.plusbursatil.com.ec
 *.polarizadosdecasas.com.ar
-*.policytv.com.ng
-*.polipositiva.com.br
 *.poloseducacionais.com.br
 *.portaldeuniao.com.br
 *.powerdatasub.com.ng
-*.primlypremiumsolutions.com.ng
 *.printcity.com.co
 *.privadasdesanjose.com.mx
 *.prodamp.com.au
@@ -1969,8 +1873,6 @@
 *.rtt.com.co
 *.rubiomoveis.com.br
 *.rvonkruger.com.br
-*.sabiaempresaa.com.co
-*.sacfyf.com.mx
 *.sacomp.com.mk
 *.safaservices.com.sa
 *.e-commerce.saleensuporte.com.br
@@ -1986,7 +1888,6 @@
 *.sergiologan.com.br
 *.serviss.com.mx
 *.servivirtuales.com.co
-*.sexsecret.com.mx
 *.sfashion.com.mx
 *.shadedbsa.com.au
 *.shadestinting.com.au
@@ -1995,7 +1896,6 @@
 *.sidney.com.ng
 *.silpsicologia.com.br
 *.silus.com.mx
-*.sinnap.com.my
 *.siscofashion.com.ng
 *.sisic.com.co
 *.sisisarazcollection.com.ng
@@ -2008,7 +1908,6 @@
 *.smartlook.com.sa
 *.socialwiki.com.br
 *.softlink.com.br
-*.soiti.com.co
 *.solarselling.com.br
 *.sommexico.com.mx
 *.spanlift.com.au
@@ -2048,20 +1947,17 @@
 *.tradepay.com.ng
 *.tramaartetextil.com.mx
 *.transforwarding.com.mx
-*.travelimages.com.br
 *.trendshoptec.com.br
 *.trevoconstrucoes.com.br
 *.trimacinstallations.com.au
 *.tserv.com.br
 *.tservshop.com.br
 *.ttt.com.bo
-*.tucanosimports.com.br
 *.ucce.com.mx
 *.ugsnetwork.com.my
 *.ultimatetherapyservices.com.au
 *.uniglobe.com.pk
 *.unlbsl.com.np
-*.unrealpcs.com.au
 *.uscltd.com.pk
 *.uscorporation.com.pk
 *.usinadevendas.com.br
@@ -2088,9 +1984,7 @@
 *.waresagroup.com.pk
 *.watermark.com.pk
 *.wdespachante.com.br
-*.webcarbrasil.com.br
 *.wero.com.co
-*.westcommerce.com.br
 *.whitevivid.com.my
 *.wi2.com.br
 *.cautivo.wik.com.mx
@@ -2134,7 +2028,6 @@
 *.conjureup.ca
 *.conn.ph
 *.connellycandyland.info
-*.conscienciayvibracion369.com
 *.constructorarise.com
 *.consultando-web.com
 *.consultasnfc.club
@@ -2146,7 +2039,6 @@
 *.vmi1159541.contaboserver.net
 *.contliv.ro
 *.controletempo.com
-*.conventionalservices.com
 *.zang3.conyersdill.top
 *.coopec-2sftogo.com
 *.cooperativaelaguila.com
@@ -2196,6 +2088,7 @@
 *.cruzfunezlopez.com
 *.cruzrojareanima.cl
 *.crypticgamings.com
+*.crz.de
 *.csgoxdomain.us
 *.po.csrcpall.com
 *.ctimeresources.com
@@ -2210,7 +2103,6 @@
 *.cvgm.ar
 *.cvmalala.com
 *.cwhawkins.org
-*.cyberi.org
 *.cycling-today.live
 *.cynorix.com
 *.cynshare.com
@@ -2235,7 +2127,6 @@
 *.daneenbukshfs.ae
 *.daniyalcomputer.com
 *.kentuckycaharrisburg.dannykollar.sk
-*.danyachts.com
 *.dapoermbae.shop
 *.dapproid.com
 *.darearwa.pk
@@ -2245,7 +2136,6 @@
 *.darktools.cx
 *.dartagnan-capitals.com
 *.dastkarfoundation.com
-*.datahunter.mx
 *.datasystembolivia.com
 *.dates-king.com
 *.daughtersofkenya.org
@@ -2281,7 +2171,6 @@
 *.declutter.top
 *.decorhire-johannesburg.com
 *.decoryaran.ir
-*.deepayan.org
 *.deepusoman.com
 *.deesudcoolingtower.com
 *.defendamazon.com
@@ -2301,7 +2190,6 @@
 *.dentxl.in
 *.departamentosamuebladosmonterrey.mx
 *.deped-divisionofborongancity.com
-*.depositomh.com
 *.derekludlow.com
 *.derigoandina.cl
 *.derryhealthwellness.com
@@ -2311,7 +2199,6 @@
 *.designcollections.pe
 *.designideation.tech
 *.dessertartbydeepali.com
-*.dessur.mx
 *.destinyrestorationassociation.org
 *.detoyprojects.net
 *.dev-demo.info
@@ -2359,6 +2246,7 @@
 *.diliganz.lk
 *.dilisaperu.com
 *.dimelabs.io
+*.stdown.dinju.com
 *.dinoyy.xyz
 *.dintisorcare.ro
 *.dionesh.com
@@ -2372,7 +2260,6 @@
 *.disturbnot.com
 *.divaitfaiye.com
 *.divides.xyz
-*.divinfosystem.com
 *.diwodiwo.xyz
 *.dj-david.ro
 *.djgdistribuciones.com
@@ -2421,16 +2308,13 @@
 *.dokumentasoluciones.com
 *.domallpl.pl
 *.domesticasia.com
-*.dominoqq401.com
 *.domiposao.com
 *.domusnostra-studio.ro
 *.donadesi.co
-*.donhallsprimerib.com
 *.donkeytourscroatia.com
 *.doodlesz.app
 *.doorcat.quest
 *.dorkarindustries.com
-*.dosaenterprise.com
 *.dostawa-id.live
 *.server4.dosya.co
 *.server72.dosya.co
@@ -2522,7 +2406,6 @@
 *.ec-habilitar.com
 *.ecit-dev.com
 *.ecloset.pk
-*.ecofloorcorp.com
 *.econintech.org
 *.econnectshop.in
 *.economistasyasesores.com
@@ -2536,9 +2419,7 @@
 *.edesireshop.com
 *.editmontage.com
 *.edns.biz
-*.alriyada.edu.sa
 *.althqafi.edu.sa
-*.ascent.edu.my
 *.bcghs.edu.bd
 *.bluelotus.edu.au
 *.calenda.edu.co
@@ -2552,7 +2433,6 @@
 *.colegioignacioallende.edu.mx
 *.colegioparroquialaconsolata.edu.co
 *.csil.edu.pe
-*.ctep.edu.co
 *.cuc.edu.eg
 *.deukhurimultiplecampus.edu.np
 *.dvc.edu.vn
@@ -2572,7 +2452,6 @@
 *.kec.edu.np
 *.khaithaclothien.edu.vn
 *.kmcpokhara.edu.np
-*.krv.edu.my
 *.lsn.edu.dz
 *.nacolnist.edu.np
 *.namunasebs.edu.np
@@ -2617,7 +2496,6 @@
 *.educonix.com
 *.eduearn.org
 *.edukarya.net
-*.eduook.com
 *.edutodlr.com
 *.eecl.africa
 *.eehxhl.com
@@ -2625,7 +2503,6 @@
 *.eetiongmotorsports.com
 *.southcarolinagaboise.efashionpark.com
 *.efeceweb.com
-*.efhamcomputer.com
 *.eforhalisaha.com
 *.egdcreation.com
 *.egii.ro
@@ -2706,7 +2583,6 @@
 *.energyplanetdmcc.com
 *.enertechbc.com
 *.enfyhub.com
-*.constrowins.eng.br
 *.eng-designconsult.com
 *.english.lc
 *.engr-kelvin.com
@@ -2718,7 +2594,6 @@
 *.enterr10tv.com
 *.entersa.pl
 *.entertainmentstation.biz
-*.enviro-boise.com
 *.enzomatencio.com
 *.enzotex.mx
 *.epargne-retraite-entreprises-bnpparibas.com
@@ -2743,7 +2618,6 @@
 *.regaloscaos.es.ht
 *.stage-vaujany.escrime-parmentier.fr
 *.escritordiario.com
-*.esdgroup.in
 *.esell.lk
 *.esellbazar.com
 *.esellx.com
@@ -2765,7 +2639,6 @@
 *.estudiointegraldearte.com
 *.etanb.com
 *.eterapist.com
-*.etereo.in
 *.ethar-relief.org
 *.etharrelief.org
 *.ethio-health.com
@@ -2782,7 +2655,6 @@
 *.eusketxe.com
 *.eutradepeopl.top
 *.evcol.co
-*.eventionevents.com
 *.eventivo.pk
 *.eventosllacolen.cl
 *.eventstime.sa
@@ -2792,14 +2664,12 @@
 *.ewizardz.com
 *.ex-yu.site
 *.examcenter.ng
-*.excelabridge.com
 *.exclusive-inter.com
 *.execs.com
 *.exetercathay.com
 *.exilien.my
 *.exilum.com
 *.eximiamedical.ro
-*.existay.com
 *.expaceos.com
 *.expancio.us
 *.expeditionarystories.co
@@ -2842,7 +2712,6 @@
 *.acm.faqserv.com
 *.adf.faqserv.com
 *.adffs.faqserv.com
-*.adir.faqserv.com
 *.adl-ap.faqserv.com
 *.adl-fot.faqserv.com
 *.adl-gga.faqserv.com
@@ -2957,17 +2826,13 @@
 *.faregadget.com
 *.a-iran.fartit.com
 *.adf-za.fartit.com
-*.adl-flk.fartit.com
-*.adl-irna.fartit.com
 *.adl-oi.fartit.com
 *.adl-qda.fartit.com
 *.adl-qii.fartit.com
 *.adl-qps.fartit.com
 *.adl-qqu.fartit.com
-*.adl-sa.fartit.com
 *.adle.fartit.com
 *.adlggs.fartit.com
-*.adlh-sn.fartit.com
 *.adli-q.fartit.com
 *.adlir.fartit.com
 *.adlks.fartit.com
@@ -2991,18 +2856,14 @@
 *.iran-hj.fartit.com
 *.iran-qe.fartit.com
 *.iran-sh.fartit.com
-*.iran-vb.fartit.com
-*.irb-ed.fartit.com
 *.irhg.fartit.com
 *.sahadl.fartit.com
 *.saham.fartit.com
 *.sahame.fartit.com
 *.sahamlj.fartit.com
-*.sahamr.fartit.com
 *.sahdm.fartit.com
 *.sahmbe.fartit.com
 *.sahmn.fartit.com
-*.sahmnu.fartit.com
 *.scv.fartit.com
 *.sdc.fartit.com
 *.sdhm.fartit.com
@@ -3016,7 +2877,6 @@
 *.sst.fartit.com
 *.ssv.fartit.com
 *.uran.fartit.com
-*.uran-adl.fartit.com
 *.variz.fartit.com
 *.fasahatechdutse.com
 *.fashionmanya.com
@@ -3032,7 +2892,6 @@
 *.fawezi.org
 *.fazalengineering.com
 *.fazlollah.net
-*.fbbazar.com
 *.fbbazarbd.com
 *.fbgestate.com
 *.fbsolution.org
@@ -3096,7 +2955,6 @@
 *.flashplayeractivex.info
 *.flauntstaluhet.website
 *.fleek.one
-*.fleexmobile.com
 *.flevo.ma
 *.flexiautosiskola.hu
 *.flexiblescovarrubias.cl
@@ -3111,7 +2969,6 @@
 *.flycrystaluae.com
 *.flyermobi.com
 *.flyhigroup.com
-*.flynas-sudan.com
 *.flyserpservices.com
 *.fmcidade.com
 *.fmpmalaysia.com
@@ -3139,7 +2996,6 @@
 *.francais-english-arabic.com
 *.freay.tech
 *.freconmieetfinances.com
-*.mitgliederbereich.frederik-malsy.com
 *.fredy.ee
 *.dom.daf.free.fr
 *.habbotips.free.fr
@@ -3173,9 +3029,7 @@
 *.funscience.in
 *.funterdent.com
 *.furfabulousmobilepetspa.com
-*.futurefibered.com
 *.futurevisionme.com
-*.fxareba.com
 *.fxtransportation.com
 *.fyfnd.org
 *.fynefield.com
@@ -3223,7 +3077,6 @@
 *.generationsholdings.com
 *.genericphar.com
 *.geniuserc.com
-*.gentlemanstore.cl
 *.genyda.com
 *.georgianaivan.ro
 *.georgica.ro
@@ -3267,7 +3120,6 @@
 *.gjvhost.com
 *.hed.gkp.pk
 *.gkrickshaw.in
-*.glaretech.net
 *.gllthub.com
 *.globalbrains.co
 *.globaldream.events
@@ -3290,7 +3142,6 @@
 *.glycpolsbeel.cf
 *.gnncoautoparts.com
 *.pa-sampit.go.id
-*.pn-raha.go.id
 *.pt-bali.go.id
 *.smpn41.semarangkota.go.id
 *.goastudios.com
@@ -3302,7 +3153,6 @@
 *.gueveadehumboldt.gob.mx
 *.hospitalvirgendefatima.gob.pe
 *.nopaltepec.gob.mx
-*.redperifericaaqp.gob.pe
 *.sindicaturadetecate.gob.mx
 *.ugelconcepcion.gob.pe
 *.gobelconstruction.com
@@ -3338,7 +3188,6 @@
 *.files.goriem.com
 *.gostudents.fr
 *.catbaloganwd.gov.ph
-*.cdan.gov.co
 *.esecentro1.gov.co
 *.cshms.kp.gov.pk
 *.hd.kp.gov.pk
@@ -3347,6 +3196,7 @@
 *.njc.gov.ng
 *.dev.oni.gov.ge
 *.salemcorporation.gov.in
+*.cnom.sante.gov.ml
 *.slmc.gov.lk
 *.spsc.sudurpashchim.gov.np
 *.goxsite.top
@@ -3380,8 +3230,6 @@
 *.grossiste.tn
 *.groupehms.td
 *.groupersgame.com
-*.growontech.com
-*.growrewardcard.com
 *.growrichs.com
 *.growthxmedia.co
 *.growval-mm.com
@@ -3400,7 +3248,6 @@
 *.gsdfe.cc
 *.gssaude.pt
 *.gstechnique.com
-*.gta5cheatmenu.com
 *.gthub.org
 *.gtopakistan.org
 *.guestspy.com
@@ -3427,7 +3274,6 @@
 *.h-i.mx
 *.h0.pm
 *.h2u.host
-*.h4ac.com
 *.hacsecurities.com
 *.hadfs.com
 *.haidertour.com
@@ -3459,7 +3305,6 @@
 *.hawiktechs.com
 *.haxx.in
 *.hayahg.com
-*.hbionline.live
 *.hbnursery.com
 *.hcresto.com
 *.healthcareprofessionals.ca
@@ -3474,14 +3319,11 @@
 *.alaskaflboise.heliuswax.com
 *.helloconci.com
 *.hellospy.com
-*.helmprecision.com
-*.helpuc.org
 *.hemrikbutor.hu
 *.hemseducation.com
 *.hendoshkagroup.com
 *.heniekmusiol.pl
 *.herbalhills.pk
-*.herbalspoon.com
 *.herbs.pk
 *.herebestpriceoftheday.com
 *.botfusion1-8f4913f37609.herokuapp.com
@@ -3500,14 +3342,12 @@
 *.hightronix.net
 *.hijactive.net
 *.hilldalefunding.com
-*.hilyers.com
 *.himalayainternational.in
 *.himalayanape.in
 *.forest.himanfast.com
 *.pic.himanfast.com
 *.sl.himanfast.com
 *.hiperajans.com
-*.hiremeclean.com
 *.hiro-af.org
 *.naniwa-ginzaaward.hisaki-design.com
 *.historiasdelescarabajo.com
@@ -3516,7 +3356,6 @@
 *.hitsturbo.com
 *.running.hkcosmo.com
 *.hklae.pl
-*.hlcombustibles.com
 *.hmhconnect.ng
 *.hnalkhedmad.com
 *.yp.hnggzyjy.cn
@@ -3541,12 +3380,10 @@
 *.hoster-test.ru
 *.hostigram.xyz
 *.hostingholics.com
-*.arizonaakdenver.hotcrumblecompany.com
 *.illinoisarjeffersoncity.hotcrumblecompany.com
 *.hotelanamurter.com
 *.hotelaromakalaw.com
 *.hotelava.ir
-*.hoteljimmybd.com
 *.hotelkiwi.gr
 *.hotelseansand.com
 *.hotelspaexcelsior.ca
@@ -3556,7 +3393,6 @@
 *.houssagynecologue.com
 *.houssemeddine.com
 *.howtomake.live
-*.hpiflogistics.com
 *.spst.hqup.in
 *.hrsphr.com
 *.hseda.com
@@ -3580,19 +3416,15 @@
 *.hybridproduction.hu
 *.hynige.cf
 *.hypnose-paris-11.fr
-*.hypospray.com
 *.i0.wf
 *.iabcsbh.com
-*.iacademy.fit
 *.iaqqav.com
 *.iarista.com
 *.iatte.org
-*.ibigerservices.com
 *.ichhagroup.com
 *.iclds.org
 *.icloudappe.com
 *.icmcargo.com
-*.iconaatamaker.in
 *.icuc-international.org
 *.fvia.id.vn
 *.id-3842.me
@@ -3625,14 +3457,12 @@
 *.igpastpapers.com
 *.igpmanzanillaygordaldesevilla.org
 *.ijcsmohali.in
-*.ijeuwa.com
 *.ikapcrberbagi.id
 *.ikirian.com
 *.ikonz.org
 *.ilkyardimakademisi.net
 *.ilmzone.com
 *.image-nation.org
-*.imagebengalnews.com
 *.imanifestnow.net
 *.imforx.com
 *.imhansen.com
@@ -3653,9 +3483,7 @@
 *.indohcf.com
 *.indokopp.com
 *.indomarineshipchandler.com
-*.inducleandecolombia.com
 *.industrialoutlook.in
-*.industriastornometaljr.com
 *.infaccocr.com
 *.jatra-app.infinityfreeapp.com
 *.inflatablez.io
@@ -3666,7 +3494,6 @@
 *.transprt.info.pl
 *.waldemar.info.pl
 *.infocuankerajaan.co
-*.infocuankerajaan.xyz
 *.infolivescore.net
 *.infolombok.net
 *.infomastar.com
@@ -3692,7 +3519,6 @@
 *.innovapakistan.com
 *.innovativeksa.com
 *.takayuki-office.inotaka.com
-*.insanmadanijambi.org
 *.insidemoringa.com
 *.insp1re.online
 *.inspira-inmobiliaria.com
@@ -3751,11 +3577,11 @@
 *.istaffrecruits.com
 *.istanasemer.com
 *.isteonline.org
+*.drive.google.com.it-barcelona.com
 *.italianpipemakers.com
 *.italianplanters.com
 *.itea-rwanda.com
 *.itfixbit.com
-*.itfolkstechnology.com
 *.itinerariabruttii.it
 *.itosha.top
 *.itpathshalaa.com
@@ -3764,22 +3590,17 @@
 *.adirir.itsaol.com
 *.adl-aka.itsaol.com
 *.adl-aqw.itsaol.com
-*.adl-as.itsaol.com
-*.adl-irib.itsaol.com
-*.adl-irn.itsaol.com
 *.adl-itn.itsaol.com
 *.adl-nw.itsaol.com
 *.adl-qew.itsaol.com
 *.adl-qsh.itsaol.com
 *.adl-sam.itsaol.com
-*.adl-ur.itsaol.com
 *.adlgg.itsaol.com
 *.adlgs.itsaol.com
 *.adlihh.itsaol.com
 *.adllhs.itsaol.com
 *.adlq.itsaol.com
 *.adlwh.itsaol.com
-*.asaham.itsaol.com
 *.asahm.itsaol.com
 *.asc.itsaol.com
 *.asqs.itsaol.com
@@ -3789,13 +3610,9 @@
 *.dsm.itsaol.com
 *.i-iran.itsaol.com
 *.iran-hg.itsaol.com
-*.saham-h.itsaol.com
-*.saham-w.itsaol.com
 *.sahamiran.itsaol.com
-*.sahamw.itsaol.com
 *.sahaqm.itsaol.com
 *.sahg.itsaol.com
-*.sahum.itsaol.com
 *.itsi.cl
 *.ittehadchemicals.com
 *.iwanttoknow.live
@@ -3810,7 +3627,6 @@
 *.jaerg.pl
 *.jaffnaheritage.lk
 *.jageshwarrayartibedcollege.org
-*.jagobulletin.com
 *.jagrukmumbainews.com
 *.jaideemenu.com
 *.jaimemcgee.top
@@ -3826,7 +3642,6 @@
 *.jannaty-charity.org
 *.januszpr.pl
 *.jardintreehouse.cl
-*.jarsofwinepress.com
 *.jasimuddin.guru
 *.jasmin-studios.ro
 *.jatoo-ci.com
@@ -3844,20 +3659,17 @@
 *.jeakimphotography.co
 *.jeffdahlke.com
 *.jeffskardalaw.com
-*.jelitamultimedia.com
 *.jemaserviciosgenerales.com
 *.jenningscustomhomes.com
 *.jestusweldingschool.com
 *.jesuscolin.top
 *.jetarabia.com
-*.jextoban.com
 *.jfao-ca.org
 *.jge.cl
 *.jgwebdesign.com
 *.jhayesconsulting.com
 *.jhinstitute.com
 *.jiandikie.com
-*.jibaleysolution.com
 *.jibranenterprises.com
 *.encore5.jig.media
 *.encore6.jig.media
@@ -3909,7 +3721,6 @@
 *.kaloriferbacasi.com
 *.kalp-s.com
 *.kalpavirutchamfoundation.org
-*.kambohsoftec.com
 *.kameleonprinting.com
 *.kamura.pl
 *.kamygraphics.com
@@ -3918,7 +3729,6 @@
 *.kaooriginal.com
 *.kaplikayaadacafe.com
 *.kapsnovin.com
-*.kapuas88livescore.com
 *.karaoulas.gr
 *.karateacademy.gr
 *.77eayc.karbonncelullares.pro
@@ -3944,8 +3754,6 @@
 *.kclub.pk
 *.the-hope-foundation.kdconnect.uk
 *.keenanholding.com
-*.keeptrending.com
-*.kelidsazan.com
 *.kenal.link
 *.kenesrakishev.net
 *.keramatfarm.net
@@ -3964,7 +3772,6 @@
 *.khuphomoidonghoa.com
 *.khushheart.com
 *.khyyril.com
-*.kidcocandy.com
 *.kidneychronicles.in
 *.kidsdokan.com
 *.kidzera.in
@@ -4047,7 +3854,6 @@
 *.lamirandehoteltchad.com
 *.lamurudu.com
 *.lanahospital.com
-*.landhuisbelnem.com
 *.lanecert.com
 *.lanemay.com
 *.lapetitesansebastian.com
@@ -4077,7 +3883,6 @@
 *.leadguru.ma
 *.leadmachineexperts.com
 *.leapfrogstrategy.com
-*.learn-conversation.com
 *.washingtontxtopeka.learnmoneymakingskills.com
 *.learnxeducation.com
 *.lebens-elemente.com
@@ -4153,7 +3958,7 @@
 *.litestudios.us
 *.littlecoveresort.com
 *.littlestarcasting.com
-*.livescorekapuas88.com
+*.juntadeconfrariesdese.live-website.com
 *.liveskorhdp.com
 *.livetrack.in
 *.livework.in
@@ -4161,7 +3966,6 @@
 *.livverr.com
 *.llavedelaprendizaje.com
 *.llcdn.eu
-*.llumarsaudi.com
 *.loanbtc.org
 *.loanseed.co
 *.localbitcoin.us
@@ -4194,7 +3998,6 @@
 *.lpba-ils.com
 *.lsopas.pl
 *.lubpl.pl
-*.lucaspena.com
 *.lucknowcakes.in
 *.ludiakama.be
 *.luixsantos.com
@@ -4208,6 +4011,7 @@
 *.luxurynclassic.com
 *.luxurypropertiesfl.com
 *.lycheepanel.info
+*.xt.lykj988.com
 *.lyra.build
 *.m0.yt
 *.m2play.ro
@@ -4227,7 +4031,6 @@
 *.madeinbots.com
 *.madele.bi
 *.maesthetics.pk
-*.maestheticsclinic.com
 *.maestrohealthafrica.com
 *.magigraph.fr
 *.magisk.info
@@ -4242,8 +4045,6 @@
 *.majamarta.pl
 *.majortravelegypt.com
 *.majoziacademy.com
-*.makemoney.bond
-*.makeupuccino.com
 *.makglobal.in
 *.malabsatfal.com
 *.malaysia-study.com
@@ -4253,7 +4054,6 @@
 *.mallpls.pl
 *.mamabakery.ca
 *.mamazgroupbd.com
-*.managerial.email
 *.mancogroup.com
 *.mandarinur.com
 *.manglagroup.in
@@ -4306,7 +4106,6 @@
 *.maxixeatelier.com
 *.maxman.shop
 *.maxmoney.com
-*.maxsolution.in
 *.maxuikl.top
 *.maxximbrasil.com
 *.mayanmexico.travel
@@ -4348,11 +4147,9 @@
 *.mediscanspecialized.com
 *.medisupplywarehouse.com
 *.mediterraneanpanorama.org
-*.mediterraneanshippingllc.com
 *.medtraxcourierservices.com
 *.medya54.com
 *.meera-alsham.com
-*.meetgirl24.online
 *.meeweb.com
 *.mefound.com
 *.megacell.pe
@@ -4375,7 +4172,6 @@
 *.merakian.top
 *.meraom.lt
 *.merchentusindiajute.com
-*.mercyconsultancyhq.com
 *.meridianparkestate.com
 *.meritodigital.com
 *.merret.cl
@@ -4403,6 +4199,7 @@
 *.mgyt.xyz
 *.mhdcr.com
 *.mhideals.com
+*.mhimedicalbilling.com
 *.mhpropertiesltd.com
 *.mhusseinib.com
 *.miami-breeze.com
@@ -4423,23 +4220,19 @@
 *.milanotecnoservice.it
 *.milleniumtelecomservice.com
 *.minainn.com
-*.mindfully.vn
 *.mindit.in
 *.mindset-4-success.com
 *.mindspacesolution.in
 *.focus2.minhacasa.tv
 *.mini-apk.com
-*.src1.minibai.com
 *.minidoctor.org
 *.minimarketivanita.com
 *.mipanel.me
-*.mirabilismusic.net
 *.miracle-mansions.com
 *.miracle-manufacturing.com
 *.miracle-mgmt.com
 *.miracleinfotech.org
 *.miradamaga.cl
-*.mirazbakery.com
 *.mirometal.com
 *.misfena.ro
 *.mishal.be
@@ -4452,7 +4245,6 @@
 *.mitostour.com
 *.mittaa.com
 *.mittmexico.com
-*.mittnyahem.com
 *.mixer-novostei.ru
 *.mixit-sound.com
 *.mkrissd.pl
@@ -4460,26 +4252,20 @@
 *.mmcctechnology.com
 *.mmredc.com
 *.mnatsakanyan.am
-*.mneonsigns.com
 *.mnoger.cf
 *.mntrusted.com
 *.mobiletoilet.lk
 *.mochilaeasas.com
 *.modack.com
-*.modatrends.nl
 *.modernprecast.com
 *.modernsupplies-eg.com
 *.modular-software-expertise.com
 *.moe-edugm.my
-*.moeve-schmelz.de
 *.moghullaw.com
 *.mohammadigroup.com
-*.mohasanteck.com
 *.mohyudinwebdesigns.com
-*.moknex158.xyz
 *.mokolino.ro
 *.molinoloizzoaltamura.it
-*.moltaqa.net
 *.momolive.work
 *.monikajoanna.pl
 *.moninediy.com
@@ -4491,7 +4277,6 @@
 *.moonshinephilly.com
 *.moonzetestlab.com
 *.familyfontsview.mooo.com
-*.mooreinsure.net
 *.morajtravel.com
 *.moraya.id
 *.more-power-tool.com
@@ -4504,7 +4289,6 @@
 *.motexpert.org
 *.motigroup.net
 *.moto-expert.gr
-*.motociclistagiapponese.com
 *.motoclubefaro.com
 *.motorrad-tours.com
 *.moucecore.org
@@ -4520,7 +4304,6 @@
 *.mq-lounge.com
 *.adl-sam.mrbasic.com
 *.adl-vvs.mrbasic.com
-*.adloi.mrbasic.com
 *.adlr.mrbasic.com
 *.adq.mrbasic.com
 *.adsqe.mrbasic.com
@@ -4597,12 +4380,6 @@
 *.my-xppen.com
 *.my0115.ru
 *.adlv.my03.com
-*.ed-ib.my03.com
-*.edsd.my03.com
-*.ir-edalat.my03.com
-*.sada.my03.com
-*.sair.my03.com
-*.sed.my03.com
 *.myartfric.media
 *.cfu.twr.mybluehost.me
 *.mycalltaxi.com
@@ -4617,7 +4394,6 @@
 *.myfootball247.com
 *.mygroman.com
 *.myguitarcenter.ir
-*.myhairven.com
 *.myhealthspin.com
 *.myikigai.hu
 *.myinternetchapel.org
@@ -4672,18 +4448,15 @@
 *.nasuhbeyakademi.com
 *.nataliairani.com
 *.nathicharamimatrimony.com
-*.nativafmtubarao.com
 *.nativesfilmworks.com
 *.nattivos.com
 *.naturalfa.pt
 *.naturaltaste-eg.com
 *.naturessupplementsusa.com
 *.navarro.am
-*.naveeslawconsultants.com
 *.navercloud.org
 *.navimumbaicarcare.com
 *.nawaz.pk
-*.nazibmahfuz.com
 *.nazifafashion.com
 *.nbconstructor.com
 *.nblandgroup.com
@@ -4692,7 +4465,6 @@
 *.qa.ncompassmkt.com
 *.ndccny.com
 *.ndegj3peoh.com
-*.ndonoenergy.com
 *.ndskm.com
 *.nebo-trk.com
 *.neednoneedles.com
@@ -4722,7 +4494,6 @@
 *.sapulidi.net.id
 *.ssc.net.pk
 *.tcaservices.net.au
-*.totaltaxi.net.br
 *.shell.websitebuilderaustralia.net.au
 *.netboxsolutions.com
 *.netelvideo.com
@@ -4764,7 +4535,7 @@
 *.nextleveltranscription.com
 *.nexusfm.uk
 *.nezogh.com
-*.ngarengan.com
+*.skilled-stingray-gladly.ngrok-free.app
 *.nguyenducduy.com
 *.nhakhoablossom.vn
 *.nhatheptienchebinhduong.com
@@ -4800,7 +4571,6 @@
 *.nonegar2.ir
 *.textart.nonhoff.info
 *.noraxsolutions.com
-*.normacsales.com
 *.northgatebakery.ca
 *.nortonupdates.online
 *.nortproperties.se
@@ -4820,13 +4590,10 @@
 *.nskfyl.com
 *.nsmlab.com
 *.nspropertyonline.com
-*.nstqb.org
 *.nueffectsolutions.com
 *.nunoecristinawellnesscoachs.com
 *.nunotel.net
 *.nupectogo.com
-*.nurin.ug
-*.nustreamdevsite.com
 *.nutrinearbuy.com
 *.nvidiainspector.ru
 *.nxtid.tv
@@ -4861,7 +4628,6 @@
 *.romatotti520.oicp.io
 *.oilmex.mx
 *.oisrec.com
-*.okakafc.com
 *.okaylogistics.com
 *.okidok.se
 *.oksancelikcati.com
@@ -4872,7 +4638,6 @@
 *.olxshop.com
 *.olympicdocs.com
 *.omal.in
-*.omalworldwide.com
 *.omangraphicsco.com
 *.omega-sd.ro
 *.omegaservices.fr
@@ -4890,7 +4655,6 @@
 *.online-cloud.info
 *.onlineandon.com
 *.onlinedesignstudio.net
-*.onlinejournalism.pk
 *.onlinepaysafeollx.shop
 *.onlinequranforkids.com
 *.onlinequranlearningzone.com
@@ -4902,7 +4666,6 @@
 *.ooolowokureandco.org
 *.oops.best
 *.opal.rw
-*.opesjk.ug
 *.opolis.io
 *.opsol.com
 *.opticienregard.com
@@ -4918,7 +4681,6 @@
 *.nurelfalah.or.id
 *.ppski.or.id
 *.sbn.or.id
-*.uwoya.or.tz
 *.zato.or.tz
 *.oralemexicanrestaurant.com
 *.orana.ca
@@ -4961,7 +4723,6 @@
 *.pcfa.org.my
 *.pns.org.pk
 *.powiadomienia.org.pl
-*.revangenclik.org.az
 *.santaritasjc.org.br
 *.sintracespadm.org.br
 *.sonsik.org.np
@@ -5015,7 +4776,6 @@
 *.pablobreijo.es
 *.pacificgroup.co
 *.pack.ma
-*.dl.packetstormsecurity.net
 *.pacoprian.es
 *.paingta.xyz
 *.pakistan1.tv
@@ -5122,7 +4882,6 @@
 *.arizonaorbatonrouge.phoenixcareintl.com
 *.phoenixduran.com
 *.photomart.tn
-*.photonupstudio.com
 *.photosuite.in
 *.phung123.com
 *.phweditorial.com
@@ -5158,11 +4917,9 @@
 *.plasteritelfe.com
 *.plastiboxgm.com
 *.plastifikacijametala.com
-*.platformintl.pk
 *.playdr2.com
 *.player1532.com
 *.playervisual.com
-*.playfairltd.info
 *.185-236-231-141.plesk.page
 *.priceless-mayer.35-203-61-10.plesk.page
 *.pleumeurbodou.com
@@ -5194,7 +4951,6 @@
 *.ponnerhut.com
 *.poolautomaution.ca
 *.utahilfrankfort.porradelfavosto.com
-*.portalbola168.com
 *.portalsouls.fun
 *.portmap.host
 *.portviewcityhotel.com
@@ -5204,7 +4960,6 @@
 *.posmicrosystems.com
 *.potatogoose.com
 *.powerexfire.com
-*.powermustangclub.cl
 *.powerpal.app
 *.powertexmw.com
 *.powerthruconsulting.com
@@ -5222,7 +4977,6 @@
 *.pregnantdogandcatrescue.com
 *.premierbuss.com
 *.premierfl.mx
-*.premiumwellpro.com
 *.prephe.ro
 *.prestazione-eur.info
 *.prestburycheshire.com
@@ -5272,8 +5026,6 @@
 *.prymusedukacja.pl
 *.psf-store.net
 *.psiquevivir.com
-*.psorientalmarket.com
-*.psp-news.org
 *.psychotests.fr
 *.pt44s.com
 *.ptbolaaman.com
@@ -5324,7 +5076,6 @@
 *.quickschool.net
 *.quieressermisocio.com
 *.quiikly.com
-*.quikstationsa.com
 *.quind.de
 *.quintacamelot.com
 *.quintadospinheirais.pt
@@ -5415,6 +5166,7 @@
 *.relianceeducation.net
 *.remdiswap.com
 *.rencontrenationaledanse.fr
+*.app.renovaserv.bio
 *.rentalmobildisilangit.com
 *.7fec6270ed.repl.co
 *.repostedjohn.com
@@ -5514,11 +5266,9 @@
 *.rubria.net
 *.rufoussmc.com
 *.rummygoplay.in
-*.runnerspacegifts.com
 *.rupbasanjayapura.com
 *.russondesign.com
 *.rusticironstore.com
-*.ruttiks.com
 *.rwugt.com
 *.rydevs.com
 *.rydlandtransport.no
@@ -5568,7 +5318,6 @@
 *.sambhavtv.com
 *.sameirotravel.com
 *.samueletini.com
-*.sandiamagazine.com
 *.sandiegoloanpro.com
 *.sandrogarcia.pt
 *.sanefisio.com
@@ -5700,7 +5449,6 @@
 *.shardaengineering.in
 *.shardastationery.com
 *.shareboosting.com
-*.sharethatbiz.com
 *.sharifiandigital.com
 *.shariiph.com
 *.shariquemanzer.com
@@ -5755,7 +5503,6 @@
 *.silverytips.com
 *.silverzone.pk
 *.simnasfikpunhas.com
-*.simontradingrdc.com
 *.simpangbaramobile.com
 *.simplywhatsapp.com
 *.simsekmetal.com
@@ -5814,10 +5561,10 @@
 *.smiletrip-oneworld.com
 *.smisconsulting.com
 *.smk-alasror.net
+*.smmpanelwallah.online
 *.smokvap.fr
 *.smprintingca.com
 *.smroller.com
-*.sms-my.com
 *.sms13.de
 *.smsfunny.ir
 *.smzt.shop
@@ -5846,10 +5593,8 @@
 *.sololicores.cl
 *.solucionesmp.co
 *.solucionespits.com
-*.solutionforum.au
 *.solutionsinengineering.com
 *.solutionze.com
-*.somosmejortv.com
 *.somoyerdarpon.com
 *.somoyerkagoj.com
 *.sondoscamisas.com
@@ -5889,9 +5634,9 @@
 *.spsiphil.com
 *.spylive360.com
 *.staging.aoibhneas.org.scms.sq1.io
+*.sqacommunitybd.org
 *.square4dnb.com
 *.srbpolaris.ru
-*.srcdevelop.com
 *.srdm.in
 *.sre-vn.com
 *.srg.az
@@ -5953,10 +5698,7 @@
 *.stremdubai.com
 *.stringlightscuracao.com
 *.stromduellen.no
-*.strongbooster.xyz
-*.stronggila.xyz
 *.strongkapten.xyz
-*.strongsuper.xyz
 *.stsbd.org
 *.studentalpharotterdam.nl
 *.studio-fitmumfrance-aix.fr
@@ -5973,7 +5715,6 @@
 *.suarapamong.com
 *.success-4you.com
 *.succyarthyry.com
-*.suestanley.com
 *.suitesejecutivasmonterrey.com
 *.suitesmonterrey.mx
 *.suitesobispado.com
@@ -5990,9 +5731,7 @@
 *.sunrise-bremen.de
 *.sunudigicom.com
 *.sunuplaza.com
-*.superanunciosweb.com
 *.superdreadi.com
-*.supereconomias.com
 *.supergaywedding.com
 *.superiorairpurification.com
 *.superiorgoods.net
@@ -6020,7 +5759,6 @@
 *.syakiraartdesign.com
 *.sydconenterprises.com
 *.syedahmad.me
-*.sykmm.com
 *.symbolscopy.net
 *.score.symposiumhaiti.com
 *.synagoguecityministries.org
@@ -6045,18 +5783,15 @@
 *.talhaislam.com
 *.talkbali.com
 *.tanakakoichi.com
-*.tanukuinfo.com
 *.tanusbooks.com
 *.taqwaprinters.com
 *.tarabuhagiar.com
 *.tardimed.com
 *.tarficsafety.com
 *.tascareaga.com
-*.taskole.com
 *.tasmanrevival.com
 *.tastequery.com
 *.tatouagefemme.eu
-*.tatthopunzo.com
 *.tattoocapilar.com
 *.taxexemptconsultants.com
 *.taxi-moto-paris.net
@@ -6100,7 +5835,6 @@
 *.tecni-soft.com
 *.tecnoconsulting.cl
 *.tecnowaresolutions.com
-*.tecnoyar.com
 *.tecrux.net
 *.tecruxglobal.com
 *.tedlogisticinc.com
@@ -6124,7 +5858,6 @@
 *.tennesseescholars.org
 *.tennislifemag.com
 *.tenshimarketing.com
-*.tepor.it
 *.terbaru-2023.com
 *.tercihvana.com
 *.terelesterapia.hu
@@ -6133,17 +5866,14 @@
 *.tesanopalacehostel.com
 *.tesscastleman.com
 *.test-hf.su
-*.teuwebsite.com
 *.texsteelcarports.com
 *.textileexpert.net
 *.texttospeechconverter.com
 *.tfciltd.com
 *.tgagua.mx
-*.tgcinternational.net
 *.tgehb.pl
 *.tgibrokers.com
 *.thanhhoangchauhotel.com
-*.thanhlapweb.com
 *.thatcookeveryday.com
 *.thatnextstepafrica.org
 *.the-columnist.net
@@ -6165,7 +5895,6 @@
 *.thedoctorsgym.net
 *.thedreamdegree.com
 *.thefastestcard.com
-*.thefortivpn.com
 *.thegoldenmart.com
 *.thegryphonsden.ca
 *.thehawksden.ca
@@ -6219,7 +5948,6 @@
 *.timondoo.com
 *.tingfaherz.cf
 *.tinhoccondao.com
-*.tinsignsnmore.com
 *.tintin.coffee
 *.tiokickrenimb.cf
 *.tionusquitrissub.cf
@@ -6241,7 +5969,6 @@
 *.tmalltbw.com
 *.tmglawpalawan.com
 *.tng24.com
-*.tnkdeals.com
 *.tntevent.vn
 *.toaevents.al
 *.tobbypet.cl
@@ -6251,7 +5978,6 @@
 *.toenchen-und-herrschmidt.de
 *.tokoalkes-online.com
 *.tomming.us
-*.toolstechs.com
 *.top360digitalmedia.com
 *.topaffiliates.live
 *.topclassenglish.com
@@ -6278,11 +6004,11 @@
 *.trackmarketing.net
 *.tradeinsights.net
 *.tradesspots.com
+*.trafuniq.space
 *.trainersground.com
 *.trakyagunesteknik.com
 *.transeca.mx
 *.transledger.io
-*.transportescsc.com
 *.transportesevaristomadero.com
 *.transportwojtowicz.pl
 *.timeline.transversallearning.com
@@ -6336,7 +6062,6 @@
 *.tuquy.com
 *.turftextile.com
 *.tutoken.cl
-*.tutorialadda.com
 *.tuuups.pl
 *.tuzlanskimaraton.com
 *.tvelwithseth.com
@@ -6347,7 +6072,6 @@
 *.twintrick.com
 *.twizt.net
 *.tyabji.net
-*.tyg.cl
 *.test.typoten.com
 *.u-security.mx
 *.uaesportscarrental.com
@@ -6390,7 +6114,7 @@
 *.uniformescorporativos.com
 *.test.uniformmarkets.com
 *.unikrobot.com
-*.unimerfertilizzanti.it
+*.unioneterna.com
 *.uniquecolleges.com
 *.uniquepainters.in
 *.uniqueschoolbetul.com
@@ -6425,9 +6149,7 @@
 *.siainsurance.us.com
 *.usa-puravive-official.com
 *.usaproductsforsale.shop
-*.uscellularco.com
 *.uscreditfixers.com
-*.usenata.com
 *.uslawyersdb.com
 *.usmanahmad.com
 *.usmaniawari.com
@@ -6442,7 +6164,6 @@
 *.valebarqueiros.pt
 *.validdream.org
 *.vallepal.cl
-*.value-studio.com
 *.valuegentsware.com
 *.vancleefinc.com
 *.maineorsantafe.vanessamota.com
@@ -6451,8 +6172,6 @@
 *.vape-resource.com
 *.vaqutauxfamily-fanclub.com
 *.vatra-satului.ro
-*.vawmax.com
-*.vbglimited.com
 *.vdrone.ro
 *.vectribeagency.com
 *.vedetaavon.ro
@@ -6489,7 +6208,6 @@
 *.vietlegal.us
 *.vietsportscience.com
 *.viewcast.tv
-*.vigsecol.com
 *.vijayawadasrajugariruchulu.com
 *.villaartwork.com
 *.villadsen4x4.dk
@@ -6519,7 +6237,6 @@
 *.vitorcorrea.com
 *.vivdista.com
 *.viveaskin.com
-*.vivekwp.com
 *.sos.vivi.sg
 *.vividrriver.pw
 *.vizvaz.com
@@ -6547,7 +6264,6 @@
 *.vozimx.site
 *.vpner.cc
 *.vptriathlon.com
-*.hr2019.vrcom7.com
 *.vrgavaras.com
 *.vrlmoverspackersmumbai.in
 *.vs.gy
@@ -6565,6 +6281,7 @@
 *.wahahsolutions.net
 *.wajihaattique.com
 *.waldorfenergy.com
+*.walkindrivetoday.com
 *.walkinglate.com
 *.walletdappfixed.net
 *.wallysgarageandtowing.com
@@ -6580,8 +6297,6 @@
 *.mazsina.warszawa.pl
 *.warungsatekeluarga.com
 *.was-col.com
-*.watchsports.wine
-*.waterproofing24.pk
 *.waterproofingexperts.pk
 *.waterproofingservices.pk
 *.wavefront.pe
@@ -6622,7 +6337,6 @@
 *.whitecatcorn.com
 *.whitehouseline.com
 *.whoareyoukidshoes.com
-*.wholechildren.org
 *.whtjz.com
 *.5oakd.wileyfoxcelullares.motorcycles
 *.a3abj.wileyfoxcelullares.motorcycles
@@ -6664,11 +6378,11 @@
 *.worldsino.hk
 *.worldwidecollection.net
 *.wozialads.com
+*.wpacindia.com
 *.wpcapitalguru.com
 *.wpconversionking.com
 *.wpinsight.in
 *.wrieducation.com
-*.wrightway.ae
 *.wsipv6.com
 *.wwwplkt.pl
 *.wycieczkihurghadaimarsaalam.com
@@ -6682,7 +6396,6 @@
 *.ir.xevcsau.wiki
 *.xiangshunjy.com
 *.ximenacastillo.com
-*.xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
 *.xn--80acujtctd.xn--p1ai
 *.xn--mgbtf4g.com
 *.xochoble.com
@@ -6691,17 +6404,14 @@
 *.xtractis.us
 *.xtremefrenchbulldogs.com
 *.xuezha.cn
-*.xuyentri.com
 *.xv-fiesta.com
 *.xxuz.com
 *.yakislar.com
-*.yamaclis.com
 *.yanglaopt.net
 *.yangpaling.com
 *.yanisite.com
 *.github.yanqishui.work
 *.yare.africa
-*.yaseenahmed.com
 *.yasinallc.com
 *.yasinayvaz.com
 *.ycxrl.com
@@ -6754,7 +6464,6 @@
 *.zamilcp.com
 *.zamned17.xyz
 *.zamzamhotelbatu.com
-*.zaofisa.net
 *.zap-webspace.com
 *.zarbafeh.shop
 *.zateghar.com
@@ -6774,7 +6483,6 @@
 *.zhedwe.top
 *.zhzy999.net
 *.zindaghi.com
-*.zisafsolutions.com
 *.ziumba.pl
 *.zjc.bz
 *.zkaccountants.com
